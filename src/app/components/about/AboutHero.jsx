@@ -17,7 +17,7 @@ export default function AboutHero() {
         playsInline
         className="absolute inset-0 h-full w-full object-cover"
       >
-        <source src="/about/hero.mp4" type="video/mp4" />
+        <source src="/about/heros.mp4" type="video/mp4" />
       </video>
 
       {/* Overlay */}

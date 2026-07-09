@@ -16,11 +16,11 @@ export default function BlogsPage() {
       <section className="relative h-[420px] overflow-hidden">
 
         <Image
-          src="/blog-banner.webp"
+          src="/blogg.jpg"
           fill
           priority
           alt="Blog"
-          className="object-cover"
+          className="object-cover object-top"
         />
 
         <div className="absolute inset-0 bg-black/65" />
