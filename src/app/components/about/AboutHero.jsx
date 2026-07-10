@@ -6,7 +6,7 @@ import { IoChevronForward } from "react-icons/io5";
 
 export default function AboutHero() {
   return (
-    <section className="relative h-[430px] overflow-hidden">
+    <section className="relative h-[300px] md:h-[430px] overflow-hidden">
 
       {/* Background Video */}
 

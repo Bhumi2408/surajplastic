@@ -101,7 +101,7 @@ export default function ProductsPage() {
 
             <section className="bg-[#F8FAFC] py-16">
 
-                <div className="mx-auto max-w-[1500px] px-6">
+                <div className="mx-auto max-w-[1500px] px-3 md:px-6">
 
                     <div className="mb-10 text-center">
 

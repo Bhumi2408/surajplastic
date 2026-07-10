@@ -91,7 +91,7 @@ const products = [
 
 export default function Industry() {
   return (
-    <section className="bg-[#f7f7f7] py-12">
+    <section className="bg-[#f7f7f7] py-12 overflow-hidden">
       <div className="px-6">
         <h2 className="font-baloo text-center text-[40px] leading-10 font-semibold text-[#334d6e]">
           Versatile PET Bottle Solutions <br />

@@ -22,8 +22,10 @@ import {
   FaComments,
   FaHeadset,
   FaFlag,
-  FaPlus, FaMinus,
-  FaArrowRightLong, FaPhoneVolume,
+  FaPlus,
+  FaMinus,
+  FaArrowRightLong,
+  FaPhoneVolume,
 } from "react-icons/fa6";
 
 const features = [
@@ -222,7 +224,7 @@ const faqs = [
 ];
 
 const SEOContent = () => {
-    const [active, setActive] = useState(0);
+  const [active, setActive] = useState(0);
   return (
     <>
       <section className="bg-[#f8fafc] py-10">
@@ -326,7 +328,9 @@ const SEOContent = () => {
               </h2>
 
               <p className="mt-5 font-urbanist text-[#5A6474]">
-                Buyers setting up a packaged drinking water (PDW) or mineral water plant have specific needs. Here is how our machines meet them:
+                Buyers setting up a packaged drinking water (PDW) or mineral
+                water plant have specific needs. Here is how our machines meet
+                them:
               </p>
             </div>
 
@@ -361,25 +365,25 @@ const SEOContent = () => {
             </h2>
 
             <p className="mx-auto mt-3 max-w-4xl text-center font-urbanist text-[#5A6474]">
-             Our <a href="/contact-us" className="font-semibold text-[#2D6BFF]">water bottle making machines</a> are used by:
+              Our{" "}
+              <a href="/contact-us" className="font-semibold text-[#2D6BFF]">
+                water bottle making machines
+              </a>{" "}
+              are used by:
             </p>
 
-            <div className="mt-8 grid grid-cols-2 gap-6 md:grid-cols-3 xl:grid-cols-5">
+            <div className="mt-8 grid grid-cols-2 gap-2 md:gap-6 md:grid-cols-3 xl:grid-cols-5">
               {industries.map((item) => (
                 <div
                   key={item.title}
-                  className="rounded-2xl border border-[#E5E7EB] bg-white p-8 text-center transition duration-300 hover:-translate-y-2 hover:border-[#CB6801] hover:shadow-xl"
+                  className="rounded-2xl border border-[#E5E7EB] bg-white p-4 md:p-8 text-center transition duration-300 hover:-translate-y-2 hover:border-[#CB6801] hover:shadow-xl"
                 >
                   <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-full bg-[#CB6801] text-3xl text-white">
                     {item.icon}
                   </div>
 
-                  <h3 className="mt-4 font-baloo text-lg">
-                    {item.title}
-                  </h3>
-                  <p className="mt-2 font-baloo ">
-                    {item.description}
-                  </p>
+                  <h3 className="mt-4 font-baloo text-lg">{item.title}</h3>
+                  <p className="mt-2 font-baloo ">{item.description}</p>
                 </div>
               ))}
             </div>
@@ -387,178 +391,142 @@ const SEOContent = () => {
         </div>
       </section>
       <section className="bg-white py-14">
+        <div className="mx-auto max-w-[1300px] px-6">
+          <div className="text-center">
+            <h2 className="mt-3 font-baloo text-[30px] font-semibold">
+              Our Values — What We Stand For
+            </h2>
+          </div>
 
-      <div className="mx-auto max-w-[1300px] px-6">
+          <div className="relative mt-10">
+            {/* Vertical Line */}
 
-        <div className="text-center">
+            <div className="absolute left-8 top-0 h-full w-[2px] bg-[#CB6801]/20" />
 
+            {values.map((item, index) => (
+              <div key={index} className="relative mb-7 flex gap-8 last:mb-0">
+                {/* Circle */}
 
-          <h2 className="mt-3 font-baloo text-[30px] font-semibold">
-            Our Values — What We Stand For
-          </h2>
-
-        </div>
-
-        <div className="relative mt-10">
-
-          {/* Vertical Line */}
-
-          <div className="absolute left-8 top-0 h-full w-[2px] bg-[#CB6801]/20" />
-
-          {values.map((item, index) => (
-
-            <div
-              key={index}
-              className="relative mb-7 flex gap-8 last:mb-0"
-            >
-
-              {/* Circle */}
-
-              <div className="relative z-10 flex h-14 w-14 shrink-0 items-center justify-center rounded-full bg-[#CB6801] text-2xl text-white shadow-lg">
-
-                {item.icon}
-
-              </div>
-
-              {/* Content */}
-
-              <div className="pt-2">
-
-                <h3 className="font-baloo text-[20px] font-semibold text-[#14345D]">
-                  {item.title}
-                </h3>
-
-                <p className="mt-3 font-urbanist text-[#5A6474]">
-                  {item.description}
-                </p>
-
-              </div>
-
-            </div>
-
-          ))}
-
-        </div>
-
-      </div>
-
-    </section>
-     <section className="bg-[#F8FAFC] py-10">
-      <div className="mx-auto max-w-[1200px] px-6">
-
-        <div className="text-center">
-
-          <h2 className="mt-3 font-baloo text-[30px] font-semibold">
-            Frequently Asked Questions
-          </h2>
-
-        </div>
-
-        <div className="mt-10 space-y-3">
-
-          {faqs.map((faq, index) => (
-            <div
-              key={index}
-              className="overflow-hidden rounded-2xl border border-gray-200 bg-white"
-            >
-              <button
-                onClick={() =>
-                  setActive(active === index ? -1 : index)
-                }
-                className="flex w-full items-center justify-between px-6 py-3 text-left transition hover:bg-[#FFF8F3]"
-              >
-                <h3 className="pr-5 font-baloo text-[20px] font-semibold text-[#14345D]">
-                  Q{index + 1}. {faq.question}
-                </h3>
-
-                <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-[#CB6801] text-white">
-                  {active === index ? <FaMinus /> : <FaPlus />}
+                <div className="relative z-10 flex h-14 w-14 shrink-0 items-center justify-center rounded-full bg-[#CB6801] text-2xl text-white shadow-lg">
+                  {item.icon}
                 </div>
-              </button>
 
-              <div
-                className={`grid transition-all duration-500 ${
-                  active === index
-                    ? "grid-rows-[1fr]"
-                    : "grid-rows-[0fr]"
-                }`}
-              >
-                <div className="overflow-hidden">
-                  <p className="border-t border-gray-100 px-6 py-3 font-urbanist text-[#5A6474]">
-                    {faq.answer}
+                {/* Content */}
+
+                <div className="pt-2">
+                  <h3 className="font-baloo text-[20px] font-semibold text-[#14345D]">
+                    {item.title}
+                  </h3>
+
+                  <p className="mt-3 font-urbanist text-[#5A6474]">
+                    {item.description}
                   </p>
                 </div>
               </div>
+            ))}
+          </div>
+        </div>
+      </section>
+      <section className="bg-[#F8FAFC] py-10">
+        <div className="mx-auto max-w-[1200px] px-6">
+          <div className="text-center">
+            <h2 className="mt-3 font-baloo text-[30px] font-semibold">
+              Frequently Asked Questions
+            </h2>
+          </div>
 
-            </div>
-          ))}
+          <div className="mt-10 space-y-3">
+            {faqs.map((faq, index) => (
+              <div
+                key={index}
+                className="overflow-hidden rounded-2xl border border-gray-200 bg-white"
+              >
+                <button
+                  onClick={() => setActive(active === index ? -1 : index)}
+                  className="flex w-full items-center justify-between px-6 py-3 text-left transition hover:bg-[#FFF8F3]"
+                >
+                  <h3 className="pr-5 font-baloo text-[20px] font-semibold text-[#14345D]">
+                    Q{index + 1}. {faq.question}
+                  </h3>
 
+                  <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-[#CB6801] text-white">
+                    {active === index ? <FaMinus /> : <FaPlus />}
+                  </div>
+                </button>
+
+                <div
+                  className={`grid transition-all duration-500 ${
+                    active === index ? "grid-rows-[1fr]" : "grid-rows-[0fr]"
+                  }`}
+                >
+                  <div className="overflow-hidden">
+                    <p className="border-t border-gray-100 px-6 py-3 font-urbanist text-[#5A6474]">
+                      {faq.answer}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+      <section className="relative overflow-hidden bg-[#14345D] py-10">
+        {/* Background Pattern */}
+
+        <div className="absolute inset-0 opacity-10">
+          <div className="h-full w-full bg-[radial-gradient(circle_at_center,white_1px,transparent_1px)] [background-size:28px_28px]" />
         </div>
 
-      </div>
-    </section>
-    <section className="relative overflow-hidden bg-[#14345D] py-10">
+        <div className="relative z-10 mx-auto max-w-[1300px] px-6 text-center">
+          <h2 className="mt-4 font-baloo text-[20px] font-semibold leading-tight text-white lg:text-[30px]">
+            Talk to India’s Trusted Water Bottle Making Machine Manufacturer
+          </h2>
 
-      {/* Background Pattern */}
-
-      <div className="absolute inset-0 opacity-10">
-        <div className="h-full w-full bg-[radial-gradient(circle_at_center,white_1px,transparent_1px)] [background-size:28px_28px]" />
-      </div>
-
-      <div className="relative z-10 mx-auto max-w-[1300px] px-6 text-center">
-
-
-        <h2 className="mt-4 font-baloo text-[20px] font-semibold leading-tight text-white lg:text-[30px]">
-          Talk to India’s Trusted Water Bottle Making Machine Manufacturer
-        </h2>
-
-        <p className="mx-auto mt-5 max-w-5xl font-urbanist text-lg text-white/90">
-          Talk to India’s Trusted Water Bottle Making Machine Manufacturer
-        </p>
-
-        <div className="mt-12 flex flex-col items-center justify-center gap-5 sm:flex-row">
-
-          <Link
-            href="/contact-us"
-            className="group relative inline-flex h-14 items-center justify-center overflow-hidden rounded-full bg-[#CB6801] px-10 font-urbanist font-bold text-white"
-          >
-            <span className="relative z-10 flex items-center gap-3">
-              Request a Quote
-              <FaArrowRightLong />
-            </span>
-
-            <span className="absolute left-1/2 top-1/2 h-0 w-0 -translate-x-1/2 -translate-y-1/2 rounded-full bg-[#1A3E73] transition-all duration-500 group-hover:h-[250px] group-hover:w-[250px]" />
-          </Link>
-
-          <Link
-            href="tel:+919871494249"
-            className="group relative inline-flex h-14 items-center justify-center overflow-hidden rounded-full border-2 border-white px-10 font-urbanist font-bold text-white"
-          >
-            <span className="relative z-10 flex items-center gap-3">
-              <FaPhoneVolume />
-              Call Now
-            </span>
-
-            <span className="absolute left-1/2 top-1/2 h-0 w-0 -translate-x-1/2 -translate-y-1/2 rounded-full bg-[#CB6801] transition-all duration-500 group-hover:h-[250px] group-hover:w-[250px]" />
-          </Link>
-
-        </div>
-
-        <div className="mt-12 border-t border-white/20 pt-10">
-
-          <p className="font-baloo text-[22px] text-white">
-            Suraj Plastic Industries
+          <p className="mx-auto mt-5 max-w-5xl font-urbanist text-lg text-white/90">
+            Talk to India’s Trusted Water Bottle Making Machine Manufacturer
           </p>
 
-          <p className="mt-3 font-urbanist text-[18px] leading-8 text-white/80">
-          <a href="/contact-us" className="font-bold">Mineral Water Bottle Making Machine Manufacturer</a> | Water Bottle Making Machine Manufacturer | PET Stretch Blow Moulding Machines | New Delhi, India | Since 1982
-          </p>
+          <div className="mt-12 flex flex-col items-center justify-center gap-5 sm:flex-row">
+            <Link
+              href="/contact-us"
+              className="group relative inline-flex h-14 items-center justify-center overflow-hidden rounded-full bg-[#CB6801] px-10 font-urbanist font-bold text-white"
+            >
+              <span className="relative z-10 flex items-center gap-3">
+                Request a Quote
+                <FaArrowRightLong />
+              </span>
 
+              <span className="absolute left-1/2 top-1/2 h-0 w-0 -translate-x-1/2 -translate-y-1/2 rounded-full bg-[#1A3E73] transition-all duration-500 group-hover:h-[250px] group-hover:w-[250px]" />
+            </Link>
+
+            <Link
+              href="tel:+919871494249"
+              className="group relative inline-flex h-14 items-center justify-center overflow-hidden rounded-full border-2 border-white px-10 font-urbanist font-bold text-white"
+            >
+              <span className="relative z-10 flex items-center gap-3">
+                <FaPhoneVolume />
+                Call Now
+              </span>
+
+              <span className="absolute left-1/2 top-1/2 h-0 w-0 -translate-x-1/2 -translate-y-1/2 rounded-full bg-[#CB6801] transition-all duration-500 group-hover:h-[250px] group-hover:w-[250px]" />
+            </Link>
+          </div>
+
+          <div className="mt-12 border-t border-white/20 pt-10">
+            <p className="font-baloo text-[22px] text-white">
+              Suraj Plastic Industries
+            </p>
+
+            <p className="mt-3 font-urbanist text-[18px] leading-8 text-white/80">
+              <a href="/contact-us" className="font-bold">
+                Mineral Water Bottle Making Machine Manufacturer
+              </a>{" "}
+              | Water Bottle Making Machine Manufacturer | PET Stretch Blow
+              Moulding Machines | New Delhi, India | Since 1982
+            </p>
+          </div>
         </div>
-
-      </div>
-
-    </section>
+      </section>
     </>
   );
 };

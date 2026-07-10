@@ -68,7 +68,7 @@ const page = () => {
             across the world.
           </p>
 
-          <h3 className="mt-10 font-baloo text-[40px] font-semibold text-[#CB6801]">
+          <h3 className="mt-10 font-baloo text-[30px] md:text-[40px] font-semibold text-[#CB6801]">
             Submit Your Details
           </h3>
 

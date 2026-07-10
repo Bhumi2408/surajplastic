@@ -20,13 +20,13 @@ export default function Hero() {
       {/* Content */}
       <div className="relative z-10 mx-auto flex h-full max-w-7xl items-center text-center md:text-left">
         <div className="max-w-3xl md:pl-10 lg:pl-0">
-          <h1 className="font-montserrat text-3xl font-semibold leading-10 text-white md:text-5xl lg:text-[45px] lg:leading-[52px]">
+          <h1 className="font-montserrat text-2xl font-semibold leading-10 text-white md:text-5xl lg:text-[45px] lg:leading-[52px]">
             Engineering Excellence in PET
             <br />
             Stretch Blow Moulding
           </h1>
 
-          <p className="mt-5 max-w-3xl font-lato text-base md:text-lg leading-7 text-white/95">
+          <p className="mt-5 max-w-3xl font-lato text-base md:text-lg leading-7 text-white/95 px-2 lg:px-0">
             Our PET Stretch Blow Moulding machines are engineered to deliver
             superior performance, precision, and production efficiency. Designed
             with advanced heating, controlled stretching, and high-pressure
