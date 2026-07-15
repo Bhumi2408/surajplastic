@@ -28,6 +28,20 @@ export default function BlogRenderer({ content = [] }) {
               </h3>
             );
 
+             case "h4":
+            return (
+              <h4 key={index} className="font-baloo text-2xl text-[#13233B]">
+                {block.text}
+              </h4>
+            );
+
+            case "h5":
+            return (
+              <h5 key={index} className="font-baloo text-xl text-[#13233B]">
+                {block.text}
+              </h5>
+            );
+
           case "paragraph":
             return (
               <p key={index} className="text-[17px] leading-9 text-gray-700">
