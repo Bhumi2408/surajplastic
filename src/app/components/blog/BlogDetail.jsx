@@ -5,8 +5,16 @@ import BlogRenderer from "./BlogRenderer";
 export default function BlogDetail({ blog }) {
   return (
     <>
-      {/* HERO */}
+      {/* Schema Markup - only renders if blog.schema exists */}
+      {blog.schema?.map((schemaItem, index) => (
+        <script
+          key={index}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaItem) }}
+        />
+      ))}
 
+      {/* HERO */}
       <section className="relative h-[520px] overflow-hidden">
 
         <Image
@@ -17,7 +25,7 @@ export default function BlogDetail({ blog }) {
           className="object-cover"
         />
 
-        <div className="absolute inset-0 bg-black/65" />
+        <div className="absolute inset-0 bg-black/70" />
 
         <div className="absolute inset-0 flex items-center">
 

@@ -7,7 +7,7 @@ export default function BlogCard({ blog }) {
 
       <Link href={`/${blog.slug}`}>
 
-        <div className="relative h-[300px] overflow-hidden">
+        <div className="relative h-[230px] overflow-hidden">
 
           <Image
             src={blog.image}
