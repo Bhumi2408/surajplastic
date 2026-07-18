@@ -6,7 +6,7 @@ export const products = [
 
     slug: "semi-automatic-stretch-blow-moulding-machine",
 
-    name: "Semi Automatic Stretch Blow Moulding Machine Manufacturer",
+    name: "Semi Automatic Stretch Blow Moulding Machine ",
 
     heroImage: "/bg.jpg",
 
@@ -17,13 +17,13 @@ export const products = [
     // ==========================================
 
     metaTitle:
-      "Best Semi Automatic Stretch Blow Moulding Machine in India",
+      "Best Semi Automatic Stretch Blow Moulding Machine in Delhi | Suraj Plastic Industries",
 
     metaDescription:
       "Buy a high-quality Semi Automatic Stretch Blow Moulding Machine from Suraj Plastic Industries. Energy-efficient, durable PET bottle making machines with reliable performance and after-sales support.",
 
     keywords:
-      "semi automatic stretch blow moulding machine, pet bottle making machine, bottle blowing machine",
+      "Semi Automatic Stretch Blow Moulding Machine, Semi Automatic Stretch Blow Moulding Machine Manufacturer, Semi Automatic Stretch Blow Moulding Machine manufacturer in Delhi ",
 
     // ==========================================
     // OVERVIEW
@@ -44,6 +44,11 @@ export const products = [
     // ==========================================
 
     seo: [
+      {
+        type: "h3",
+        text: "Best Semi Automatic Stretch Blow Moulding Machine Manufacturer from Suraj Plastic Industries",
+      },
+
       {
         type: "paragraph",
         content: [
@@ -620,594 +625,11 @@ export const products = [
         text: "For businesses entering the PET bottle manufacturing industry, these machines offer the ideal combination of performance and value.",
       },
 
-      {
-        type: "h4",
-        text: "Best Semi Automatic Stretch Blow Moulding Machine Manufacturer from Suraj Plastic Industries",
-      },
-
-      {
-        type: "paragraph",
-        content: [
-          {
-            text: "If you are looking for a reliable and affordable way to start making PET bottles in India, you have come to the right place. Suraj Plastic Industries has been manufacturing ",
-          },
-          {
-            text: "semi automatic stretch blow moulding machine",
-            link: "/contact-us", // ✅ lowercase
-            bold: true,          // optional
-          },
-          {
-            text: " manufacturer since 1982 — and today, more than 3000 machines are successfully running across the country.",
-          },
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "On this page, you will understand exactly what this machine is, how it works, and whether it is the right fit for your business.",
-      },
-
-      {
-        type: "h2",
-        text: "What Is a Semi Automatic Stretch Blow Moulding Machine?",
-      },
-
-      {
-        type: "paragraph",
-        content: [
-          {
-            text: "In simple words, a ",
-          },
-          {
-            text: "Semi Automatic Stretch Blow Moulding Machine",
-            bold: true,
-          },
-          {
-            text: " takes a PET preform and converts it into a finished PET bottle through a heating, stretching, and blowing process.",
-          },
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "Here is how the process works, step by step:",
-      },
-
-      {
-        type: "checklist",
-        items: [
-          [
-            {
-              text: "The operator loads the preform – ",
-              bold: true,
-            },
-            {
-              text: "manually, which is why it is called “semi automatic”.",
-            },
-          ],
-
-          [
-            {
-              text: "The machine heats the preform – ",
-              bold: true,
-            },
-            {
-              text: "using an infrared heating system.",
-            },
-          ],
-
-          [
-            {
-              text: "Stretching happens – ",
-              bold: true,
-            },
-            {
-              text: "the preform is stretched lengthwise.",
-            },
-          ],
-
-          [
-            {
-              text: "Blowing happens – ",
-              bold: true,
-            },
-            {
-              text: "high pressure air pushes the plastic into the shape of the bottle.",
-            },
-          ],
-
-          [
-            {
-              text: "A finished bottle comes out – ",
-              bold: true,
-            },
-            {
-              text: "clear, strong, and perfectly shaped",
-            },
-          ],
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "The whole process takes just a few seconds. The operator only needs to load the preform — the machine handles everything else on its own.",
-      },
-
-      {
-        type: "h4",
-        text: "Who Is This Machine Best For?",
-      },
-
-      {
-        type: "paragraph",
-        content: [
-          {
-            text: "This ",
-          },
-          {
-            text: "Semi Automatic Stretch Blow Moulding Machine",
-            bold: true,
-          },
-          {
-            text: " is ideal for people who:",
-          },
-        ],
-      },
-
-      {
-        type: "checklist",
-        items: [
-          [
-            { text: "Are ", bold: false },
-            { text: "starting a new business", bold: true },
-            { text: " in packaged drinking water or beverages." },
-          ],
-
-          [
-            { text: "Need ", bold: false },
-            { text: "small to medium scale production", bold: true },
-            { text: " (1000–1200 bottles per hour is enough)." },
-          ],
-
-          [
-            { text: "Want ", bold: false },
-            { text: "professional bottle quality", bold: true },
-            { text: " without a very high investment." },
-          ],
-
-          [
-            { text: "Are ", bold: false },
-            { text: "not yet ready", bold: true },
-            { text: " to invest in a fully automatic system." },
-          ],
-        ],
-      },
-
-      {
-        type: "paragraph",
-        content: [
-          {
-            text: "If you want to start a water bottle business from a small factory or shed, a ",
-          },
-          {
-            text: "Semi Automatic Stretch Blow Moulding Machine",
-            bold: true,
-            link: "/semi-automatic-stretch-blow-moulding-machine",
-          },
-          {
-            text: " is designed exactly for you.",
-          },
-        ],
-      },
-
-      {
-        type: "h2",
-        text: "Where Is This Machine Used?",
-      },
-
-      {
-        type: "paragraph",
-        content: [
-          {
-            text: "Packaged Drinking Water Plants",
-            bold: true,
-          },
-        ],
-      },
-
-      {
-        type: "paragraph",
-        content: [
-          {
-            text: "The ",
-          },
-          {
-            text: "Semi Automatic Stretch Blow Moulding Machine Manufacturer",
-            bold: true,
-          },
-          {
-            text: " is widely used for manufacturing 500 ml, 1 litre, and 2 litre PET water bottles.",
-          },
-        ],
-      },
-
-      {
-        type: "paragraph",
-        content: [
-          {
-            text: "Juice and Beverage Companies",
-            bold: true,
-          },
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "From mango juice to energy drinks — PET bottles for all kinds of beverages can be produced here",
-      },
-
-      {
-        type: "paragraph",
-        content: [
-          {
-            text: "Edible Oil Packaging",
-            bold: true,
-          },
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "Transparent, food-grade cooking oil bottles with strong walls — this machine handles them perfectly.",
-      },
-
-      {
-        type: "paragraph",
-        content: [
-          {
-            text: "Cosmetics and Personal Care",
-            bold: true,
-          },
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "Shampoo, lotion, face wash bottles — lightweight and attractive PET containers made with ease.",
-      },
-
-      {
-        type: "paragraph",
-        content: [
-          {
-            text: "Pharma and Healthcare Products",
-            bold: true,
-          },
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "Medicine syrups, health supplements — clean and accurate PET containers are a must here, and this machine delivers exactly that.",
-      },
-
-      {
-        type: "h4",
-        text: "Technical Specifications",
-      },
-
-      {
-        type: "comparison",
-
-        headers: [
-          "Feature",
-          "Detail",
-        ],
-
-        rows: [
-
-          [
-            "Bottle Size Range",
-            "50-3000ml B/jar",
-          ],
-
-          [
-            "Production Output",
-            "700 BPH/ 450j/h",
-          ],
-
-          [
-            "Raw Material",
-            "PET Preforms",
-          ],
-
-          [
-            "Heater Type",
-            "I.R Rotary",
-          ],
-
-          [
-            "Operation Type",
-            "hydro-PNEU",
-          ],
-
-          [
-            "Working Pressure",
-            "8 kg/cm²",
-          ],
-
-          [
-            "Blowing Pressure",
-            "22-25 kg/cm",
-          ],
-
-          [
-            "Staff Required",
-            "2 Person",
-          ],
-
-          [
-            "Area Required",
-            "2 mtr x 3.5 mtr",
-          ],
-
-          [
-            "Neck Dia",
-            "19-30mm",
-          ],
-
-          [
-            "Heater Power",
-            "7.5KW",
-          ],
-
-          [
-            "Air Consumption Machine",
-            "0.8 M/Min",
-          ],
-
-          [
-            "Clamping Stroke",
-            "200mm",
-          ],
-
-        ],
-      },
-
-      {
-        type: "quote",
-        text: "Production output may vary slightly depending on bottle size and design.",
-      },
-
-      {
-        type: "h4",
-        text: "Semi Automatic Stretch Blow Moulding Machine vs Fully Automatic Machine",
-      },
-
-      {
-        type: "paragraph",
-        text: "A lot of buyers get confused between these two. Here is a straight comparison:",
-      },
-
-      {
-        type: "comparison",
-
-        headers: [
-          "Parameter",
-          "Semi Automatic",
-          "Fully Automatic",
-        ],
-
-        rows: [
-
-          [
-            "Initial Cost",
-            "Lower",
-            "Higher",
-          ],
-
-          [
-            "Operators",
-            "2",
-            "Minimal or None",
-          ],
-
-          [
-            "Output",
-            "1000-1200 BPH",
-            "2000-6000+ BPH",
-          ],
-
-          [
-            "Best For",
-            "Small/Medium scale",
-            "Large scale production",
-          ],
-
-          [
-            "Setup",
-            "Simple and quick",
-            "Complex",
-          ],
-
-          [
-            "Maintenance",
-            "Easy",
-            "Requires technical expertise",
-          ],
-
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "If your daily production requirement is around 10,000–15,000 bottles — a semi automatic machine is more than enough, and it keeps your investment under control.",
-      },
-
-      {
-        type: "h4",
-        text: "Why Choose Suraj Plastic Industries?",
-      },
-
-      {
-        type: "paragraph",
-        content: [
-          {
-            text: "Suraj Plastic Industries ",
-            link: "/",
-            bold: true,
-          },
-          {
-            text: " is not just a marketing line. You should genuinely understand why a manufacturer survives and grows for 40+ years in a competitive industry.",
-          },
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "What gives our customers confidence:",
-      },
-
-      {
-        type: "checklist",
-        items: [
-          [
-            {
-              text: "Manufacturing since 1982",
-              bold: true,
-            },
-            {
-              text: " — when India’s PET bottle industry was just getting started.",
-            },
-          ],
-
-          [
-            {
-              text: "ISO 9001:2015 Certified",
-              bold: true,
-            },
-            {
-              text: " — quality processes officially verified.",
-            },
-          ],
-
-          [
-            {
-              text: "NSIC Recognized Manufacturer",
-              bold: true,
-            },
-            {
-              text: " — government registered, trusted supplier.",
-            },
-          ],
-
-          [
-            {
-              text: "3000+ machines delivered ",
-              bold: true,
-            },
-            {
-              text: " across India.",
-            },
-          ],
-
-          [
-            {
-              text: "Based in New Delhi",
-              bold: true,
-            },
-            {
-              text: " — easily accessible for most Indian states.",
-            },
-          ],
-
-          [
-            {
-              text: "Full installation support",
-              bold: true,
-            },
-            {
-              text: " — we do not just deliver the machine, we set it up for you.",
-            },
-          ],
-
-          [
-            {
-              text: "Operator training included",
-              bold: true,
-            },
-            {
-              text: " — your staff is trained hands-on.",
-            },
-          ],
-
-          [
-            {
-              text: "After-sales service",
-              bold: true,
-            },
-            {
-              text: " — we are available even after the machine is installed.",
-            },
-          ],
-        ],
-      },
-
-      {
-        type: "h4",
-        text: "What Results Do Our Customers See?",
-      },
-
-      {
-        type: "paragraph",
-        text: "Here is what customers regularly report after installing this machine:",
-      },
-
-      {
-        type: "checklist",
-        items: [
-          [
-            {
-              text: "Very low bottle rejection rate",
-              bold: true,
-            },
-            {
-              text: " — thanks to uniform wall thickness.",
-            },
-          ],
-
-          [
-            {
-              text: "Controlled power consumption",
-              bold: true,
-            },
-            {
-              text: " — the infrared heating system is energy efficient.",
-            },
-          ],
-
-          [
-            {
-              text: "Easy mould changes",
-              bold: true,
-            },
-            {
-              text: " — new bottle designs can be adopted quickly.",
-            },
-          ],
-
-          [
-            {
-              text: "Minimal downtime ",
-              bold: true,
-            },
-            {
-              text: "— robust build means the machine rarely breaks down.",
-            },
-          ],
-        ],
-      },
-
+      
+      
+
+      
+     
       {
         type: "h4",
         text: "Frequently Asked Questions (FAQs)",
@@ -1476,7 +898,7 @@ export const products = [
     // BASIC
     // ==========================================
 
-    slug: "auto-drop-pet-perform-stretch-blow-moulding-machine",
+    slug: "pet-jar-making-machine",
 
     name: "Auto Drop Pet Perform Stretch Blow Moulding Machine",
 
@@ -1489,8 +911,9 @@ export const products = [
     // ==========================================
 
     metaTitle:
-      "Auto Drop Pet Perform Stretch Blow Moulding Machine - Suraj Plastic Industries",
-
+      "Top Pet Jar Making Machine Manufacturer in Delhi | Suraj Plastic Industries",
+    metaDescription:"Buy high-speed Pet Jar Making Machine from Suraj Plastic Industries, a leading Pet Jar Making Machine Manufacturer in Delhi. 50ML–7000ML range. Get a free quote!",
+    keywords:"Pet Jar Making Machine, Pet Jar Making Machine Manufacturer in Delhi",
     // ==========================================
     // OVERVIEW
     // ==========================================
@@ -1503,6 +926,67 @@ export const products = [
       "Available in 2, 3, and 4 Cavity Configurations",
       "Hydro-Pneumatic Smooth Operation",
       "Supports 50 ML to 7000 ML Bottle / Jar Range",
+    ],
+
+    // ==========================================
+    // SEO CONTENT (before specification)
+    // ==========================================
+
+    seoBefore: [
+      {
+        type: "h3",
+        text: "Pet Jar Making Machine Manufacturer in Delhi",
+      },
+
+      {
+        type: "paragraph",
+        text: "Suraj Plastic Industries is a trusted Pet Jar Making Machine Manufacturer in Delhi, delivering high-performance stretch blow moulding machines engineered for consistent, high-speed production of PET jars and bottles. Our Pet Jar Making Machine is built with hydro-pneumatic technology, ensuring uniform wall thickness, crystal-clear finish, and reliable output — ideal for beverages, edible oil, cosmetics, household, chemical, and food packaging industries.",
+      },
+
+      {
+        type: "paragraph",
+        text: "With over 40 years of manufacturing expertise since 1982 and dedicated PET blow moulding experience since 1997, we are an ISO 9001:2015 certified company known for durable machines, minimal maintenance needs, and dependable after-sales support across India.",
+      },
+
+      {
+        type: "h2",
+        text: "Why Choose Our Pet Jar Making Machine?",
+      },
+
+      {
+        type: "list",
+        items: [
+          "High Production Speed – Up to 2400 bottles/jars per hour",
+          "Flexible Configuration – Available in 2, 3, and 4 cavity models",
+          "Wide Product Range Support – Manufactures jars and bottles from 50 ML to 7000 ML",
+          "Hydro-Pneumatic Operation – Smooth, stable, low-maintenance performance",
+          "Consistent Quality – Uniform wall thickness and clear finish on every jar",
+          "Low Manpower Requirement – Operates efficiently with just 2 staff members",
+          "Compact Footprint – Requires only 5m x 5m installation space",
+        ],
+      },
+
+      {
+        type: "h2",
+        text: "Applications of Our Pet Jar Making Machine",
+      },
+
+      {
+        type: "paragraph",
+        text: "Our Pet Jar Making Machines are widely used for manufacturing PET jars and containers for:",
+      },
+
+      {
+        type: "list",
+        items: [
+          "Edible oil and ghee packaging",
+          "Beverages and packaged drinking water",
+          "Cosmetics and personal care jars",
+          "Pharmaceutical and healthcare containers",
+          "Household and chemical product packaging",
+          "Food and confectionery jars",
+        ],
+      },
     ],
 
     specification: {
@@ -1627,6 +1111,176 @@ export const products = [
         ],
       ],
     },
+
+    // ==========================================
+    // SEO CONTENT (below specification)
+    // ==========================================
+
+    seo: [
+      {
+        type: "h3",
+        text: "Suraj Plastic Industries — A Reliable Pet Jar Making Machine Manufacturer in Delhi",
+      },
+
+      {
+        type: "paragraph",
+        text: "Located in Nangloi, New Delhi, Suraj Plastic Industries has been serving PET packaging manufacturers across Delhi NCR and India since 1982. As a leading Pet Jar Making Machine Manufacturer, we combine decades of engineering experience with modern hydro-pneumatic technology to deliver machines that are durable, efficient, and easy to operate. Our team offers complete support — from machine selection to installation, training, and spare parts service.",
+      },
+
+      {
+        type: "h4",
+        text: "Top 10 User Queries / FAQs (AEO-Optimized)",
+      },
+
+      {
+        type: "faq",
+        items: [
+          {
+            question: "What is a Pet Jar Making Machine used for?",
+            answer:
+              "A Pet Jar Making Machine is used to manufacture PET (Polyethylene Terephthalate) jars and containers through stretch blow moulding, commonly used for packaging edible oil, cosmetics, food, pharmaceuticals, and household products.",
+          },
+          {
+            question: "Who is the best Pet Jar Making Machine Manufacturer in Delhi?",
+            answer:
+              "Suraj Plastic Industries is a leading Pet Jar Making Machine Manufacturer in Delhi, with over 40 years of experience and ISO 9001:2015 certification, offering reliable and high-speed PET jar production machines.",
+          },
+          {
+            question: "What is the price of a Pet Jar Making Machine?",
+            answer:
+              "The price of a Pet Jar Making Machine varies based on cavity configuration, output capacity, and jar/bottle size range. Contact Suraj Plastic Industries directly for a customized quote based on your production needs.",
+          },
+          {
+            question: "What sizes of jars can be produced using this machine?",
+            answer:
+              "Our Pet Jar Making Machines can produce jars and bottles ranging from 50 ML to 7000 ML, depending on the selected model and cavity configuration.",
+          },
+          {
+            question: "How many jars can this machine produce per hour?",
+            answer:
+              "Depending on the model, our machines produce between 600 to 2400 bottles/jars per hour, offering flexibility for both small and large-scale production.",
+          },
+          {
+            question: "What is the difference between 2, 3, and 4 cavity Pet Jar Making Machines?",
+            answer:
+              "Cavity number refers to how many jars/bottles the machine produces per cycle. More cavities (e.g., 4 cavity) mean higher output per hour, while fewer cavities (2 cavity) suit lower-volume or larger jar production.",
+          },
+          {
+            question: "How much space and manpower is required to install this machine?",
+            answer:
+              "Our Pet Jar Making Machines require approximately 5 meters x 5 meters of floor space and can be operated efficiently with just 2 staff members.",
+          },
+          {
+            question: "What is hydro-pneumatic technology in a Pet Jar Making Machine?",
+            answer:
+              "Hydro-pneumatic technology combines hydraulic and pneumatic systems to ensure smooth, stable, and low-maintenance machine operation, resulting in consistent jar quality and reduced downtime.",
+          },
+          {
+            question: "Does Suraj Plastic Industries provide installation and after-sales support?",
+            answer:
+              "Yes, Suraj Plastic Industries provides complete support including machine installation guidance, operator training, spare parts, and after-sales service across Delhi NCR and India.",
+          },
+          {
+            question: "Is the Pet Jar Making Machine suitable for edible oil and food packaging?",
+            answer:
+              "Yes, our Pet Jar Making Machines are widely used for edible oil, food, beverages, cosmetics, and pharmaceutical packaging, as they ensure a clear finish and uniform wall thickness suitable for food-grade applications.",
+          },
+        ],
+      },
+    ],
+
+    // ==========================================
+    // FAQ SCHEMA
+    // ==========================================
+
+    schema: [
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is a Pet Jar Making Machine used for?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A Pet Jar Making Machine is used to manufacture PET (Polyethylene Terephthalate) jars and containers through stretch blow moulding, commonly used for packaging edible oil, cosmetics, food, pharmaceuticals, and household products.",
+            },
+          },
+          {
+            "@type": "Question",
+            "name": "Who is the best Pet Jar Making Machine Manufacturer in Delhi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Suraj Plastic Industries is a leading Pet Jar Making Machine Manufacturer in Delhi, with over 40 years of experience and ISO 9001:2015 certification, offering reliable and high-speed PET jar production machines.",
+            },
+          },
+          {
+            "@type": "Question",
+            "name": "What is the price of a Pet Jar Making Machine?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The price of a Pet Jar Making Machine varies based on cavity configuration, output capacity, and jar/bottle size range. Contact Suraj Plastic Industries directly for a customized quote based on your production needs.",
+            },
+          },
+          {
+            "@type": "Question",
+            "name": "What sizes of jars can be produced using this machine?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Our Pet Jar Making Machines can produce jars and bottles ranging from 50 ML to 7000 ML, depending on the selected model and cavity configuration.",
+            },
+          },
+          {
+            "@type": "Question",
+            "name": "How many jars can this machine produce per hour?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Depending on the model, our machines produce between 600 to 2400 bottles/jars per hour, offering flexibility for both small and large-scale production.",
+            },
+          },
+          {
+            "@type": "Question",
+            "name": "What is the difference between 2, 3, and 4 cavity Pet Jar Making Machines?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Cavity number refers to how many jars/bottles the machine produces per cycle. More cavities (e.g., 4 cavity) mean higher output per hour, while fewer cavities (2 cavity) suit lower-volume or larger jar production.",
+            },
+          },
+          {
+            "@type": "Question",
+            "name": "How much space and manpower is required to install this machine?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Our Pet Jar Making Machines require approximately 5 meters x 5 meters of floor space and can be operated efficiently with just 2 staff members.",
+            },
+          },
+          {
+            "@type": "Question",
+            "name": "What is hydro-pneumatic technology in a Pet Jar Making Machine?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Hydro-pneumatic technology combines hydraulic and pneumatic systems to ensure smooth, stable, and low-maintenance machine operation, resulting in consistent jar quality and reduced downtime.",
+            },
+          },
+          {
+            "@type": "Question",
+            "name": "Does Suraj Plastic Industries provide installation and after-sales support?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, Suraj Plastic Industries provides complete support including machine installation guidance, operator training, spare parts, and after-sales service across Delhi NCR and India.",
+            },
+          },
+          {
+            "@type": "Question",
+            "name": "Is the Pet Jar Making Machine suitable for edible oil and food packaging?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, our Pet Jar Making Machines are widely used for edible oil, food, beverages, cosmetics, and pharmaceutical packaging, as they ensure a clear finish and uniform wall thickness suitable for food-grade applications.",
+            },
+          },
+        ],
+      },
+    ],
 
   },
 

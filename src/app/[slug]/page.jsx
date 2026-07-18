@@ -85,12 +85,24 @@ export default async function Page({ params }) {
   if (product) {
     return (
       <>
+        {product.schema?.map((schemaItem, index) => (
+          <script
+            key={index}
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaItem) }}
+          />
+        ))}
+
         <Hero
           title={product.name}
           image={product.heroImage}
         />
 
         <ProductOverview product={product} />
+
+        {product.seoBefore?.length > 0 && (
+          <SeoRenderer content={product.seoBefore} />
+        )}
 
         {product.specification && (
           <Specification

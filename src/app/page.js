@@ -6,6 +6,7 @@ import Certified from "./components/Certified";
 import Services from "./components/Services";
 import Reviews from "./components/Reviews";
 import Bannerinfo from "./components/Bannerinfo";
+import Faq from "./components/Faq";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
     <Bannerinfo/>
     <Services/>
     <Reviews/>
+    <Faq/>
    </>
   );
 }

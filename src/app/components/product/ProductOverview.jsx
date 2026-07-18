@@ -25,9 +25,9 @@ export default function ProductOverview({ product }) {
         {/* CONTENT */}
 
         <div>
-          <h1 className="mt-5 font-baloo text-3xl font-semibold leading-tight text-[#13233B]">
+          <h2 className="mt-5 font-baloo text-3xl font-semibold leading-tight text-[#13233B]">
             {product.name}
-          </h1>
+          </h2>
 
           <div className="mt-2 space-y-3">
             {Array.isArray(product.shortDescription) ? (
