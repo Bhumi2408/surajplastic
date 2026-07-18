@@ -26,7 +26,7 @@ const menus = [
       },
       {
         name: "Auto Drop Pet Perform Stretch Blow Moulding Machine",
-        href: "/auto-drop-pet-perform-stretch-blow-moulding-machine",
+        href: "/pet-jar-making-machine",
       },
       {
         name: "Automatic Hand Feed Pet Perform Stretch Blow Moulding Machine",
