@@ -5,6 +5,8 @@ import {
   Montserrat,
 } from "next/font/google";
 
+import Script from "next/script";
+
 import "./globals.css";
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer";
@@ -64,6 +66,22 @@ export default function RootLayout({ children }) {
       className={`${baloo2.variable} ${urbanist.variable} ${lato.variable} ${montserrat.variable}`}
     >
       <body className="font-lato overflow-x-hidden">
+        {/* Google tag (gtag.js) */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-W96ZKH82SN"
+          strategy="afterInteractive"
+        />
+
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-W96ZKH82SN');
+          `}
+        </Script>
+
         <Header />
 
         <main>{children}</main>
