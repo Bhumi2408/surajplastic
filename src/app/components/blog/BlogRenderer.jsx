@@ -51,7 +51,13 @@ export default function BlogRenderer({ content = [] }) {
 
                       if (part.bold) {
                         element = (
-                          <strong className="font-semibold text-[#13233B]">
+                          <strong
+                            className={
+                              part.link
+                                ? "font-semibold"
+                                : "font-semibold text-[#13233B]"
+                            }
+                          >
                             {element}
                           </strong>
                         );
@@ -61,7 +67,7 @@ export default function BlogRenderer({ content = [] }) {
                         element = (
                           <Link
                             href={part.link}
-                            className="font-semibold text-[#CB6801] hover:underline"
+                            className="font-semibold text-[#8B4513] hover:underline"
                           >
                             {element}
                           </Link>
@@ -104,7 +110,11 @@ export default function BlogRenderer({ content = [] }) {
 
                             if (part.bold) {
                               el = (
-                                <strong className="text-[#13233B]">{el}</strong>
+                                <strong
+                                  className={part.link ? "" : "text-[#13233B]"}
+                                >
+                                  {el}
+                                </strong>
                               );
                             }
 
@@ -112,7 +122,7 @@ export default function BlogRenderer({ content = [] }) {
                               el = (
                                 <Link
                                   href={part.link}
-                                  className="font-semibold text-[#CB6801]"
+                                  className="font-semibold text-[#8B4513]"
                                 >
                                   {el}
                                 </Link>
