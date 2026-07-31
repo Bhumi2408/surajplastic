@@ -39,6 +39,7 @@ const montserrat = Montserrat({
 
 
 export const metadata = {
+  metadataBase: new URL("https://www.surajplasticindustries.com"),
 
   title: "Suraj Plastic Industries | Best Blow Moulding Machines Manufacturer",
 
@@ -49,6 +50,9 @@ export const metadata = {
     "Suraj Plastic Industries",
   ],
 
+  alternates: {
+    canonical: "/",
+  },
 
   icons: {
     icon: "/favicons.png",
