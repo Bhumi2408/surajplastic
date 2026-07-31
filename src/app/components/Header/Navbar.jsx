@@ -17,7 +17,7 @@ const menus = [
     dropdown: true,
     items: [
       {
-        name: "Pet Perform Stretch Blow Moulding Machine",
+        name: "Semi Automatic Stretch Blow Moulding Machine",
         href: "/semi-automatic-stretch-blow-moulding-machine",
       },
       {
@@ -25,7 +25,7 @@ const menus = [
         href: "/high-speed-pet-perform-stretch-blow-moulding-machine",
       },
       {
-        name: "Auto Drop Pet Perform Stretch Blow Moulding Machine",
+        name: "Pet Jar Making Machine",
         href: "/pet-jar-making-machine",
       },
       {

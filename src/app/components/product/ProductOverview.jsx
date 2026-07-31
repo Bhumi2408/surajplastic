@@ -4,6 +4,43 @@ import Image from "next/image";
 import Link from "next/link";
 import { FaCheckCircle } from "react-icons/fa";
 
+// ==========================================
+// Mini markdown-like parser: **bold** and [text](/link)
+// ==========================================
+
+function renderFormattedText(text) {
+  if (!text) return null;
+
+  // Splits string but keeps the matched **bold** and [text](link) tokens
+  const regex = /(\*\*.*?\*\*|\[.*?\]\(.*?\))/g;
+  const parts = text.split(regex).filter((part) => part !== "");
+
+  return parts.map((part, i) => {
+    // Bold: **text**
+    if (part.startsWith("**") && part.endsWith("**")) {
+      return <strong key={i} className="font-bold text-[#CB6801]">{part.slice(2, -2)}</strong>;
+    }
+
+    // Link: [text](/url)
+    const linkMatch = part.match(/^\[(.*)\]\((.*)\)$/);
+    if (linkMatch) {
+      const [, linkText, linkHref] = linkMatch;
+      return (
+        <Link
+          key={i}
+          href={linkHref}
+          className="font-semibold text-[#CB6801] hover:underline"
+        >
+          {linkText}
+        </Link>
+      );
+    }
+
+    // Plain text
+    return <span key={i}>{part}</span>;
+  });
+}
+
 export default function ProductOverview({ product }) {
   return (
     <section className="bg-white pt-20 pb-10 px-5 lg:px-20">
@@ -33,12 +70,12 @@ export default function ProductOverview({ product }) {
             {Array.isArray(product.shortDescription) ? (
               product.shortDescription.map((para, index) => (
                 <p key={index} className="leading-8 text-[17px] text-gray-600">
-                  {para}
+                  {renderFormattedText(para)}
                 </p>
               ))
             ) : (
               <p className="leading-8 text-[17px] text-gray-600">
-                {product.shortDescription}
+                {renderFormattedText(product.shortDescription)}
               </p>
             )}
           </div>

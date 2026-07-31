@@ -52,11 +52,8 @@ export default function BlogRenderer({ content = [] }) {
                       if (part.bold) {
                         element = (
                           <strong
-                            className={
-                              part.link
-                                ? "font-semibold"
-                                : "font-semibold text-[#13233B]"
-                            }
+                            className=" text-[#8B4513]"
+                            
                           >
                             {element}
                           </strong>
@@ -111,7 +108,7 @@ export default function BlogRenderer({ content = [] }) {
                             if (part.bold) {
                               el = (
                                 <strong
-                                  className={part.link ? "" : "text-[#13233B]"}
+                                  className="text-[#8B4513]"
                                 >
                                   {el}
                                 </strong>

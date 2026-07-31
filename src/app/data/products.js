@@ -30,7 +30,7 @@ export const products = [
     // ==========================================
 
     shortDescription:
-      ["This machine is designed for manufacturing PET bottles and jars with high precision and consistent output. Ideal for water, beverages, cosmetics, household and industrial packaging.", "It features hydro-pneumatic operation, efficient heating, and stable moulding performance. Durable design ensures long working life with low maintenance needs."],
+      ["A **Semi Automatic Stretch Blow Moulding Machine** is an ideal solution for manufacturing high-quality PET bottles with excellent precision, energy efficiency, and cost-effective production. Suraj Plastic Industries is a trusted Semi Automatic Stretch Blow Moulding Machine Manufacturer in India, delivering advanced PET bottle making machines since 1982. Our ISO 9001:2015 certified machines are designed for reliable performance, low maintenance, and high productivity, making them suitable for the mineral water, beverage, pharmaceutical, edible oil, cosmetics, and packaging industries."],
 
     features: [
       "Supports bottle sizes from 50 ML to 25 LTR",
@@ -151,7 +151,7 @@ export const products = [
         type: "paragraph",
         content: [
           {
-            text: "At",
+            text: "At ",
           },
           {
             text: "Suraj Plastic Industries",
@@ -260,7 +260,7 @@ export const products = [
             text: "A ",
           },
           {
-            text: "Semi Automatic Stretch Blow Moulding Machine",
+            text: "Best Semi Automatic Stretch Blow Moulding Machine Manufacturer",
             bold: true,
           },
           {
@@ -626,7 +626,14 @@ export const products = [
         text: "For businesses entering the PET bottle manufacturing industry, these machines offer the ideal combination of performance and value.",
       },
 
-      
+      {type:"paragraph",
+        content:[
+         { text:"A reliable "},
+         {text:"Stretch Blow Moulding Machine Manufacturer ", bold:true, link:'/stretch-blow-moulding-machine-manufacturer'},
+         {text:"not only supplies machinery but also provides complete manufacturing solutions that improve productivity and reduce operating costs. At Suraj Plastic Industries, we offer advanced Semi Automatic Stretch Blow Moulding Machines backed by technical expertise, installation support, operator training, and dependable after-sales service to help businesses achieve long-term success."}
+        ]
+        
+      },
       
 
       
@@ -1151,7 +1158,7 @@ export const products = [
 
     slug: "pet-jar-making-machine",
 
-    name: "Auto Drop Pet Perform Stretch Blow Moulding Machine",
+    name: "Pet Jar Making Machine Manufacturer",
 
     heroImage: "/bg.jpg",
 
@@ -1170,7 +1177,8 @@ export const products = [
     // ==========================================
 
     shortDescription:
-      ["This Auto Drop Pet Perform Stretch Blow Moulding Machine is engineered for fast and efficient production of PET bottles and jars. It ensures uniform wall thickness, clear bottle finish, and reliable output for beverages, edible oil, cosmetics, household, and chemical packaging.", "Equipped with hydro-pneumatic technology and high-performance heating, the machine delivers stable operation with minimal maintenance. Designed for high productivity, it offers smooth mould operation and consistent bottle quality."],
+      ["Suraj Plastic Industries is a trusted **Pet Jar Making Machine Manufacturer in Delhi**, delivering high-performance stretch blow moulding machines engineered for consistent, high-speed production of PET jars and bottles. Our Pet Jar Making Machine is built with hydro-pneumatic technology, ensuring uniform wall thickness, crystal-clear finish, and reliable output — ideal for beverages, edible oil, cosmetics, household, chemical, and food packaging industries.",
+         "Equipped with hydro-pneumatic technology and high-performance heating, the machine delivers stable operation with minimal maintenance. Designed for high productivity, it offers smooth mould operation and consistent bottle quality."],
 
     features: [
       "High Production Speed up to 2400 Bottles Per Hour",
@@ -1185,16 +1193,16 @@ export const products = [
 
     seoBefore: [
       {
-        type: "h3",
+        type: "h2",
         text: "Pet Jar Making Machine Manufacturer in Delhi",
       },
 
       {
         type: "paragraph",
         content: [
-          { text: "Suraj Plastic Industries is a trusted " },
-          { text: "Pet Jar Making Machine Manufacturer in Delhi", bold: true, link: "/" },
-          { text: ", delivering high-performance stretch blow moulding machines engineered for consistent, high-speed production of PET jars and bottles. Our Pet Jar Making Machine is built with hydro-pneumatic technology, ensuring uniform wall thickness, crystal-clear finish, and reliable output — ideal for beverages, edible oil, cosmetics, household, chemical, and food packaging industries." },
+          { text: "This Auto Drop " },
+          { text: "Pet Perform Stretch Blow", bold: true, link: "/" },
+          { text: " Moulding Machine is engineered for fast and efficient production of PET bottles and jars. It ensures uniform wall thickness, clear bottle finish, and reliable output for beverages, edible oil, cosmetics, household, and chemical packaging." },
         ],
       },
 
@@ -2619,7 +2627,7 @@ export const products = [
       "Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi",
 
     metaDescription:
-      "Suraj Plastic Industries – trusted Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi. Up to 7200 BPH, 2-6 cavities. Get a free quote today!",
+      "Looking for a Fully Automatic Stretch Blow Moulding Machine Manufacturer? Suraj Plastic Industries offers ISO certified PET bottle making machines with high production capacity, low maintenance, and nationwide installation support.",
 
     keywords:
       "Fully Automatic Stretch Blow Moulding Machine Manufacturer, Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi",
@@ -2629,7 +2637,7 @@ export const products = [
     // ==========================================
 
     shortDescription:
-      ["Equipped with intelligent heating control and stable mould clamping, the machine delivers smooth, fast, and highly efficient production. Its fully automated feeding and blowing system improves productivity while reducing labor cost and downtime."],
+      ["Suraj Plastic Industries is a leading **Fully Automatic Stretch Blow Moulding Machine Manufacturer** based in New Delhi, offering high-speed PET bottle production machines built for large-scale, non-stop manufacturing. Our Fully Automatic Stretch Blow Moulding Machine automates the complete production cycle — preform loading, infrared heating, stretch blowing, and bottle ejection — delivering an output of up to 7200 bottles per hour with zero manual intervention."],
 
     features: [
       "High Output Performance — up to 7200 Bottles Per Hour",
@@ -2788,8 +2796,7 @@ export const products = [
         type: "paragraph",
         content: [
           { text: "Suraj Plastic Industries is a leading " },
-          { text: "Fully Automatic Stretch Blow Moulding Machine Manufacturer", bold: true, link: "/" },
-          { text: " based in New Delhi, offering high-speed PET bottle production machines built for large-scale, non-stop manufacturing. Our Fully Automatic Stretch Blow Moulding Machine automates the complete production cycle — preform loading, infrared heating, stretch blowing, and bottle ejection — delivering an output of up to 7200 bottles per hour with zero manual intervention." },
+          { text: " Equipped with intelligent heating control and stable mould clamping, the machine delivers smooth, fast, and highly efficient production. Its fully automated feeding and blowing system improves productivity while reducing labor cost and downtime." },
         ],
       },
 
@@ -3868,8 +3875,7 @@ export const products = [
       "Looking for a trusted Preform Stretch Blow Moulding Machine Manufacturer? Suraj plastic industries offers high-performance, energy-efficient PET bottle blowing machines with reliable quality and expert support.",
 
     shortDescription: [
-      "This machine is designed for manufacturing PET bottles and jars with high precision and consistent output. Ideal for water, beverages, cosmetics, household and industrial packaging.",
-      "It features hydro-pneumatic operation, efficient heating, and stable moulding performance. Durable design ensures long working life with low maintenance needs.",
+      "A [Preform Stretch Blow Moulding Machine](/contact-us) is designed to produce high-quality PET bottles with exceptional precision, energy efficiency, and consistent production performance. Suraj Plastic Industries is a trusted Preform Stretch Blow Moulding Machine Manufacturer in India, offering advanced PET bottle making solutions since 1982. Our ISO 9001:2015 certified machines are engineered with modern technology to ensure high productivity, low maintenance, and superior bottle quality for the mineral water, beverage, pharmaceutical, edible oil, cosmetics, and packaging industries.",
     ],
 
     features: [
@@ -3906,18 +3912,15 @@ export const products = [
         type: "paragraph",
         content: [
           {
-            text: "In today's competitive packaging industry, manufacturers need machines that deliver "
+            text: "In today's competitive packaging industry, manufacturers need machines that deliver high production capacity, consistent bottle quality, energy efficiency, and long-term reliability. ",
           },
           {
-            text: "high production capacity, consistent bottle quality, energy efficiency, and long-term reliability. ",
-            bold: true
+            text: "Whether you manufacture PET bottles for drinking water, beverages, edible oil, pharmaceuticals, cosmetics, chemicals, or household products, choosing the "
           },
           {
-            text: "Whether you manufacture PET bottles for drinking water, beverages, edible oil, pharmaceuticals, cosmetics, chemicals, or household products, choosing the right "
-          },
-          {
-            text: "Preform Stretch Blow Moulding Machine Manufacturer ",
-            bold: true
+            text: "Best Preform Stretch Blow Moulding Machine Manufacturer ",
+            bold: true,
+            link:"/top-preform-stretch-blow-moulding-machine-manufacturer-for-beverage-pharma-packaging-industries"
           },
           {
             text: "plays a major role in your business success."

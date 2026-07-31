@@ -21,7 +21,7 @@ export const products = [
     image: "/product/product2.png",
   },
   {
-    name: "Auto Drop Pet Perform Stretch Blow Moulding Machine",
+    name: "Pet Jar Making Machine",
     slug: "pet-jar-making-machine",
     image: "/product/product3.png",
   },

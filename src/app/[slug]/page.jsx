@@ -83,9 +83,31 @@ export default async function Page({ params }) {
   const product = products.find((item) => item.slug === slug);
 
   if (product) {
+
+    // Auto-generate FAQ schema from seo/seoBefore content blocks
+    const allBlocks = [...(product.seoBefore || []), ...(product.seo || [])];
+    const faqBlock = allBlocks.find((block) => block.type === "faq");
+
+    const faqSchema = faqBlock
+      ? {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: faqBlock.items.map((item) => ({
+            "@type": "Question",
+            name: item.question,
+            acceptedAnswer: {
+              "@type": "Answer",
+              text: item.answer,
+            },
+          })),
+        }
+      : null;
+
+    const finalSchema = product.schema || (faqSchema ? [faqSchema] : []);
+
     return (
       <>
-        {product.schema?.map((schemaItem, index) => (
+        {finalSchema.map((schemaItem, index) => (
           <script
             key={index}
             type="application/ld+json"

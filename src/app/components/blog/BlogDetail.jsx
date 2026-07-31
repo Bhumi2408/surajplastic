@@ -3,16 +3,36 @@ import Link from "next/link";
 import BlogRenderer from "./BlogRenderer";
 
 export default function BlogDetail({ blog }) {
+
+  const faqBlock = blog.content?.find((block) => block.type === "faq");
+
+  const faqSchema = faqBlock
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: faqBlock.items.map((item) => ({
+          "@type": "Question",
+          name: item.question,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: item.answer,
+          },
+        })),
+      }
+    : null;
+
+  const finalSchema = blog.schema || (faqSchema ? [faqSchema] : []);
+
   return (
     <>
-      {/* Schema Markup - only renders if blog.schema exists */}
-      {blog.schema?.map((schemaItem, index) => (
+      {finalSchema.map((schemaItem, index) => (
         <script
           key={index}
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaItem) }}
         />
       ))}
+      {/* baaki code */}
 
       {/* HERO */}
       <section className="relative h-[520px] overflow-hidden">

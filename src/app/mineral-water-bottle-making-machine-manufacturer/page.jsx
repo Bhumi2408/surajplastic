@@ -15,23 +15,30 @@ export const metadata = {
 const content = [
   {
     type: "paragraph",
+    content: [
+      { text: "A " },
+      {
+        text: "Mineral Water Bottle Making Machine Manufacturer",
+        bold: true,
+        link: "/contact-us",
+      },
+      {
+        text: " is a company that designs and builds the machinery used to convert PET preforms into finished mineral water bottles through the stretch blow moulding process. But not all manufacturers build machines with the same level of precision, durability, or after-sales reliability — and for a mineral water business, machine downtime doesn't just cost production time, it directly disrupts your entire bottling and distribution schedule.",
+      },
+    ],
+  },
+  {
+    type: "paragraph",
     text: "India's packaged drinking water industry is one of the fastest-growing segments in the FMCG packaging space, driven by rising demand for safe, portable drinking water across urban and semi-urban markets. Behind every bottle of mineral water on the shelf is a critical piece of machinery — the mineral water bottle making machine — that determines production speed, bottle quality, and ultimately, the profitability of the bottling business.",
   },
 
   {
     type: "paragraph",
     content: [
-      { text: "A " },
-      { text: "Mineral Water Bottle Making Machine Manufacturer", bold: true, link: "/contact-us" },
-      { text: " is a company that designs and builds the machinery used to convert PET preforms into finished mineral water bottles through the stretch blow moulding process. But not all manufacturers build machines with the same level of precision, durability, or after-sales reliability — and for a mineral water business, machine downtime doesn't just cost production time, it directly disrupts your entire bottling and distribution schedule." },
-    ],
-  },
-
-  {
-    type: "paragraph",
-    content: [
       { text: "Suraj Plastic Industries", bold: true, link: "/" },
-      { text: " manufactures mineral water bottle making machines engineered specifically for the demands of the packaged drinking water industry — where consistency, hygiene, and continuous uptime aren't optional, they're the baseline requirement. This guide walks through everything a mineral water business owner needs to know before choosing a machine and a manufacturer." },
+      {
+        text: " manufactures mineral water bottle making machines engineered specifically for the demands of the packaged drinking water industry — where consistency, hygiene, and continuous uptime aren't optional, they're the baseline requirement. This guide walks through everything a mineral water business owner needs to know before choosing a machine and a manufacturer.",
+      },
     ],
   },
 
@@ -42,7 +49,16 @@ const content = [
 
   {
     type: "paragraph",
-    text: "A Mineral Water Bottle Making Machine, also known as a PET stretch blow moulding machine, is industrial equipment that transforms small, thick-walled PET preforms into lightweight, hollow bottles specifically shaped and sized for packaged drinking water. The process involves heating the preform, stretching it mechanically, and then blowing it into a bottle-shaped mould using high-pressure air.",
+    content: [
+      { text: "A" },
+      {
+        text: " Best Mineral Water Bottle Making Machine Manufacturer in Delhi",
+        bold: true,
+      },
+      {
+        text: " also known as a PET stretch blow moulding machine, is industrial equipment that transforms small, thick-walled PET preforms into lightweight, hollow bottles specifically shaped and sized for packaged drinking water. The process involves heating the preform, stretching it mechanically, and then blowing it into a bottle-shaped mould using high-pressure air.",
+      },
+    ],
   },
 
   {
@@ -228,13 +244,37 @@ const content = [
 
   {
     type: "table",
-    headers: ["Factor", "Mineral Water Bottles", "General PET Bottles (Oil, Chemicals)"],
+    headers: [
+      "Factor",
+      "Mineral Water Bottles",
+      "General PET Bottles (Oil, Chemicals)",
+    ],
     rows: [
-      ["Wall Thickness", "Thinner, lightweight design for cost efficiency", "Often thicker for chemical resistance"],
-      ["Hygiene Requirements", "Very high — direct food/beverage contact", "Moderate, depending on product"],
-      ["Production Speed Priority", "Extremely high, due to high-volume retail demand", "Varies by product category"],
-      ["Bottle Neck Design", "Standardized for high-speed capping lines", "Can vary significantly by product type"],
-      ["Common Cavity Count", "Higher (4-8+ cavities) for volume efficiency", "Often lower, depending on batch size"],
+      [
+        "Wall Thickness",
+        "Thinner, lightweight design for cost efficiency",
+        "Often thicker for chemical resistance",
+      ],
+      [
+        "Hygiene Requirements",
+        "Very high — direct food/beverage contact",
+        "Moderate, depending on product",
+      ],
+      [
+        "Production Speed Priority",
+        "Extremely high, due to high-volume retail demand",
+        "Varies by product category",
+      ],
+      [
+        "Bottle Neck Design",
+        "Standardized for high-speed capping lines",
+        "Can vary significantly by product type",
+      ],
+      [
+        "Common Cavity Count",
+        "Higher (4-8+ cavities) for volume efficiency",
+        "Often lower, depending on batch size",
+      ],
     ],
   },
 
@@ -378,27 +418,32 @@ const content = [
           "A Mineral Water Bottle Making Machine is industrial equipment that converts PET preforms into finished mineral water bottles through a stretch blow moulding process involving heating, stretching, and high-pressure air blowing.",
       },
       {
-        question: "How do I choose the right Mineral Water Bottle Making Machine Manufacturer?",
+        question:
+          "How do I choose the right Mineral Water Bottle Making Machine Manufacturer?",
         answer:
           "Look for a manufacturer with specific experience in PET bottle machinery for the beverage industry, proven build quality, hygienic design standards, and reliable after-sales support — rather than choosing based on price alone.",
       },
       {
-        question: "What is the difference between semi-automatic and fully automatic mineral water bottle making machines?",
+        question:
+          "What is the difference between semi-automatic and fully automatic mineral water bottle making machines?",
         answer:
           "Semi-automatic machines require manual preform loading while heating and blowing are automated, making them suitable for smaller operations. Fully automatic machines handle the entire process — including feeding and ejection — without manual intervention, offering higher output for larger bottling plants.",
       },
       {
-        question: "How many bottles can a mineral water bottle making machine produce per hour?",
+        question:
+          "How many bottles can a mineral water bottle making machine produce per hour?",
         answer:
           "Output depends on cavity count and machine configuration, ranging from a few hundred bottles per hour for single-cavity machines to several thousand bottles per hour for multi-cavity, high-speed automatic machines.",
       },
       {
-        question: "Why should I choose Suraj Plastic Industries as my Mineral Water Bottle Making Machine Manufacturer?",
+        question:
+          "Why should I choose Suraj Plastic Industries as my Mineral Water Bottle Making Machine Manufacturer?",
         answer:
           "Suraj Plastic Industries offers specialized engineering expertise in PET bottle machinery, rigorous quality testing before dispatch, honest capacity-based consultation, and dependable after-sales support — making it a trusted partner for mineral water businesses of all sizes.",
       },
       {
-        question: "What bottle sizes can a mineral water bottle making machine produce?",
+        question:
+          "What bottle sizes can a mineral water bottle making machine produce?",
         answer:
           "With appropriate mould configurations, these machines can produce mineral water bottles ranging from 200ml single-serve bottles up to 2-litre or larger family-pack sizes, depending on the manufacturer's mould customization options.",
       },
@@ -408,27 +453,32 @@ const content = [
           "Cost varies based on cavity count, automation level, and build specifications. Suraj Plastic Industries provides customized quotes based on your specific production volume and bottle size requirements — contact us for a detailed estimate.",
       },
       {
-        question: "What maintenance is required for a mineral water bottle making machine?",
+        question:
+          "What maintenance is required for a mineral water bottle making machine?",
         answer:
           "Routine maintenance includes checking IR heating lamp performance, inspecting mould alignment and cooling channels, servicing the air compressor system, and lubricating stretch rod mechanisms to maintain consistent bottle quality over time.",
       },
       {
-        question: "Can one machine produce multiple mineral water bottle sizes?",
+        question:
+          "Can one machine produce multiple mineral water bottle sizes?",
         answer:
           "Yes, with a quick mould changeover system, a single machine can produce different bottle sizes by switching mould sets, allowing mineral water businesses to manage multiple product SKUs without needing separate machines for each size.",
       },
       {
-        question: "How do I determine the right machine capacity for my mineral water business?",
+        question:
+          "How do I determine the right machine capacity for my mineral water business?",
         answer:
           "Capacity planning should account for your estimated daily bottle demand, planned shift hours, expected downtime for maintenance, and future growth projections. Suraj Plastic Industries assists customers in matching machine capacity to realistic production targets during the consultation process.",
       },
       {
-        question: "Is hygiene a major factor in mineral water bottle making machines?",
+        question:
+          "Is hygiene a major factor in mineral water bottle making machines?",
         answer:
           "Yes, since the bottles come into direct contact with drinking water, machines must be designed with hygienic standards in mind — smooth internal surfaces, minimal contamination risk points, and materials suited for food-grade production environments.",
       },
       {
-        question: "What after-sales support does Suraj Plastic Industries provide for mineral water bottle making machines?",
+        question:
+          "What after-sales support does Suraj Plastic Industries provide for mineral water bottle making machines?",
         answer:
           "Suraj Plastic Industries offers installation and commissioning support, operator training, technical troubleshooting, and ongoing guidance to help mineral water businesses maintain consistent machine performance and minimize production downtime.",
       },
@@ -442,7 +492,13 @@ const content = [
 
   {
     type: "paragraph",
-    text: "Choosing the right Mineral Water Bottle Making Machine Manufacturer is one of the most important decisions a packaged drinking water business will make — directly influencing production efficiency, bottle quality, energy costs, and the ability to scale as demand grows. Beyond just the machine itself, the manufacturer's engineering expertise, quality testing standards, and after-sales support determine how reliably your production line runs, especially during peak demand seasons.",
+    content: [
+      { text: "Choosing the right" },
+      { text: " Mineral Water Bottle Making Machine Manufacturer", bold: true },
+      {
+        text: "  is one of the most important decisions a packaged drinking water business will make — directly influencing production efficiency, bottle quality, energy costs, and the ability to scale as demand grows. Beyond just the machine itself, the manufacturer's engineering expertise, quality testing standards, and after-sales support determine how reliably your production line runs, especially during peak demand seasons.",
+      },
+    ],
   },
 
   {

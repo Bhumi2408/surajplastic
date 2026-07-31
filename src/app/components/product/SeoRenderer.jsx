@@ -98,7 +98,7 @@ export default function SeoRenderer({ content = [] }) {
                         let element = part.text;
 
                         if (part.bold) {
-                          element = <strong>{element}</strong>;
+                          element = <strong className="font-semibold text-[#CB6801]">{element}</strong>;
                         }
 
                         if (part.link) {
