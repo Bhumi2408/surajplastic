@@ -445,7 +445,7 @@ export const blogs = [
                     {
                         text: "Fully Automatic Stretch Blow Moulding Machine",
                         bold: true,
-                        link: "https://www.surajplasticindustries.com/fully-automatic-stretch-blow-moulding-machine/",
+                        link: "/fully-automatic-stretch-blow-moulding-machine/",
                     },
                 ],
             },
@@ -1684,7 +1684,7 @@ export const blogs = [
                     {
                         text: "Preform Stretch Blow Moulding Machine Manufacturer",
                         bold: true,
-                        link: "https://www.surajplasticindustries.com/preform-stretch-blow-moulding-machine-manufacturer/",
+                        link: "/preform-stretch-blow-moulding-machine-manufacturer/",
                     },
                     { text: " making sure the machine performs at its best." },
                 ],
@@ -2229,7 +2229,7 @@ export const blogs = [
                     {
                         text: "Fully Automatic Stretch Blow Moulding Machine",
                         bold: true,
-                        link: "https://www.surajplasticindustries.com/fully-automatic-stretch-blow-moulding-machine/",
+                        link: "/fully-automatic-stretch-blow-moulding-machine/",
                     },
                     {
                         text: " enters as the ultimate game-changer. Moving away from highly volatile, labor-intensive manual or semi-automatic systems, the modern high-speed automatic stretch blow moulding system represents the pinnacle of automation, thermal efficiency, and mechanical precision. In this deep-dive guide, we will break down how these machines work, their core advantages, the underlying technology, and how partnering with industry pioneer ",
@@ -2580,7 +2580,7 @@ export const blogs = [
                     {
                         text: "Fully Automatic Stretch Blow Moulding Machine",
                         bold: true,
-                        link: "https://www.surajplasticindustries.com/fully-automatic-stretch-blow-moulding-machine/",
+                        link: "/fully-automatic-stretch-blow-moulding-machine/",
                     },
                     {
                         text: " is the ultimate tool to achieve maximum productivity, consistent product quality, and significantly reduced operating overhead.",
@@ -3648,7 +3648,7 @@ export const blogs = [
                     { text: "This is exactly why the " },
                     {
                         text: "Automatic Hand Feed Blow Moulding Machine",
-                        link: "https://www.surajplasticindustries.com/contact-us",
+                        link: "/contact-us",
                     },
                     { text: " exists. It sits right in the middle — affordable like a manual machine, but with automatic blowing precision so every bottle comes out the same shape, same thickness, and same quality, cycle after cycle." },
                 ],
@@ -3670,7 +3670,7 @@ export const blogs = [
                     { text: "Short answer: An " },
                     {
                         text: "Automatic Hand Feed Blow Moulding Machine",
-                        link: "https://www.surajplasticindustries.com/contact-us",
+                        link: "/contact-us",
                     },
                     { text: " is a PET stretch blow moulding machine where the operator manually loads (hand-feeds) the preforms into the heating station, after which the entire heating, stretching, and blowing process runs automatically to form the final bottle." },
                 ],
@@ -3934,7 +3934,7 @@ export const blogs = [
                     { text: "If you're setting up a new bottling unit or upgrading from a purely manual setup, the " },
                     {
                         text: "Automatic Hand Feed Blow Moulding Machine",
-                        link: "https://www.surajplasticindustries.com/contact-us",
+                        link: "/contact-us",
                     },
                     { text: " gives you the best balance of cost, control, and consistent bottle quality. And when it comes to choosing who to buy it from, a manufacturer with 40+ years of experience, ISO certification, and thousands of working installations reduces your risk significantly." },
                 ],
