@@ -2238,13 +2238,13 @@ export const blogs = [
                     { text: " can elevate your production line to unprecedented levels of efficiency." },
                 ],
             },
-            
+
             {
                 type: "paragraph",
                 text: "In the modern packaging landscape, the demand for lightweight, durable, and highly versatile containers has skyrocketed. Polyethylene Terephthalate, or PET, has emerged as the global material of choice for packaging water, carbonated soft drinks, juices, edible oils, cosmetics, pharmaceuticals, and household chemicals. However, as the market scales, manufacturers face a double-edged sword: the pressure to meet immense volume requirements while simultaneously driving down operational and material costs.",
             },
 
-            
+
 
             {
                 type: "h2",
@@ -3610,7 +3610,6 @@ export const blogs = [
             },
         ],
     },
-
     {
         slug: "complete-guide-to-choose-the-best-automatic-hand-feed-blow-moulding-machine-in-2026",
 
@@ -4566,5 +4565,997 @@ export const blogs = [
                     "Buying a Semi Automatic Stretch Blow Moulding Machine? Here's What Actually Matters",
             },
         ],
+    },
+    {
+        slug: "automatic-pet-bottle-moulding-machine-manufacturer-in-delhi",
+
+        title:
+            "Automatic PET Bottle Moulding Machine Manufacturer in Delhi – Suraj Plastic Industries",
+
+        category: "Blog",
+
+        image: "/blog9.png",
+
+        author: "Suraj Plastic Industries",
+
+        date: "August 5, 2026",
+
+        readTime: "8 minutes",
+
+        metaTitle:
+            "Automatic PET Bottle Moulding Machine Manufacturer in Delhi | Suraj Plastic Industries",
+
+        metaDescription:
+            "Suraj Plastic Industries is a trusted Automatic PET Bottle Moulding Machine Manufacturer in Delhi, delivering high-speed, energy-efficient PET bottle making machines for beverage, pharmaceutical, edible oil, and packaging industries",
+
+        keywords:
+            "Automatic PET Bottle Moulding Machine Manufacturer in Delhi, Automatic PET Bottle Moulding Machine, PET bottle making machine, 2 Cavity Automatic PET Bottle Moulding Machine, 4 Cavity Automatic PET Bottle Moulding Machine",
+
+        excerpt:
+            "At Suraj Plastic Industries, we are a trusted Automatic PET Bottle Moulding Machine Manufacturer in Delhi, providing advanced PET bottle manufacturing solutions for the beverage, pharmaceutical, cosmetic, edible oil, and packaging industries.",
+
+        content: [
+            {
+                type: "paragraph",
+                content: [
+                    { text: "At Suraj Plastic Industries, we are a trusted " },
+                    {
+                        text: "Automatic PET Bottle Moulding Machine Manufacturer in Delhi",
+                        bold: true,
+                        link: "https://www.surajplasticindustries.com/automatic-pet-bottle-moulding-machine-manufacturer",
+                    },
+                    {
+                        text: ", providing advanced PET bottle manufacturing solutions for the beverage, pharmaceutical, cosmetic, edible oil, and packaging industries. Our machines are designed to deliver high-speed production, excellent precision, and long-lasting performance for businesses looking to improve productivity. The source content emphasizes efficiency, reliability, and low operating costs as key benefits.",
+                    },
+                ],
+            },
+
+            {
+                type: "paragraph",
+                text: "Whether you manufacture bottles for mineral water, soft drinks, juice, edible oil, or other liquid products, our Automatic PET Bottle Moulding Machines offer reliable performance with energy-efficient operation and consistent bottle quality.",
+            },
+
+            {
+                type: "h2",
+                text: "Why Choose an Automatic PET Bottle Moulding Machine Manufacturer in Delhi?",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "Choosing an experienced " },
+                    { text: "Automatic PET Bottle Moulding Machine Manufacturer in Delhi", bold: true },
+                    { text: " helps improve production efficiency while reducing operating costs." },
+                ],
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "At " },
+                    { text: "Suraj Plastic Industries", bold: true },
+                    { text: ", our machines offer:" },
+                ],
+            },
+
+            {
+                type: "list",
+                items: [
+                    "High-speed PET bottle production",
+                    "Consistent bottle quality in every production cycle",
+                    "Energy-efficient technology with lower electricity consumption",
+                    "Easy operation through advanced PLC automation",
+                    "Minimal manpower requirement",
+                    "Durable machine construction for long service life",
+                    "Low maintenance with maximum productivity",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Features of Automatic PET Bottle Moulding Machine",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "Our " },
+                    { text: "Automatic PET Bottle Moulding Machines", bold: true },
+                    { text: " are manufactured using advanced engineering and modern automation technology." },
+                ],
+            },
+
+            {
+                type: "h3",
+                text: "Key Features",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Fully automatic production system",
+                    "Suitable for different bottle sizes and shapes",
+                    "High-speed bottle production",
+                    "Heavy-duty machine construction",
+                    "Easy-to-use control panel",
+                    "Automatic bottle ejection system",
+                    "Advanced heating and blowing system",
+                    "Low power consumption",
+                    "Reliable performance for continuous operation",
+                    "Low maintenance requirements",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Applications of Automatic PET Bottle Moulding Machine",
+            },
+
+            {
+                type: "paragraph",
+                text: "Our machines are widely used in various industries, including:",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Mineral water bottling plants",
+                    "Soft drink industries",
+                    "Juice manufacturing units",
+                    "Edible oil packaging plants",
+                    "Pharmaceutical bottle production",
+                    "Cosmetic bottle manufacturing",
+                    "Household chemical packaging",
+                    "Food and beverage industries",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Complete Automatic PET Bottle Moulding Machine Setup",
+            },
+
+            {
+                type: "paragraph",
+                text: "Suraj Plastic Industries provides complete PET bottle manufacturing solutions, including:",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Automatic preform feeding system",
+                    "Advanced heating and blowing system",
+                    "Heavy-duty mould clamping unit",
+                    "Efficient cooling system",
+                    "Automatic bottle ejector",
+                    "User-friendly control panel",
+                ],
+            },
+
+            {
+                type: "paragraph",
+                text: "This complete setup ensures smooth production with minimal downtime.",
+            },
+
+            {
+                type: "h2",
+                text: "Low Manpower Requirement",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "One of the biggest advantages of our " },
+                    { text: "Automatic PET Bottle Moulding Machine", bold: true },
+                    { text: " is that it requires very little manpower." },
+                ],
+            },
+
+            {
+                type: "paragraph",
+                text: "Since the machine is fully automatic:",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Fewer operators are needed",
+                    "Labour costs are reduced",
+                    "Production efficiency increases",
+                    "Easy machine operation",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Low Electricity Consumption",
+            },
+
+            {
+                type: "paragraph",
+                text: "Our machines are designed with energy-efficient technology that helps manufacturers save electricity without compromising production speed.",
+            },
+
+            {
+                type: "paragraph",
+                text: "Benefits include:",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Lower electricity bills",
+                    "Reduced production costs",
+                    "Environment-friendly operation",
+                    "Higher profitability",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Low Maintenance & High Reliability",
+            },
+
+            {
+                type: "paragraph",
+                text: "Suraj Plastic Industries manufactures machines using premium-quality industrial components.",
+            },
+
+            {
+                type: "paragraph",
+                text: "Our machines provide:",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Low maintenance costs",
+                    "Long machine life",
+                    "Reliable continuous production",
+                    "Excellent operational stability",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Why Choose Suraj Plastic Industries?",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "As a leading " },
+                    { text: "Automatic PET Bottle Moulding Machine Manufacturer", bold: true },
+                    { text: ", " },
+                    { text: "Suraj Plastic Industries", bold: true },
+                    { text: " is known for delivering reliable, high-performance machinery across India." },
+                ],
+            },
+
+            {
+                type: "h3",
+                text: "Our Expertise & Experience",
+            },
+
+            {
+                type: "paragraph",
+                text: "With years of experience in PET bottle manufacturing machinery, Suraj Plastic Industries understands the evolving needs of modern industries. Our engineering team designs machines that combine speed, durability, precision, and energy efficiency.",
+            },
+
+            {
+                type: "paragraph",
+                text: "We focus on:",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Advanced engineering",
+                    "High-quality manufacturing",
+                    "Precision machine design",
+                    "Reliable automation",
+                    "Customer-focused solutions",
+                    "Long-term machine performance",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Production of Automatic PET Bottle Moulding Machine",
+            },
+
+            {
+                type: "paragraph",
+                text: "Our production process is designed to deliver machines that provide:",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "High-speed bottle production",
+                    "Consistent bottle quality",
+                    "Energy-efficient manufacturing",
+                    "Low production downtime",
+                    "Safe and automated operation",
+                ],
+            },
+
+            {
+                type: "paragraph",
+                text: "Every machine undergoes strict quality testing before delivery to ensure excellent performance.",
+            },
+
+            {
+                type: "h2",
+                text: "Advantages of Choosing Suraj Plastic Industries",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "When you choose " },
+                    { text: "Suraj Plastic Industries", bold: true },
+                    { text: ", you receive:" },
+                ],
+            },
+
+            {
+                type: "list",
+                items: [
+                    "High-speed PET bottle production",
+                    "Low electricity consumption",
+                    "Minimal manpower requirement",
+                    "Low maintenance costs",
+                    "High precision manufacturing",
+                    "Durable machine construction",
+                    "Reliable after-sales support",
+                    "Complete installation assistance",
+                    "Operator training",
+                    "Quick spare parts availability",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Machines Used in Automatic PET Bottle Moulding Machine",
+            },
+
+            {
+                type: "paragraph",
+                text: "Our complete machine setup includes:",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Preform feeding system",
+                    "Heating system",
+                    "Stretch and blowing system",
+                    "Mould clamping unit",
+                    "Cooling system",
+                    "Automatic bottle ejector",
+                ],
+            },
+
+            {
+                type: "paragraph",
+                text: "These systems work together to ensure smooth and efficient bottle production.",
+            },
+
+            {
+                type: "h2",
+                text: "2 Cavity Automatic PET Bottle Moulding Machine",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "Our " },
+                    { text: "2 Cavity Automatic PET Bottle Moulding Machine", bold: true },
+                    { text: " is suitable for small and medium-scale production." },
+                ],
+            },
+
+            {
+                type: "h3",
+                text: "Features",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Production of two bottles per cycle",
+                    "High production efficiency",
+                    "Low electricity consumption",
+                    "Easy operation",
+                    "Long machine life",
+                ],
+            },
+
+            {
+                type: "paragraph",
+                text: "Suitable for:",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Mineral water",
+                    "Juice",
+                    "Beverage",
+                    "Cosmetic",
+                    "Pharmaceutical industries",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "4 Cavity Automatic PET Bottle Moulding Machine",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "Our " },
+                    { text: "4 Cavity Automatic PET Bottle Moulding Machine", bold: true },
+                    { text: " is ideal for manufacturers looking for higher production capacity." },
+                ],
+            },
+
+            {
+                type: "h3",
+                text: "Features",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Four bottles produced simultaneously",
+                    "High-speed operation",
+                    "Fully automatic system",
+                    "Low maintenance",
+                    "Excellent bottle quality",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Why Businesses Trust Suraj Plastic Industries",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "Businesses across India choose " },
+                    { text: "Suraj Plastic Industries", bold: true },
+                    { text: " because we combine years of manufacturing experience with advanced technology and customer-focused service." },
+                ],
+            },
+
+            {
+                type: "paragraph",
+                text: "Our strengths include:",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Experienced engineering team",
+                    "Modern manufacturing facility",
+                    "Customized machine solutions",
+                    "Strict quality control",
+                    "Competitive pricing",
+                    "Reliable technical support",
+                    "Timely installation",
+                    "Long-term customer satisfaction",
+                ],
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "Whether you are starting a new PET bottle manufacturing unit or expanding your production capacity, " },
+                    { text: "Suraj Plastic Industries", bold: true },
+                    { text: " offers dependable machinery that helps improve productivity and profitability." },
+                ],
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "If you are looking for a trusted " },
+                    { text: "Automatic PET Bottle Moulding Machine Manufacturer in Delhi", bold: true },
+                    { text: ", Suraj Plastic Industries is your reliable partner for advanced technology, superior quality, and long-lasting performance." },
+                ],
+            },
+        ],
+
+        related: [],
+    },
+    {
+        slug: "fully-automatic-stretch-blow-moulding-machine-manufacturer-in-delhi",
+
+        title:
+            "Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi – Suraj Plastic Industries",
+
+        category: "Blog",
+
+        image: "/blog10.png",
+
+        author: "Suraj Plastic Industries",
+
+        date: "August 7, 2026",
+
+        readTime: "9 minutes",
+
+        metaTitle:
+            "Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi | Suraj Plastic Industries",
+
+        metaDescription:
+            "Suraj Plastic Industries is a trusted Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi, offering high-speed, energy-efficient PET bottle making machines for various industries.",
+
+        keywords:
+            "Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi, Fully Automatic Stretch Blow Moulding Machine, 2 Cavity Fully Automatic Stretch Blow Moulding Machine, 4 Cavity Fully Automatic Stretch Blow Moulding Machine, 6 Cavity Fully Automatic Stretch Blow Moulding Machine",
+
+        excerpt:
+            "At Suraj Plastic Industries, we are a trusted Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi, providing advanced PET bottle manufacturing solutions for the beverage, pharmaceutical, cosmetic, edible oil, and packaging industries.",
+
+        content: [
+            {
+                type: "paragraph",
+                content: [
+                    { text: "At Suraj Plastic Industries, we are a trusted " },
+                    {
+                        text: "Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi",
+                        bold: true,
+                        link: "https://www.surajplasticindustries.com/fully-automatic-stretch-blow-moulding-machine/",
+                    },
+                    {
+                        text: ", providing advanced PET bottle manufacturing solutions for the beverage, pharmaceutical, cosmetic, edible oil, and packaging industries. Our machines are built with modern technology to produce high-quality PET bottles with excellent speed, precision, and energy efficiency.",
+                    },
+                ],
+            },
+
+            {
+                type: "paragraph",
+                text: "Whether you need bottles for packaged drinking water, soft drinks, juices, edible oils, or other liquid products, our machines deliver reliable performance, consistent bottle quality, and long-lasting durability.",
+            },
+
+            {
+                type: "h2",
+                text: "Why Choose a Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi?",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "Choosing a reliable " },
+                    { text: "Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi", bold: true },
+                    { text: " is important for achieving faster production and reducing manufacturing costs." },
+                ],
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "At " },
+                    { text: "Suraj Plastic Industries", bold: true },
+                    { text: ", our machines offer:" },
+                ],
+            },
+
+            {
+                type: "list",
+                items: [
+                    "High-speed PET bottle production with consistent quality",
+                    "Energy-efficient operation for lower electricity consumption",
+                    "Fully automatic PLC-controlled system for easy operation",
+                    "Reduced labour requirement through advanced automation",
+                    "Heavy-duty machine construction for long service life",
+                    "Low maintenance with high production efficiency",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Features of Fully Automatic Stretch Blow Moulding Machine",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "Our " },
+                    { text: "Fully Automatic Stretch Blow Moulding Machines", bold: true },
+                    { text: " are designed to improve productivity and deliver excellent bottle quality." },
+                ],
+            },
+
+            {
+                type: "h3",
+                text: "Key Features",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Available in 2 Cavity, 4 Cavity, and 6 Cavity models",
+                    "High-speed production for maximum output",
+                    "PLC-based automatic control system",
+                    "Servo and pneumatic technology for better efficiency",
+                    "Automatic preform loader and conveyor system",
+                    "Suitable for different PET bottle sizes from 200 ml to 2 litres",
+                    "Strong and durable machine body",
+                    "Easy operation and low maintenance",
+                    "Uniform bottle thickness with excellent transparency",
+                    "Stable performance for continuous production",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Applications of Fully Automatic Stretch Blow Moulding Machine",
+            },
+
+            {
+                type: "paragraph",
+                text: "Our machines are widely used in various industries, including:",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Packaged drinking water plants",
+                    "Mineral water bottle manufacturing",
+                    "Soft drink industries",
+                    "Juice bottling plants",
+                    "Edible oil packaging",
+                    "Pharmaceutical bottle production",
+                    "Cosmetic bottle manufacturing",
+                    "Personal care product packaging",
+                    "Food and beverage industries",
+                    "Chemical packaging industries",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Price of Fully Automatic Stretch Blow Moulding Machine",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "The cost of a " },
+                    { text: "Fully Automatic Stretch Blow Moulding Machine", bold: true },
+                    { text: " depends on several factors, including:" },
+                ],
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Machine capacity",
+                    "Number of cavities",
+                    "Production speed",
+                    "Automation level",
+                    "Bottle size compatibility",
+                    "Additional machine features",
+                ],
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "At " },
+                    { text: "Suraj Plastic Industries", bold: true },
+                    { text: ", we provide cost-effective machines that offer excellent performance, low operating costs, and high return on investment." },
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Why Choose Suraj Plastic Industries?",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "Suraj Plastic Industries", bold: true },
+                    { text: " is a trusted " },
+                    { text: "Fully Automatic Stretch Blow Moulding Machine Manufacturer", bold: true },
+                    { text: " known for delivering advanced PET bottle manufacturing solutions across India." },
+                ],
+            },
+
+            {
+                type: "h3",
+                text: "Our Strengths",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Years of manufacturing experience",
+                    "Advanced engineering and modern technology",
+                    "High-quality machine components",
+                    "Energy-efficient machine design",
+                    "Customized machine solutions",
+                    "Reliable after-sales support",
+                    "Complete installation and operator training",
+                    "Quick spare parts availability",
+                    "Competitive pricing",
+                    "Customer-focused service",
+                ],
+            },
+
+            {
+                type: "paragraph",
+                text: "Our goal is to help businesses increase production while reducing operational costs through innovative machinery.",
+            },
+
+            {
+                type: "h2",
+                text: "2 Cavity Fully Automatic Stretch Blow Moulding Machine",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "Our " },
+                    { text: "2 Cavity Fully Automatic Stretch Blow Moulding Machine", bold: true },
+                    { text: " is ideal for small and medium-scale manufacturers." },
+                ],
+            },
+
+            {
+                type: "h3",
+                text: "Features",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Production capacity of approximately 2,800–3,400 bottles per hour",
+                    "Suitable for 200 ml to 2-litre bottles",
+                    "Energy-efficient operation",
+                    "Compact machine design",
+                    "Low investment with high productivity",
+                    "Easy maintenance",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "4 Cavity Fully Automatic Stretch Blow Moulding Machine",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "Our " },
+                    { text: "4 Cavity Fully Automatic Stretch Blow Moulding Machine", bold: true },
+                    { text: " is designed for businesses looking to increase production." },
+                ],
+            },
+
+            {
+                type: "h3",
+                text: "Features",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Production capacity of approximately 4,600–5,500 bottles per hour",
+                    "Fully automatic PLC operation",
+                    "Consistent bottle quality",
+                    "Low rejection rate",
+                    "Ideal for mineral water, juice, and beverage industries",
+                    "High production efficiency",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "6 Cavity Fully Automatic Stretch Blow Moulding Machine",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "For large-scale PET bottle manufacturing, our " },
+                    { text: "6 Cavity Fully Automatic Stretch Blow Moulding Machine", bold: true },
+                    { text: " offers maximum productivity." },
+                ],
+            },
+
+            {
+                type: "h3",
+                text: "Features",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Production capacity of approximately 6,800–7,200 bottles per hour",
+                    "High-speed automatic production",
+                    "Servo-driven technology",
+                    "Suitable for multiple bottle designs",
+                    "Heavy-duty machine construction",
+                    "Continuous industrial operation",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Benefits of Choosing Suraj Plastic Industries",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "As a leading " },
+                    { text: "Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi", bold: true },
+                    { text: ", we provide:" },
+                ],
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Advanced manufacturing technology",
+                    "High-speed production machines",
+                    "Low electricity consumption",
+                    "Durable machine construction",
+                    "Excellent bottle finishing",
+                    "Complete installation support",
+                    "Technical training for operators",
+                    "Reliable after-sales service",
+                    "Affordable pricing",
+                    "High return on investment",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Industries We Serve",
+            },
+
+            {
+                type: "paragraph",
+                text: "Our machines are widely installed in:",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Packaged drinking water plants",
+                    "Beverage manufacturing companies",
+                    "Juice bottling industries",
+                    "Soft drink manufacturers",
+                    "Edible oil packaging companies",
+                    "Pharmaceutical industries",
+                    "Cosmetic manufacturers",
+                    "Personal care product companies",
+                    "Food processing industries",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Pneumatic and Servo Based Fully Automatic Stretch Blow Moulding Machine",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "At " },
+                    { text: "Suraj Plastic Industries", bold: true },
+                    { text: ", we manufacture both " },
+                    { text: "Pneumatic", bold: true },
+                    { text: " and " },
+                    { text: "Servo Based Fully Automatic Stretch Blow Moulding Machines", bold: true },
+                    { text: " to meet different production requirements." },
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Pneumatic Machines",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Cost-effective solution",
+                    "Reliable operation",
+                    "Easy maintenance",
+                    "Suitable for medium production capacity",
+                ],
+            },
+
+            {
+                type: "h2",
+                text: "Servo Based Machines",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "Lower power consumption",
+                    "Faster production cycles",
+                    "Higher accuracy",
+                    "Better bottle consistency",
+                    "Reduced operating costs",
+                    "Smooth machine operation",
+                ],
+            },
+
+            {
+                type: "paragraph",
+                text: "Both machine types are designed to deliver excellent performance, long service life, and high productivity.",
+            },
+
+            {
+                type: "h2",
+                text: "Why Businesses Trust Suraj Plastic Industries",
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "Businesses across India choose " },
+                    { text: "Suraj Plastic Industries", bold: true },
+                    { text: " because we combine engineering expertise with customer-focused service." },
+                ],
+            },
+
+            {
+                type: "paragraph",
+                text: "We provide:",
+            },
+
+            {
+                type: "list",
+                items: [
+                    "High-quality manufacturing",
+                    "Customized machine solutions",
+                    "Modern automation technology",
+                    "Strict quality control",
+                    "Reliable technical support",
+                    "Fast installation",
+                    "Operator training",
+                    "Long-term maintenance assistance",
+                ],
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "Whether you are starting a new PET bottle manufacturing plant or expanding an existing facility, " },
+                    {
+                        text: "Suraj Plastic Industries",
+                        bold: true,
+                        link: "https://www.surajplasticindustries.com/",
+                    },
+                    { text: " offers dependable machinery that helps improve production efficiency and business profitability." },
+                ],
+            },
+
+            {
+                type: "paragraph",
+                content: [
+                    { text: "If you are looking for a trusted " },
+                    {
+                        text: "Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi",
+                        bold: true,
+                        link: "https://www.surajplasticindustries.com/fully-automatic-stretch-blow-moulding-machine-advanced-pet-bottle-manufacturing-for-maximum-productivity",
+                    },
+                    { text: ", Suraj Plastic Industries is your reliable partner for advanced technology, superior quality, and long-lasting performance." },
+                ],
+            },
+        ],
+
+        related: [],
     },
 ];

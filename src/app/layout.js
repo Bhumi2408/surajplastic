@@ -39,7 +39,7 @@ const montserrat = Montserrat({
 
 
 export const metadata = {
-  metadataBase: new URL("https://blowmouldingmachine.surajplasticindustries.com/"),
+  metadataBase: new URL("https://www.surajplasticindustries.com/"),
 
   title: "Suraj Plastic Industries | Best Blow Moulding Machines Manufacturer",
 
