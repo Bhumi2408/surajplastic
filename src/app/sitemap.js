@@ -1,7 +1,7 @@
 import { products } from "@/app/data/products";
 import { blogs } from "@/app/data/blogs";
 
-const BASE_URL = "https://www.surajplasticindustries.com";
+const BASE_URL = "https://blowmouldingmachine.surajplasticindustries.com/";
 
 export default async function sitemap() {
   const staticPages = [
@@ -15,21 +15,21 @@ export default async function sitemap() {
   ].map((route) => ({
     url: `${BASE_URL}${route}`,
     lastModified: new Date(),
-    changeFrequency: "weekly",
+    changeFrequency: "daily",
     priority: route === "" ? 1 : 0.8,
   }));
 
   const productPages = products.map((product) => ({
     url: `${BASE_URL}/${product.slug}`,
     lastModified: new Date(),
-    changeFrequency: "weekly",
+    changeFrequency: "daily",
     priority: 0.9,
   }));
 
   const blogPages = blogs.map((blog) => ({
     url: `${BASE_URL}/${blog.slug}`,
     lastModified: new Date(),
-    changeFrequency: "monthly",
+    changeFrequency: "daily",
     priority: 0.7,
   }));
 

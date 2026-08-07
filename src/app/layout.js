@@ -58,8 +58,11 @@ export const metadata = {
     icon: "/favicons.png",
   },
 
+  // verification: {
+  //   google: "07wuqMEKkJGIoU4IX2_-K_EK9xgMGsQ6Ck6788KSPHQ",
+  // },
   verification: {
-    google: "07wuqMEKkJGIoU4IX2_-K_EK9xgMGsQ6Ck6788KSPHQ",
+    google: "2ThcSNYJlU2Njanaq9XozBgCOcYRAORzEJKw727-xw4",
   },
 };
 
