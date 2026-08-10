@@ -30,7 +30,7 @@ export async function generateMetadata({ params }) {
       },
 
       alternates: {
-        canonical: `https://www.surajplasticindustries.com/${product.slug}/`,
+        canonical: `https://www.surajplasticindustries.com/${product.slug}`,
       },
     };
   }
@@ -51,7 +51,7 @@ export async function generateMetadata({ params }) {
       },
 
       alternates: {
-        canonical: `https://www.surajplasticindustries.com/${blog.slug}/`,
+        canonical: `https://www.surajplasticindustries.com/${blog.slug}`,
       },
     };
   }
