@@ -8,15 +8,10 @@ import Certified from "../components/Certified";
 
 
 export const metadata = {
-  title:
-    "Best Mineral Water Bottle Making Machine Manufacturer - Suraj Plastic Industries",
+  title: "About - Suraj Plastic Industries",
   description:
-    "Suraj Plastic Industries — trusted Mineral Water Bottle Making Machine Manufacturer in Delhi since 1997. ISO certified, 1480+ installations, NSIC award winner. Get a quote today.",
-  keywords: [
-    "Mineral Water Bottle Making Machine Manufacturer",
-    "Water Bottle Making Machine Manufacturer",
-    "Mineral Water Bottle Making Machine Manufacturer in Delhi",
-  ],
+    "We Deliver Reliable & Innovative Manufacturing Solutions. Founded in 1982, Suraj Plastic Industries began as a manufacturer of blow-moulded plastic products, earning the trust of leading brands through consistent quality and reliability.",
+  keywords: ["About us", "Blow Moulding Machine Manufacturer and supplier"],
   alternates: {
     canonical: "/about-us",
   },

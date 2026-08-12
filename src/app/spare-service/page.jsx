@@ -1,7 +1,17 @@
-"use client";
-
 import Link from "next/link";
 import { FaChevronRight, FaHouse } from "react-icons/fa6";
+
+export const metadata = {
+  title: "Spare & Services",
+
+  description: "Spare & Services",
+
+  keywords: ["surajplastic", "surajplasticindustries"],
+
+  alternates: {
+    canonical: "/spare-service",
+  },
+};
 
 export default function SpareServiceHero() {
   return (
