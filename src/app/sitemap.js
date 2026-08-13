@@ -3,6 +3,8 @@ import { blogs } from "@/app/data/blogs";
 
 const BASE_URL = "https://www.surajplasticindustries.com";
 
+export const dynamic = "force-static";
+
 export default async function sitemap() {
   const staticPages = [
     "",
