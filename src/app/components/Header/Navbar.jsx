@@ -10,7 +10,7 @@ import MobileMenu from "./MobileMenu";
 
 const menus = [
   { name: "HOME", href: "/" },
-  { name: "ABOUT US", href: "/about-us" },
+  { name: "ABOUT US", href: "/about" },
   {
     name: "PRODUCTS",
     href: "/products",
@@ -18,23 +18,23 @@ const menus = [
     items: [
       {
         name: "Semi Automatic Stretch Blow Moulding Machine",
-        href: "/semi-automatic-stretch-blow-moulding-machine",
+        href: "/products/semi-automatic-stretch-blow-moulding-machine",
       },
       {
         name: "High Speed Pet Perform Stretch Blow Moulding Machine",
-        href: "/high-speed-pet-perform-stretch-blow-moulding-machine",
+        href: "/products/high-speed-pet-perform-stretch-blow-moulding-machine",
       },
       {
         name: "Pet Jar Making Machine",
-        href: "/pet-jar-making-machine",
+        href: "/products/pet-jar-making-machine",
       },
       {
         name: "Automatic Hand Feed Pet Perform Stretch Blow Moulding Machine",
-        href: "/automatic-hand-feed-pet-perform-stretch-blow-moulding-machine",
+        href: "/products/automatic-hand-feed-pet-perform-stretch-blow-moulding-machine",
       },
       {
         name: "Fully Automatic Pet Perform Stretch Blow Moulding Machine",
-        href: "/fully-automatic-stretch-blow-moulding-machine",
+        href: "/products/fully-automatic-stretch-blow-moulding-machine",
       },
     ],
   },

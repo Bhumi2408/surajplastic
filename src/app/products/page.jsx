@@ -125,7 +125,7 @@ export default function ProductsPage() {
 
                             <Link
                                 key={item.slug}
-                                href={`/${item.slug}`}
+                                href={`/products/${item.slug}`}
                                 className="group"
                             >
 

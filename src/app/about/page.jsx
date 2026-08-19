@@ -13,7 +13,7 @@ export const metadata = {
     "We Deliver Reliable & Innovative Manufacturing Solutions. Founded in 1982, Suraj Plastic Industries began as a manufacturer of blow-moulded plastic products, earning the trust of leading brands through consistent quality and reliability.",
   keywords: ["About us", "Blow Moulding Machine Manufacturer and supplier"],
   alternates: {
-    canonical: "/about-us",
+    canonical: "/about",
   },
 };
 

@@ -26,3 +26,28 @@ ErrorDocument 404 /404.html
 # (used only as static asset folders, not real pages) don't expose their
 # raw file listing when visited directly
 Options -Indexes
+
+# Serve extensionless URLs (e.g. /about) from their matching .html file
+# (e.g. about.html) without a redirect and without exposing ".html"
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Force the www host — matches the canonical URLs, sitemap, and metadataBase
+  # used throughout the site (https://www.surajplasticindustries.com). Without
+  # this, the non-www host serves the same pages too, so search engines and
+  # visitors see two different URLs for every page.
+  RewriteCond %{HTTP_HOST} ^surajplasticindustries\.com$ [NC]
+  RewriteRule ^(.*)$ https://www.surajplasticindustries.com/$1 [L,R=301]
+
+  # Already a real, directly-requested file (images, css, etc.) — leave it alone.
+  # Note: intentionally NOT checking "-d" here — Next.js's static export also
+  # creates a same-named folder next to each .html file (internal route data,
+  # not a page), and letting that fall through to Apache's default directory
+  # handling would re-trigger a trailing-slash redirect.
+  RewriteCond %{REQUEST_FILENAME} -f
+  RewriteRule ^ - [L]
+
+  # /some/path -> /some/path.html, served in place (no redirect)
+  RewriteCond %{REQUEST_FILENAME}\.html -f
+  RewriteRule ^(.*)$ $1.html [L]
+</IfModule>

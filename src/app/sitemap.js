@@ -8,7 +8,7 @@ export const dynamic = "force-static";
 export default async function sitemap() {
   const staticPages = [
     "",
-    "/about-us",
+    "/about",
     "/contact-us",
     "/blog",
     "/products",
@@ -22,14 +22,14 @@ export default async function sitemap() {
   }));
 
   const productPages = products.map((product) => ({
-    url: `${BASE_URL}/${product.slug}`,
+    url: `${BASE_URL}/products/${product.slug}`,
     lastModified: new Date(),
     changeFrequency: "daily",
     priority: 0.9,
   }));
 
   const blogPages = blogs.map((blog) => ({
-    url: `${BASE_URL}/${blog.slug}`,
+    url: `${BASE_URL}/blog/${blog.slug}`,
     lastModified: new Date(),
     changeFrequency: "daily",
     priority: 0.7,

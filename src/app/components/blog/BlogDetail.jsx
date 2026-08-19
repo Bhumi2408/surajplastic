@@ -137,7 +137,7 @@ export default function BlogDetail({ blog }) {
 
                     <Link
                       key={item.slug}
-                      href={`/${item.slug}`}
+                      href={`/blog/${item.slug}`}
                       className="block border-b pb-4 transition hover:text-[#CB6801]"
                     >
 

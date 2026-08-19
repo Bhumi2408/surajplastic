@@ -472,8 +472,8 @@ export const products = [
       {
         type: "paragraph",
         content: [
-          { text: "Our" },
-          { bold: "Semi Automatic Stretch Blow Moulding Machines" },
+          { text: "Our " },
+          { text: "Semi Automatic Stretch Blow Moulding Machines", bold: true },
           { text: " are trusted by businesses involved in:" }
         ],
       },
@@ -3453,7 +3453,7 @@ export const products = [
         type: "paragraph",
         content: [
           { text: "A " },
-          { text: "stretch blow moulding machine manufacturer", bold: true, link: "/semi-automatic-stretch-blow-moulding-machine" },
+          { text: "stretch blow moulding machine manufacturer", bold: true, link: "/products/semi-automatic-stretch-blow-moulding-machine" },
           { text: " equipment that converts a PET preform into a finished, ready-to-fill plastic bottle. It does this through a precise combination of heat, mechanical stretching, and high-pressure air blowing — all happening inside a mould that gives the bottle its final shape." },
         ],
       },
@@ -3739,7 +3739,7 @@ export const products = [
         type: "paragraph",
         content: [
           { text: "If you are evaluating " },
-          { text: "stretch blow moulding machine manufacturer", bold: true, link: "/fully-automatic-stretch-blow-moulding-machine" },
+          { text: "stretch blow moulding machine manufacturer", bold: true, link: "/products/fully-automatic-stretch-blow-moulding-machine" },
           { text: " in delhi for your business, here is a simple checklist to help you make the right decision:" },
         ],
       },
@@ -4499,7 +4499,7 @@ export const products = [
         type: "paragraph",
         content: [
           { text: "The operator loads the preform manually. The machine takes over from there — heating, " },
-          { text: "stretching, and blowing", bold: true, link: "/stretch-blow-moulding-machine-manufacturer" },
+          { text: "stretching, and blowing", bold: true, link: "/products/stretch-blow-moulding-machine-manufacturer" },
           { text: " automatically. Simple to operate, easy to maintain, and ideal for businesses just starting out or running small to medium scale production." },
         ],
       },

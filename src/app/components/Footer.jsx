@@ -13,7 +13,7 @@ import { RiFacebookCircleFill } from "react-icons/ri";
 
 const quickLinks = [
   { title: "HOME", href: "/" },
-  { title: "ABOUT US", href: "/about-us" },
+  { title: "ABOUT US", href: "/about" },
   { title: "PRODUCTS", href: "/products" },
   { title: "CAREER", href: "/career" },
   { title: "CONTACT US", href: "/contact-us" },

@@ -5,7 +5,7 @@ export default function BlogCard({ blog }) {
   return (
     <article className="group overflow-hidden rounded-3xl border bg-white shadow-sm transition duration-500 hover:-translate-y-2 hover:shadow-2xl">
 
-      <Link href={`/${blog.slug}`}>
+      <Link href={`/blog/${blog.slug}`}>
 
         <div className="relative h-[230px] overflow-hidden">
 
@@ -26,7 +26,7 @@ export default function BlogCard({ blog }) {
           {blog.category}
         </span>
 
-        <Link href={`/${blog.slug}`}>
+        <Link href={`/blog/${blog.slug}`}>
 
           <h2 className="mt-2 line-clamp-2 font-baloo text-2xl leading-snug font-semibold text-[#13233B] transition group-hover:text-[#D97706]">
             {blog.title}
@@ -53,7 +53,7 @@ export default function BlogCard({ blog }) {
           </div>
 
           <Link
-            href={`/${blog.slug}`}
+            href={`/blog/${blog.slug}`}
             className="rounded-full border border-[#13233B] px-6 py-3 text-sm font-semibold text-[#13233B] transition hover:bg-[#13233B] hover:text-white"
           >
             Read More

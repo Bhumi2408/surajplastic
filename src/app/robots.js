@@ -8,6 +8,6 @@ export default function robots() {
       userAgent: "*",
       allow: ["/", "/llms.txt"],
     },
-    sitemap: `${BASE_URL}/sitemap.xml`,
+    sitemap: `${BASE_URL}sitemap.xml`,
   };
 }

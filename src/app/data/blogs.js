@@ -315,7 +315,7 @@ export const blogs = [
                     "name": "Suraj Plastic Industries",
                     "logo": {
                         "@type": "ImageObject",
-                        "url": "https://surajplasticindustries.com/wp-content/uploads/2024/09/cropped-logo.png"
+                        "url": "https://www.surajplasticindustries.com/logo.png"
                     }
                 },
                 "datePublished": "2026-08-13",
