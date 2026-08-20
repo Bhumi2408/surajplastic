@@ -58,6 +58,9 @@ const clients = [
   { image: "/home/client16.png", alt: "Client 16" },
   { image: "/home/client17.jpg", alt: "Client 17" },
   { image: "/home/client18.png", alt: "Client 18" },
+  { image: "/home/client19.jpeg", alt: "Client 19" },
+  { image: "/home/client20.jpeg", alt: "Client 20" },
+  { image: "/home/client21.jpeg", alt: "Client 21" },
 ];
 
 
