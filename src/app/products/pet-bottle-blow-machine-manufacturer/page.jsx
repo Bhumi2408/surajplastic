@@ -1,5 +1,5 @@
-import Hero from "../components/product/Hero";
-import SeoRenderer from "../components/product/SeoRenderer";
+import Hero from "../../components/product/Hero";
+import SeoRenderer from "../../components/product/SeoRenderer";
 
 export const metadata = {
   title: "PET Bottle Blow Machine Manufacturer | Suraj Plastic",
@@ -8,7 +8,7 @@ export const metadata = {
     "Trusted PET Bottle Blow Machine Manufacturer offering durable, energy-efficient machines for PET bottle production. Get expert consultation & quote today!",
 
   alternates: {
-    canonical: "/pet-bottle-blow-machine-manufacturer",
+    canonical: "/products/pet-bottle-blow-machine-manufacturer",
   },
 };
 

@@ -1,5 +1,5 @@
-import Hero from "../components/product/Hero";
-import SeoRenderer from "../components/product/SeoRenderer";
+import Hero from "../../components/product/Hero";
+import SeoRenderer from "../../components/product/SeoRenderer";
 
 export const metadata = {
   title: "Automatic PET Bottle Moulding Machine Manufacturer | Suraj",
@@ -8,7 +8,7 @@ export const metadata = {
     "Suraj Plastic Industries — trusted Automatic PET Bottle Moulding Machine Manufacturer. Durable, energy-efficient machines built for high-speed production",
 
   alternates: {
-    canonical: "/automatic-pet-bottle-moulding-machine-manufacturer",
+    canonical: "/products/automatic-pet-bottle-moulding-machine-manufacturer",
   },
 };
 

@@ -3102,8 +3102,9 @@ export const products = [
         content: [
           { text: "In today's competitive packaging industry, producing high-quality PET bottles requires advanced machinery that delivers speed, precision, and reliability. Choosing the right" },
           {
-            text: "Stretch Blow Moulding Machine Manufacturer",
+            text: " Stretch Blow Moulding Machine Manufacturer ",
             bold: true,
+            link: "/contact-us",
           },
           { text: "is essential for businesses that want to improve production efficiency, reduce operational costs, and manufacture premium-quality PET bottles." },
         ],
@@ -3176,7 +3177,7 @@ export const products = [
       {
         type: "paragraph",
         content: [{ text: "Our commitment to quality has made us one of the preferred" },
-        { text: "Stretch Blow Moulding Machine Manufacturers", bold: true }, { text: "  for businesses across India." }],
+        { text: " Stretch Blow Moulding Machine Manufacturers", bold: true }, { text: "  for businesses across India." }],
       },
 
       {

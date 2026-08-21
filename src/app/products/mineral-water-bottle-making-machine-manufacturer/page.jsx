@@ -1,6 +1,5 @@
-import Hero from "../components/product/Hero";
-import SeoRenderer from "../components/product/SeoRenderer";
-
+import Hero from "../../components/product/Hero";
+import SeoRenderer from "../../components/product/SeoRenderer";
 export const metadata = {
   title: "Top Mineral Water Bottle Making Machine Manufacturer",
 
@@ -8,7 +7,7 @@ export const metadata = {
     "Buy high-performance Mineral Water Bottle Making Machines from Suraj Plastic Industries. Reliable, efficient & backed by expert support. Contact us today!",
 
   alternates: {
-    canonical: "/mineral-water-bottle-making-machine-manufacturer",
+    canonical: "/products/mineral-water-bottle-making-machine-manufacturer",
   },
 };
 

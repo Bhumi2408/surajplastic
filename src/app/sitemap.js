@@ -12,6 +12,9 @@ export default async function sitemap() {
     "/contact-us",
     "/blog",
     "/products",
+    "/products/automatic-pet-bottle-moulding-machine-manufacturer",
+    "/products/mineral-water-bottle-making-machine-manufacturer",
+    "/products/pet-bottle-blow-machine-manufacturer",
     "/career",
     "/spare-service",
   ].map((route) => ({
