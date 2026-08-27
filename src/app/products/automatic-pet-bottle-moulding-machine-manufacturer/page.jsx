@@ -206,7 +206,7 @@ const content = [
   {
     type: "paragraph",
     content: [
-      { text: "View Fully Automatic PET Machine", bold: true, link: "/products/fully-automatic-stretch-blow-moulding-machine" },
+      { text: "View Fully Automatic PET Machine", bold: true, link: "/products/fully-automatic-pet-stretch-blow-moulding-machine" },
     ],
   },
 

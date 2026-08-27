@@ -32,7 +32,7 @@ export const products = [
   },
   {
     name: "Fully Automatic Pet Perform Stretch Blow Moulding Machine",
-    slug: "fully-automatic-stretch-blow-moulding-machine",
+    slug: "fully-automatic-pet-stretch-blow-moulding-machine",
     image: "/product/product5.png",
   },
 ];

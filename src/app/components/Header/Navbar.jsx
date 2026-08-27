@@ -34,7 +34,7 @@ const menus = [
       },
       {
         name: "Fully Automatic Pet Perform Stretch Blow Moulding Machine",
-        href: "/products/fully-automatic-stretch-blow-moulding-machine",
+        href: "/products/fully-automatic-pet-stretch-blow-moulding-machine",
       },
     ],
   },

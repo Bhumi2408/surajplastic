@@ -39,6 +39,11 @@ const nextConfig = {
         destination: "/products/semi-automatic-pet-stretch-blow-moulding-machine",
         permanent: true,
       },
+      {
+        source: "/products/fully-automatic-stretch-blow-moulding-machine",
+        destination: "/products/fully-automatic-pet-stretch-blow-moulding-machine",
+        permanent: true,
+      },
     ];
   },
 };

@@ -34,7 +34,7 @@ const products = [
   },
   {
     title: "Fully Automatic Stretch Blow Moulding Machine",
-    href: "/products/fully-automatic-stretch-blow-moulding-machine",
+    href: "/products/fully-automatic-pet-stretch-blow-moulding-machine",
   },
 ];
 

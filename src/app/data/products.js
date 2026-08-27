@@ -22,6 +22,8 @@ export const products = [
     metaDescription:
       "Buy a reliable Semi Automatic PET Stretch Blow Moulding Machine from Suraj Plastic Industries. PET bottle making machines for 50 ml to 25 L bottles with up to 700 BPH output.",
 
+    keywords: "Semi Automatic PET Stretch Blow Moulding Machine",
+
     // ==========================================
     // OVERVIEW
     // ==========================================
@@ -2548,7 +2550,7 @@ export const products = [
     // BASIC
     // ==========================================
 
-    slug: "fully-automatic-stretch-blow-moulding-machine",
+    slug: "fully-automatic-pet-stretch-blow-moulding-machine",
 
     name: "Fully Automatic PET Stretch Blow Moulding Machine",
 
