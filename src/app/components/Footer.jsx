@@ -22,7 +22,7 @@ const quickLinks = [
 const products = [
   {
     title: "Semi Automatic Stretch Blow Moulding Machine",
-    href: "/products/semi-automatic-stretch-blow-moulding-machine",
+    href: "/products/semi-automatic-pet-stretch-blow-moulding-machine",
   },
   {
     title: "High Speed Semi Automatic Stretch Blow Moulding Machine",

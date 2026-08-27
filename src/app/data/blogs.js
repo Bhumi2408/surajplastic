@@ -467,7 +467,7 @@ export const blogs = [
                     {
                         text: "semi automatic stretch blow moulding machine",
                         bold: true,
-                        link: "/products/semi-automatic-stretch-blow-moulding-machine"
+                        link: "/products/semi-automatic-pet-stretch-blow-moulding-machine"
                     },
                     {
                         text: " is usually the better starting point — and in this article, we'll explain exactly why. We'll also look at why demand for a semi automatic stretch blow moulding machine in Delhi has been growing steadily, and answer some of the most common questions buyers have before making a purchase."
@@ -673,7 +673,7 @@ export const blogs = [
                     {
                         text: "stretch automatic blow molding machine",
                         bold: true,
-                        link: "/products/semi-automatic-stretch-blow-moulding-machine"
+                        link: "/products/semi-automatic-pet-stretch-blow-moulding-machine"
                     },
                     {
                         text: " in Delhi from a reputable local manufacturer offers companies in the capital region the added benefit of quicker support and service."

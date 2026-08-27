@@ -12,7 +12,7 @@ export const metadata = {
 export const products = [
   {
     name: "Pet Perform Stretch Blow Moulding Machine",
-    slug: "semi-automatic-stretch-blow-moulding-machine",
+    slug: "semi-automatic-pet-stretch-blow-moulding-machine",
     image: "/product/product1.png",
   },
   {

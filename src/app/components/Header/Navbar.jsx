@@ -18,7 +18,7 @@ const menus = [
     items: [
       {
         name: "Semi Automatic Stretch Blow Moulding Machine",
-        href: "/products/semi-automatic-stretch-blow-moulding-machine",
+        href: "/products/semi-automatic-pet-stretch-blow-moulding-machine",
       },
       {
         name: "High Speed Pet Perform Stretch Blow Moulding Machine",

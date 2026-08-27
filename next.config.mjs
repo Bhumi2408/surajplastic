@@ -31,6 +31,16 @@ const nextConfig = {
   },
 
   productionBrowserSourceMaps: false,
+
+  async redirects() {
+    return [
+      {
+        source: "/products/semi-automatic-stretch-blow-moulding-machine",
+        destination: "/products/semi-automatic-pet-stretch-blow-moulding-machine",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;

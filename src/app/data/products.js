@@ -4,9 +4,9 @@ export const products = [
     // BASIC
     // ==========================================
 
-    slug: "semi-automatic-stretch-blow-moulding-machine",
+    slug: "semi-automatic-pet-stretch-blow-moulding-machine",
 
-    name: "Semi Automatic Stretch Blow Moulding Machine ",
+    name: "Semi Automatic PET Stretch Blow Moulding Machine",
 
     heroImage: "/bg.jpg",
 
@@ -17,26 +17,22 @@ export const products = [
     // ==========================================
 
     metaTitle:
-      "Best Semi Automatic Stretch Blow Moulding Machine in Delhi | Suraj Plastic Industries",
+      "Semi Automatic PET Stretch Blow Moulding Machine | Suraj Plastic",
 
     metaDescription:
-      "Buy a high-quality Semi Automatic Stretch Blow Moulding Machine from Suraj Plastic Industries. Energy-efficient, durable PET bottle making machines with reliable performance and after-sales support.",
-
-    keywords:
-      "Semi Automatic Stretch Blow Moulding Machine, Semi Automatic Stretch Blow Moulding Machine Manufacturer, Semi Automatic Stretch Blow Moulding Machine manufacturer in Delhi ",
+      "Buy a reliable Semi Automatic PET Stretch Blow Moulding Machine from Suraj Plastic Industries. PET bottle making machines for 50 ml to 25 L bottles with up to 700 BPH output.",
 
     // ==========================================
     // OVERVIEW
     // ==========================================
 
-    shortDescription:
-      ["A **Semi Automatic Stretch Blow Moulding Machine** is an ideal solution for manufacturing high-quality PET bottles with excellent precision, energy efficiency, and cost-effective production. Suraj Plastic Industries is a trusted Semi Automatic Stretch Blow Moulding Machine Manufacturer in India, delivering advanced PET bottle making machines since 1982. Our ISO 9001:2015 certified machines are designed for reliable performance, low maintenance, and high productivity, making them suitable for the mineral water, beverage, pharmaceutical, edible oil, cosmetics, and packaging industries."],
-
-    features: [
-      "Supports bottle sizes from 50 ML to 25 LTR",
-      "Output capacity up to 700 Bottles Per Hour",
-      "Hydro-Pneumatic smooth operation for consistent shaping",
+    shortDescription: [
+      "Suraj Plastic Industries is a trusted [Semi Automatic PET Stretch Blow Moulding Machine](/contact-us) Manufacturer in India, offering reliable and cost-effective PET bottle manufacturing solutions for businesses across different industries. Our semi automatic stretch blow moulding machines are designed to convert PET preforms into high-quality bottles with consistent shape, strength, clarity and dimensional accuracy.",
+      "With a production capacity of up to 700 bottles per hour and support for bottle sizes from 50 ml to 25 litres, our machines provide the flexibility required for different PET bottle manufacturing applications. The semi automatic operating system offers a practical balance between investment, production control, operating simplicity and manufacturing efficiency.",
+      "Whether you manufacture water bottles, beverage containers, edible oil bottles, pharmaceutical containers, cosmetic bottles or other PET packaging products, Suraj Plastic Industries provides dependable PET bottle making machines designed for consistent and efficient production.",
     ],
+
+    features: [],
 
 
     // ==========================================
@@ -45,695 +41,636 @@ export const products = [
 
     seo: [
       {
-        type: "h3",
-        text: "Best Semi Automatic Stretch Blow Moulding Machine Manufacturer from Suraj Plastic Industries",
+        type: "h2",
+        text: "Semi Automatic PET Stretch Blow Moulding Machine Manufacturer",
       },
 
       {
         type: "paragraph",
-        content: [
-          {
-            text: "When it comes to manufacturing high-quality PET bottles with precision and consistency, investing in a ",
-          },
-          {
-            text: "Semi Automatic Stretch Blow Moulding Machine",
-            bold: true,
-            link: "/",
-          },
-          {
-            text: "  is one of the smartest decisions for any packaging business. Whether you are a startup, a growing manufacturer, or an established beverage company, this machine offers the perfect balance of affordability, productivity, and efficiency.",
-          },
+        text: "A semi automatic PET stretch blow moulding machine is a two-stage PET bottle manufacturing machine that uses heated PET preforms, stretching and compressed air to form finished bottles inside a mould.",
+      },
+
+      {
+        type: "paragraph",
+        text: "Unlike fully automatic systems, semi automatic machines provide greater manual control during the production process and can be a suitable choice for small and medium-scale manufacturers, new PET bottle production units and businesses looking for a flexible bottle manufacturing solution.",
+      },
+
+      {
+        type: "paragraph",
+        text: "At Suraj Plastic Industries, our machines are engineered with a focus on:",
+      },
+
+      {
+        type: "list",
+        items: [
+          "Consistent PET bottle quality",
+          "Reliable machine performance",
+          "Efficient preform heating",
+          "Accurate stretching and blowing",
+          "Easy operation",
+          "Lower maintenance requirements",
+          "Flexible bottle production",
+          "Long-term industrial use",
+          "Cost-effective production",
         ],
       },
 
       {
         type: "paragraph",
-        content: [
-          {
-            text: "Suraj Plastic Industries ",
-            bold: true,
-          },
-          {
-            text: "is a trusted name in the PET packaging machinery industry, offering advanced ",
-          },
-          {
-            text: "Semi Automatic Stretch Blow Moulding Machines ",
-            bold: true,
-          },
-          {
-            text: "  designed to deliver excellent performance, low maintenance, and long service life. Our machines are manufactured using premium-grade components and modern engineering techniques to meet the diverse requirements of water bottle manufacturers, edible oil companies, pharmaceutical industries, cosmetic brands, food packaging businesses, and chemical manufacturers.",
-          },
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "If you are looking for a reliable machine that provides consistent bottle quality while reducing production costs, Suraj Plastic Industries has the right solution for your business."
+        text: "Our experience in PET stretch blow moulding machinery enables us to provide machines suitable for different bottle manufacturing requirements.",
       },
 
       {
         type: "h2",
-        text: "How Does a Semi Automatic Stretch Blow Moulding Machine Work?",
+        text: "Technical Specifications of Semi Automatic PET Stretch Blow Moulding Machine",
       },
 
       {
-        type: "paragraph",
-        text: "Understanding the working process helps manufacturers optimize production efficiency.",
-      },
-
-      {
-        type: "timeline",
-        items: [
-          {
-            title: "Step 1: PET Preform Heating",
-            description:
-              "PET preforms are placed inside the infrared heating oven where they are heated evenly to the required temperature.",
-          },
-          {
-            title: "Step 2: Manual Loading",
-            description:
-              "The heated preforms are manually placed inside the mould cavity.",
-          },
-          {
-            title: "Step 3: Stretching Process",
-            description:
-              "A stretching rod extends the heated preform vertically before blowing begins.",
-          },
-          {
-            title: "Step 4: High Pressure Air Blowing",
-            description:
-              "Compressed air expands the preform against the mould walls, creating the desired bottle shape.",
-          },
-          {
-            title: "Step 5: Cooling",
-            description:
-              "The mould cools the bottle quickly to maintain dimensional accuracy.",
-          },
-          {
-            title: "Step 6: Manual Bottle Removal",
-            description:
-              "The finished bottle is removed by the operator and prepared for further processing such as filling or packaging.",
-          },
+        type: "table",
+        headers: ["Parameter", "Suraj Plastic Industries"],
+        rows: [
+          ["Machine Type", "Semi Automatic PET Stretch Blow Moulding Machine"],
+          ["Material", "PET"],
+          ["Bottle Capacity", "50 ml to 25 litres"],
+          ["Production Capacity", "Up to 700 bottles/hour"],
+          ["Bottle Shape", "Based on mould design"],
+          ["Operation", "Semi Automatic"],
+          ["Heating System", "Infrared Heating System"],
+          ["Stretching System", "Precision Stretching Mechanism"],
+          ["Bottle Formation", "Stretching + High-Pressure Air Blowing"],
+          ["Moulding System", "Hydro-Pneumatic"],
+          ["Application", "PET Bottle Manufacturing"],
         ],
-      },
-
-      {
-        type: "paragraph",
-        text: "This process ensures consistent bottle quality with excellent transparency and strength.",
-      },
-
-      {
-        type: "h3",
-        text: "Key Features of Semi Automatic Stretch Blow Moulding Machine",
       },
 
       {
         type: "paragraph",
         content: [
-          {
-            text: "At ",
-          },
-          {
-            text: "Suraj Plastic Industries",
-            bold: true,
-          },
-          {
-            text: " every machine is designed to maximize productivity while minimizing downtime.",
-          },
+          { text: "Note: ", bold: true },
+          { text: "Production output, bottle range and other technical parameters may vary according to bottle design, preform weight, mould configuration and machine model. Contact Suraj Plastic Industries for the exact specification of the machine required for your application." },
         ],
       },
 
       {
-        type: "checklist",
-        items: [
-          [
-            {
-              text: "Heavy Duty Machine Construction ",
-              bold: true,
-            },
-            {
-              text: "The machine body is manufactured using robust steel components to ensure durability and vibration-free operation.",
-            },
-          ],
-
-          [
-            {
-              text: "High Production Efficiency – ",
-              bold: true,
-            },
-            {
-              text: "Designed for continuous production with stable performance throughout long working hours.",
-            },
-          ],
-
-          [
-            {
-              text: "Low Power Consumption – ",
-              bold: true,
-            },
-            {
-              text: "Energy-efficient heating system helps reduce electricity costs.",
-            },
-          ],
-
-          [
-            {
-              text: "Uniform Heating System – ",
-              bold: true,
-            },
-            {
-              text: "Advanced infrared heaters ensure even heating of PET preforms for perfect bottle formation.",
-            },
-          ],
-
-          [
-            {
-              text: "User-Friendly Controls – ",
-              bold: true,
-            },
-            {
-              text: "Simple control panel allows operators to manage production with minimal training.",
-            },
-          ],
-
-          [
-            {
-              text: "High Bottle Accuracy – ",
-              bold: true,
-            },
-            {
-              text: "Produces bottles with consistent wall thickness and superior finish.",
-            },
-          ],
-
-          [
-            {
-              text: "Easy Maintenance – ",
-              bold: true,
-            },
-            {
-              text: "Machine design enables quick servicing and low maintenance costs.",
-            },
-          ],
-
-          [
-            {
-              text: "Long Operational Life – ",
-              bold: true,
-            },
-            {
-              text: "Premium components ensure reliable operation for years.",
-            },
-          ],
-        ],
-      },
-
-      {
-        type: "h4",
-        text: "Applications of Semi Automatic Stretch Blow Moulding Machine",
+        type: "h2",
+        text: "How Does a Semi Automatic PET Stretch Blow Moulding Machine Work?",
       },
 
       {
         type: "paragraph",
-        content: [
-          {
-            text: "A ",
-          },
-          {
-            text: "Best Semi Automatic Stretch Blow Moulding Machine Manufacturer",
-            bold: true,
-          },
-          {
-            text: " is widely used across different industries.",
-          },
-        ],
-      },
-
-      {
-        type: "applications",
-        items: [
-          {
-            title: "Mineral Water Industry",
-            points: [
-              "Manufacturing PET water bottles in various capacities.",
-            ],
-          },
-
-          {
-            title: "Beverage Industry",
-            points: [
-              "Soft drink bottles",
-              "Juice bottles",
-              "Energy drink bottles",
-              "Soda bottles",
-            ],
-          },
-
-          {
-            title: "Pharmaceutical Industry",
-            points: [
-              "Syrup bottles",
-              "Medicine bottles",
-              "Healthcare containers",
-            ],
-          },
-
-          {
-            title: "Food Industry",
-            points: [
-              "Edible oils",
-              "Sauces",
-              "Honey",
-              "Vinegar",
-            ],
-          },
-
-          {
-            title: "Cosmetic Industry",
-            points: [
-              "Shampoo bottles",
-              "Lotion bottles",
-              "Face wash bottles",
-              "Hair oil bottles",
-            ],
-          },
-
-          {
-            title: "Chemical Industry",
-            points: [
-              "Used for manufacturing containers for cleaning chemicals and industrial liquids.",
-            ],
-          },
-        ],
+        text: "The PET bottle manufacturing process starts with a PET preform. The preform is heated to the required temperature and then stretched and blown inside a mould to obtain the required bottle shape.",
       },
 
       {
         type: "h4",
-        text: "Benefits of Using Semi Automatic Stretch Blow Moulding Machine",
+        text: "1. PET Preform Heating",
+      },
+
+      {
+        type: "paragraph",
+        text: "PET preforms are heated using an infrared heating system. Controlled and uniform heating helps prepare the preform for the stretching and blowing process.",
+      },
+
+      {
+        type: "h4",
+        text: "2. Preform Loading",
+      },
+
+      {
+        type: "paragraph",
+        text: "In a semi automatic machine, the heated preform is positioned in the mould according to the machine's operating process.",
+      },
+
+      {
+        type: "h4",
+        text: "3. Stretching",
+      },
+
+      {
+        type: "paragraph",
+        text: "A stretching mechanism extends the heated PET preform vertically. Proper stretching helps achieve the required bottle dimensions and material distribution.",
+      },
+
+      {
+        type: "h4",
+        text: "4. High-Pressure Air Blowing",
+      },
+
+      {
+        type: "paragraph",
+        text: "Compressed air is introduced into the stretched preform. The preform expands against the mould cavity and takes the required bottle shape.",
+      },
+
+      {
+        type: "h4",
+        text: "5. Cooling and Bottle Formation",
+      },
+
+      {
+        type: "paragraph",
+        text: "The formed bottle is cooled inside the mould so that it retains its required dimensions, shape and structural stability.",
+      },
+
+      {
+        type: "h4",
+        text: "6. Bottle Removal",
+      },
+
+      {
+        type: "paragraph",
+        text: "After the blowing cycle is completed, the finished PET bottle is removed from the mould and prepared for the next production stage.",
+      },
+
+      {
+        type: "paragraph",
+        text: "This controlled process helps manufacturers produce PET bottles with consistent appearance, strength and dimensional accuracy.",
+      },
+
+      {
+        type: "h2",
+        text: "Key Features of Our Semi Automatic PET Blow Moulding Machine",
+      },
+
+      {
+        type: "h4",
+        text: "Durable Machine Construction",
+      },
+
+      {
+        type: "paragraph",
+        text: "The machine is designed using robust industrial components to provide stable operation and long-term service life.",
+      },
+
+      {
+        type: "h4",
+        text: "Efficient PET Preform Heating",
+      },
+
+      {
+        type: "paragraph",
+        text: "The infrared heating system helps heat PET preforms before the stretching and blowing stage. Proper heating is essential for achieving consistent bottle formation.",
+      },
+
+      {
+        type: "h4",
+        text: "Hydro-Pneumatic Operation",
+      },
+
+      {
+        type: "paragraph",
+        text: "The hydro-pneumatic system supports smooth and controlled mould operation, contributing to consistent bottle production.",
+      },
+
+      {
+        type: "h4",
+        text: "Consistent Bottle Quality",
+      },
+
+      {
+        type: "paragraph",
+        text: "Controlled stretching, heating and blowing help maintain uniform bottle shape, finish and dimensional accuracy.",
+      },
+
+      {
+        type: "h4",
+        text: "Flexible Bottle Manufacturing",
+      },
+
+      {
+        type: "paragraph",
+        text: "The machine can be configured according to the required bottle mould and application, allowing manufacturers to produce different bottle designs and capacities.",
+      },
+
+      {
+        type: "h4",
+        text: "Easy Operation",
+      },
+
+      {
+        type: "paragraph",
+        text: "The semi automatic configuration provides a straightforward operating process and allows manufacturers to maintain greater control over production.",
+      },
+
+      {
+        type: "h4",
+        text: "Low Maintenance Requirements",
+      },
+
+      {
+        type: "paragraph",
+        text: "A practical machine design and accessible components help simplify routine inspection and maintenance.",
+      },
+
+      {
+        type: "h4",
+        text: "Cost-Effective Production",
+      },
+
+      {
+        type: "paragraph",
+        text: "Semi automatic PET bottle making machines can offer a lower initial investment than fully automatic production systems while still providing efficient bottle manufacturing capabilities.",
+      },
+
+      {
+        type: "h2",
+        text: "Applications of Semi Automatic PET Stretch Blow Moulding Machine",
+      },
+
+      {
+        type: "paragraph",
+        text: "Our semi automatic PET stretch blow moulding machines can be used for manufacturing different types of PET containers and bottles.",
+      },
+
+      {
+        type: "h4",
+        text: "Mineral Water Bottles",
+      },
+
+      {
+        type: "paragraph",
+        text: "Suitable for manufacturing PET bottles used by packaged drinking water and mineral water businesses.",
+      },
+
+      {
+        type: "h4",
+        text: "Beverage Bottles",
+      },
+
+      {
+        type: "paragraph",
+        text: "Used for PET packaging applications such as:",
+      },
+
+      {
+        type: "list",
+        items: ["Soft drinks", "Carbonated beverages", "Juice", "Energy drinks", "Other beverage products"],
+      },
+
+      {
+        type: "h4",
+        text: "Edible Oil Bottles",
+      },
+
+      {
+        type: "paragraph",
+        text: "PET bottles can be manufactured for edible oil and food packaging applications according to the required bottle design and mould.",
+      },
+
+      {
+        type: "h4",
+        text: "Pharmaceutical Packaging",
+      },
+
+      {
+        type: "paragraph",
+        text: "The machine can be used for manufacturing suitable PET containers for pharmaceutical and healthcare packaging applications.",
+      },
+
+      {
+        type: "h4",
+        text: "Cosmetic Packaging",
+      },
+
+      {
+        type: "paragraph",
+        text: "PET containers for products such as:",
+      },
+
+      {
+        type: "list",
+        items: ["Shampoo", "Lotion", "Hair oil", "Personal care products", "Cosmetic liquids"],
+      },
+
+      {
+        type: "paragraph",
+        text: "can be manufactured according to the required mould design.",
+      },
+
+      {
+        type: "h4",
+        text: "Food Packaging",
+      },
+
+      {
+        type: "paragraph",
+        text: "PET containers can also be used for suitable food-related packaging applications such as sauces, honey, vinegar and other liquid products.",
+      },
+
+      {
+        type: "h4",
+        text: "Chemical Packaging",
+      },
+
+      {
+        type: "paragraph",
+        text: "Depending on the product and container specifications, PET bottles can be manufactured for selected chemical and household liquid packaging applications.",
+      },
+
+      {
+        type: "h2",
+        text: "Advantages of Using a Semi Automatic PET Bottle Making Machine",
       },
 
       {
         type: "benefits",
         items: [
           {
-            title: "Affordable Investment",
-            description:
-              "Compared to fully automatic systems, semi automatic machines require lower capital investment.",
+            title: "Lower Initial Investment",
+            description: "Semi automatic machines generally require a lower investment compared with fully automatic PET bottle production systems, making them suitable for businesses starting or expanding PET bottle manufacturing.",
           },
-
           {
-            title: "Higher Production Quality",
-            description:
-              "Maintains excellent bottle clarity, strength, and dimensional accuracy.",
+            title: "Production Flexibility",
+            description: "Manufacturers can select mould configurations according to their bottle size, shape and application requirements.",
           },
-
-          {
-            title: "Flexible Bottle Manufacturing",
-            description:
-              "Capable of producing bottles in multiple sizes and designs.",
-          },
-
-          {
-            title: "Lower Operating Costs",
-            description:
-              "Requires fewer electrical resources while maintaining consistent output.",
-          },
-
-          {
-            title: "Easy Operation",
-            description:
-              "Even new operators can learn machine handling quickly.",
-          },
-
           {
             title: "Better Production Control",
-            description:
-              "Manual loading allows greater flexibility for different bottle types.",
+            description: "The semi automatic operating process provides greater control over individual production stages and can be useful when manufacturing different bottle designs.",
           },
-
           {
-            title: "Excellent ROI",
-            description:
-              "Ideal for businesses looking to expand production without investing in expensive automation.",
+            title: "Consistent Bottle Quality",
+            description: "Proper preform heating, stretching and blowing help produce bottles with consistent shape, strength and appearance.",
+          },
+          {
+            title: "Suitable for Small and Medium Production Units",
+            description: "The combination of practical operation, flexible production and comparatively lower investment makes semi automatic machinery suitable for small and medium-scale PET bottle manufacturers.",
+          },
+          {
+            title: "Easy Maintenance",
+            description: "Routine inspection, cleaning and preventive maintenance can help keep the machine operating efficiently and reduce unnecessary downtime.",
+          },
+          {
+            title: "Better Return on Investment",
+            description: "For businesses that do not require a fully automated high-speed production line, a semi automatic PET bottle making machine can provide a practical balance between investment and production requirements.",
           },
         ],
       },
 
       {
-        type: "h4",
-        text: "Technical Advantages",
+        type: "h2",
+        text: "Semi Automatic vs Fully Automatic PET Blow Moulding Machine",
       },
 
       {
         type: "paragraph",
-        text: "The advanced engineering of Suraj Plastic Industries machines offers several technical benefits:",
+        text: "Choosing between semi automatic and fully automatic machinery depends on production volume, investment, labour availability, bottle requirements and automation needs.",
       },
 
       {
-        type: "checklist",
+        type: "comparison",
+        headers: ["Feature", "Semi Automatic", "Fully Automatic"],
+        rows: [
+          ["Initial Investment", "Comparatively lower", "Higher"],
+          ["Operation", "Semi automatic", "Highly automated"],
+          ["Production Control", "Higher manual control", "Automated"],
+          ["Labour Requirement", "Higher", "Lower"],
+          ["Production Volume", "Small to medium scale", "Medium to high scale"],
+          ["Flexibility", "High", "Depends on configuration"],
+          ["Best For", "Startups and growing manufacturers", "High-volume production"],
+        ],
+      },
+
+      {
+        type: "paragraph",
+        text: "Businesses should select the machine according to their actual production requirement rather than choosing a machine only on the basis of maximum output.",
+      },
+
+      {
+        type: "h2",
+        text: "What Factors Should You Consider Before Buying a PET Bottle Making Machine?",
+      },
+
+      {
+        type: "paragraph",
+        text: "Before purchasing a semi automatic PET stretch blow moulding machine, manufacturers should evaluate:",
+      },
+
+      {
+        type: "h4",
+        text: "Production Capacity",
+      },
+
+      {
+        type: "paragraph",
+        text: "Determine the number of bottles required per hour or per day. The machine capacity should match your expected production requirement.",
+      },
+
+      {
+        type: "h4",
+        text: "Bottle Size",
+      },
+
+      {
+        type: "paragraph",
+        text: "Select the machine and mould configuration according to the required bottle capacity, from small containers to larger PET bottles.",
+      },
+
+      {
+        type: "h4",
+        text: "Bottle Design",
+      },
+
+      {
+        type: "paragraph",
+        text: "Bottle shape, height, diameter, neck finish and preform specifications should be considered before finalizing the machine.",
+      },
+
+      {
+        type: "h4",
+        text: "Number of Cavities",
+      },
+
+      {
+        type: "paragraph",
+        text: "The number of mould cavities directly affects production output. Select the cavity configuration according to the required production volume.",
+      },
+
+      {
+        type: "h4",
+        text: "Heating System",
+      },
+
+      {
+        type: "paragraph",
+        text: "Efficient and uniform preform heating is important for consistent bottle formation and material distribution.",
+      },
+
+      {
+        type: "h4",
+        text: "Air and Utility Requirements",
+      },
+
+      {
+        type: "paragraph",
+        text: "The required compressed air, electrical power, cooling and other utilities should be evaluated before installation.",
+      },
+
+      {
+        type: "h4",
+        text: "Mould Compatibility",
+      },
+
+      {
+        type: "paragraph",
+        text: "The mould should be compatible with the machine and designed according to the required bottle specifications.",
+      },
+
+      {
+        type: "h4",
+        text: "After-Sales Support",
+      },
+
+      {
+        type: "paragraph",
+        text: "Installation, operator training, spare parts availability, troubleshooting and technical support are important factors when purchasing industrial machinery.",
+      },
+
+      {
+        type: "h2",
+        text: "Why Choose Suraj Plastic Industries?",
+      },
+
+      {
+        type: "paragraph",
+        text: "Suraj Plastic Industries has been associated with the plastic machinery industry since 1982 and has been manufacturing PET preform stretch blow moulding machinery since 1997. The company is ISO 9001:2015 certified and focuses on manufacturing reliable machinery for PET bottle production.",
+      },
+
+      {
+        type: "paragraph",
+        text: "When you choose Suraj Plastic Industries, you get more than a machine. We focus on providing a complete solution based on your production requirement, bottle design and application.",
+      },
+
+      {
+        type: "h4",
+        text: "Our Key Strengths",
+      },
+
+      {
+        type: "list",
         items: [
-          [
-            {
-              text: "Stable air pressure control",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Fast mould changing system",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Accurate bottle neck dimensions",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Uniform bottle thickness",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Reliable pneumatic system",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Low rejection rate",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Smooth bottle surface finish",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Precision stretching mechanism",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Efficient heating oven",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "High production consistency",
-              bold: true,
-            },
-          ],
+          "Experienced PET machinery manufacturer",
+          "ISO 9001:2015 certified company",
+          "PET stretch blow moulding expertise",
+          "Machines for different bottle capacities",
+          "Customizable machine solutions",
+          "Technical guidance",
+          "Installation support",
+          "Operator assistance",
+          "Spare parts and service support",
+          "Long-term customer assistance",
         ],
-      },
-
-      {
-        type: "h4",
-        text: "Industries We Serve",
       },
 
       {
         type: "paragraph",
-        content: [
-          { text: "Our " },
-          { text: "Semi Automatic Stretch Blow Moulding Machines", bold: true },
-          { text: " are trusted by businesses involved in:" }
-        ],
+        text: "Our objective is to help manufacturers achieve reliable bottle production with practical, efficient and cost-effective machinery.",
       },
 
       {
-        type: "checklist",
+        type: "h2",
+        text: "Semi Automatic PET Stretch Blow Moulding Machine Price",
+      },
+
+      {
+        type: "paragraph",
+        text: "The price of a semi automatic PET stretch blow moulding machine depends on several factors, including:",
+      },
+
+      {
+        type: "list",
         items: [
-
-          [
-            {
-              text: "Mineral Water Plants",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Packaged Drinking Water Units",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Beverage Manufacturing",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Edible Oil Companies",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Pharmaceutical Manufacturers",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Cosmetic Brands",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Chemical Packaging",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Food Processing Industries",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Dairy Product Packaging",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Household Product Manufacturers",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Small Scale PET Bottle Manufacturers",
-              bold: true,
-            },
-          ],
-
-          [
-            {
-              text: "Medium Scale Bottle Production Units",
-              bold: true,
-            },
-          ],
-        ],
-      },
-
-      {
-        type: "h4",
-        text: "Maintenance Tips",
-      },
-
-      {
-        type: "paragraph",
-        text: "Proper maintenance ensures longer machine life.",
-      },
-
-      {
-        type: "checklist",
-        items: [
-          "Clean heating lamps regularly.",
-          "Lubricate moving parts.",
-          "Inspect pneumatic connections.",
-          "Replace worn seals when required.",
-          "Check air pressure levels.",
-          "Maintain cooling systems.",
-          "Calibrate temperature settings.",
-          "Schedule preventive maintenance.",
+          "Machine model",
+          "Production capacity",
+          "Number of mould cavities",
+          "Bottle capacity",
+          "Mould specifications",
+          "Heating system",
+          "Automation level",
+          "Required accessories",
+          "Compressor and utility requirements",
+          "Customization requirements",
         ],
       },
 
       {
         type: "paragraph",
-        text: "Routine servicing helps achieve maximum production efficiency.",
-      },
-
-      {
-        type: "h4",
-        text: "Why Businesses Prefer Semi Automatic Stretch Blow Moulding Machines",
+        text: "Therefore, there is no single price applicable to every machine.",
       },
 
       {
         type: "paragraph",
-        text: "Many manufacturers prefer semi automatic machines because they provide:",
+        text: "For an accurate quotation, share your required bottle size, production capacity, bottle design, preform details and application with our technical team. We can then recommend the appropriate machine configuration for your production requirement.",
       },
 
       {
-        type: "checklist",
-        items: [
-          "Affordable investment",
-          "Excellent bottle quality",
-          "Lower production cost",
-          "Easy machine operation",
-          "High flexibility",
-          "Reliable performance",
-          "Lower maintenance expenses",
-          "Strong production consistency",
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "For businesses entering the PET bottle manufacturing industry, these machines offer the ideal combination of performance and value.",
-      },
-
-      {type:"paragraph",
-        content:[
-         { text:"A reliable "},
-         {text:"Stretch Blow Moulding Machine Manufacturer ", bold:true, link:'/stretch-blow-moulding-machine-manufacturer'},
-         {text:"not only supplies machinery but also provides complete manufacturing solutions that improve productivity and reduce operating costs. At Suraj Plastic Industries, we offer advanced Semi Automatic Stretch Blow Moulding Machines backed by technical expertise, installation support, operator training, and dependable after-sales service to help businesses achieve long-term success."}
-        ]
-        
-      },
-      
-
-      
-     
-      {
-        type: "h4",
-        text: "Frequently Asked Questions (FAQs)",
+        type: "h2",
+        text: "Frequently Asked Questions",
       },
 
       {
         type: "faq",
-
         items: [
-
           {
-            question:
-              "What is a Semi Automatic Stretch Blow Moulding Machine used for?",
-            answer:
-              "It is used to manufacture PET bottles by converting heated preforms into finished bottles using stretching and compressed air.",
+            question: "What is a semi automatic PET stretch blow moulding machine?",
+            answer: "A semi automatic PET stretch blow moulding machine is used to manufacture PET bottles from preforms using controlled heating, stretching and compressed air blowing inside a mould.",
           },
-
           {
-            question:
-              "Which industries use this machine?",
-            answer:
-              "It is widely used in the water, beverage, pharmaceutical, cosmetic, edible oil, food, and chemical industries.",
+            question: "What bottles can be manufactured using this machine?",
+            answer: "The machine can manufacture different PET bottle shapes and capacities depending on the machine configuration, mould and preform specifications. Suraj Plastic Industries offers machines supporting bottle sizes from 50 ml to 25 litres.",
           },
-
           {
-            question:
-              "Can the machine produce different bottle sizes?",
-            answer:
-              "Yes. Depending on the mould, it can manufacture bottles in various capacities and shapes.",
+            question: "What is the production capacity of the Suraj semi automatic PET blow moulding machine?",
+            answer: "The current product specification states a production capacity of up to 700 bottles per hour. Actual output can vary depending on bottle size, preform weight, mould configuration and operating conditions.",
           },
-
           {
-            question:
-              "Is a semi automatic machine suitable for small businesses?",
-            answer:
-              "Yes. It is an ideal solution for startups and small to medium-scale manufacturers due to its cost-effectiveness and operational simplicity.",
+            question: "Is a semi automatic PET bottle making machine suitable for a small business?",
+            answer: "Yes. Semi automatic machinery can be a practical option for startups and small to medium-scale PET bottle manufacturers because it offers production flexibility with a comparatively lower investment than fully automatic systems.",
           },
-
           {
-            question:
-              "Why choose Suraj Plastic Industries?",
-            answer:
-              "Suraj Plastic Industries offers durable, energy-efficient, high-performance machines backed by reliable after-sales support, quality manufacturing, and customized solutions for different production needs.",
+            question: "What is the difference between PET blow moulding and stretch blow moulding?",
+            answer: "PET stretch blow moulding uses both stretching and compressed-air blowing to form PET bottles from preforms. The stretching process helps achieve the required bottle dimensions and material distribution.",
           },
-
+          {
+            question: "Can the machine manufacture different bottle shapes?",
+            answer: "Yes. Bottle shape depends on the mould design and machine configuration. Different moulds can be used for different bottle shapes and applications.",
+          },
+          {
+            question: "How much does a semi automatic PET stretch blow moulding machine cost?",
+            answer: "The price depends on capacity, number of cavities, bottle size, mould configuration, automation level and accessories. Contact Suraj Plastic Industries for a machine-specific quotation.",
+          },
+          {
+            question: "Where can I buy a semi automatic PET stretch blow moulding machine in India?",
+            answer: "Suraj Plastic Industries manufactures PET stretch blow moulding machines in India and provides technical and after-sales support for customers requiring PET bottle manufacturing solutions.",
+          },
         ],
       },
 
       {
-        type: "h4",
-        text: "Partner with Suraj Plastic Industries for High-Quality PET Bottle Manufacturing",
+        type: "h2",
+        text: "Get the Right PET Bottle Making Machine for Your Business",
+      },
+
+      {
+        type: "paragraph",
+        text: "Choosing the right PET bottle making machine is important for maintaining production efficiency, bottle quality and long-term operating costs.",
+      },
+
+      {
+        type: "paragraph",
+        text: "If you are looking for a Semi Automatic PET Stretch Blow Moulding Machine Manufacturer in India, Suraj Plastic Industries can help you select the right machine according to your bottle size, production requirement, mould configuration and application.",
+      },
+
+      {
+        type: "paragraph",
+        text: "Whether you are setting up a new PET bottle manufacturing unit or upgrading an existing production facility, our team can provide technical guidance and a suitable machine solution.",
       },
 
       {
         type: "paragraph",
         content: [
-          {
-            text: "If you are planning to establish or expand your PET bottle production unit, a  ",
-          },
-          {
-            text: "Semi Automatic Stretch Blow Moulding Machine",
-            bold: true,
-            link: "/contact-us",
-          },
-          {
-            text: "from  ",
-          },
-          {
-            text: "Suraj Plastic Industries",
-            bold: true,
-          },
-          {
-            text: "  is a dependable investment. Our machines are engineered to deliver consistent performance, superior bottle quality, and long-term reliability while keeping operating costs under control.",
-          },
+          { text: "Contact " },
+          { text: "Suraj Plastic Industries", bold: true, link: "/contact-us" },
+          { text: " today for machine specifications, technical consultation and a customized quotation." },
         ],
-      },
-
-      {
-        type: "paragraph",
-        text: "From water bottles and edible oil containers to pharmaceutical and cosmetic packaging, our solutions are designed to meet the evolving demands of modern industries. With a focus on innovation, precision engineering, and customer satisfaction, Suraj Plastic Industries continues to be a trusted partner for businesses seeking efficient and cost-effective PET bottle manufacturing equipment.",
-      },
-
-      {
-        type: "paragraph",
-        text: "Whether your goal is higher productivity, improved bottle quality, or a better return on investment, Suraj Plastic Industries provides the technology and support you need to grow your business with confidence.",
-      },
-
-      {
-        type: "cta",
-
-        title:
-          "Looking for the Right PET Bottle Making Machine?",
-
-        description:
-          "Contact Suraj Plastic Industries today and get expert guidance along with the best quotation.",
-
       },
 
     ],
@@ -2613,7 +2550,7 @@ export const products = [
 
     slug: "fully-automatic-stretch-blow-moulding-machine",
 
-    name: "Fully Automatic Stretch Blow Moulding Machine",
+    name: "Fully Automatic PET Stretch Blow Moulding Machine",
 
     heroImage: "/bg.jpg",
 
@@ -2624,163 +2561,25 @@ export const products = [
     // ==========================================
 
     metaTitle:
-      "Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi",
+      "Fully Automatic PET Stretch Blow Moulding Machine | Suraj Plastic Industries",
 
     metaDescription:
-      "Looking for a Fully Automatic Stretch Blow Moulding Machine Manufacturer? Suraj Plastic Industries offers ISO certified PET bottle making machines with high production capacity, low maintenance, and nationwide installation support.",
+      "Explore Fully Automatic PET Stretch Blow Moulding Machines from Suraj Plastic Industries, designed for efficient PET bottle production with reliable performance and customization.",
 
-    keywords:
-      "Fully Automatic Stretch Blow Moulding Machine Manufacturer, Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi",
+    keywords: "Fully Automatic PET Stretch Blow Moulding Machine",
 
     // ==========================================
     // OVERVIEW
     // ==========================================
 
-    shortDescription:
-      ["Suraj Plastic Industries is a leading **Fully Automatic Stretch Blow Moulding Machine Manufacturer** based in New Delhi, offering high-speed PET bottle production machines built for large-scale, non-stop manufacturing. Our Fully Automatic Stretch Blow Moulding Machine automates the complete production cycle — preform loading, infrared heating, stretch blowing, and bottle ejection — delivering an output of up to 7200 bottles per hour with zero manual intervention."],
-
-    features: [
-      "High Output Performance — up to 7200 Bottles Per Hour",
-      "Available in 2, 4, and 6 Cavity configurations",
-      "Suitable for 50 ML to 2000 ML PET bottles",
+    shortDescription: [
+      "Suraj Plastic Industries offers Fully Automatic PET Stretch Blow Moulding Machines designed for high-speed and consistent production of PET bottles and containers. The SPI AY Series automates the complete production cycle, from preform loading and heating to stretching, bottle blowing and ejection, reducing manual intervention while supporting efficient continuous production.",
+      "The range includes 2-cavity, 4-cavity and 6-cavity configurations with production capacities of up to 6,000 bottles per hour (BPH), depending on the model, bottle volume and production configuration.",
+      "These machines are suitable for manufacturers producing PET packaging for still and sparkling water, carbonated soft drinks (CSD), juices, dairy products, sauces, detergents and other food and non-food liquid applications.",
+      "With Suraj Plastic Industries' experience in plastic machinery and capital equipment, customers can select a machine configuration according to bottle size, production requirement, cavity count, air availability, power requirements and application.",
     ],
 
-    specification: {
-      title: "Technical Specification",
-
-      headers: [
-        "Description",
-        "SAB-500-4B",
-        "SAB-500-6B",
-        "SAB-1000-2B",
-        "SAB-1000-4B",
-        "SAB-1000-6B",
-        "SAB-2000-2B",
-      ],
-
-      rows: [
-        [
-          "Product Size",
-          "50 ML – 500 ML",
-          "50 ML – 500 ML",
-          "100 ML – 1000 ML",
-          "100 ML – 1000 ML",
-          "100 ML – 1000 ML",
-          "200 ML – 2000 ML",
-        ],
-
-        [
-          "Neck Diameter (Max)",
-          "25 MM – 28 MM",
-          "25 MM – 28 MM",
-          "25 MM – 28 MM",
-          "25 MM – 28 MM",
-          "25 MM – 28 MM",
-          "25 MM – 28 MM",
-        ],
-
-        [
-          "Bottle Diameter (Max)",
-          "70 MM",
-          "70 MM",
-          "90 MM",
-          "90 MM",
-          "90 MM",
-          "110 MM",
-        ],
-
-        [
-          "Output (Theoretical)",
-          "3600–4000 BPH",
-          "5400–6000 BPH",
-          "1700–2000 BPH",
-          "3400–4000 BPH",
-          "5400–6000 BPH",
-          "1400–1800 BPH",
-        ],
-
-        [
-          "Product Height (Max)",
-          "250 MM",
-          "250 MM",
-          "300 MM",
-          "300 MM",
-          "300 MM",
-          "350 MM",
-        ],
-
-        [
-          "Machine Connected Load",
-          "48 KW",
-          "60 KW",
-          "36 KW",
-          "48 KW",
-          "60 KW",
-          "36 KW",
-        ],
-
-        [
-          "Mould",
-          "4 Cavity",
-          "6 Cavity",
-          "2 Cavity",
-          "4 Cavity",
-          "6 Cavity",
-          "2 Cavity",
-        ],
-
-        [
-          "Air Requirement (For Machine Operation)",
-          "2M³/MIN@10KG/CM²",
-          "3M³/MIN@10KG/CM²",
-          "2M³/MIN@10KG/CM²",
-          "3M³/MIN@10KG/CM²",
-          "4M³/MIN@10KG/CM²",
-          "3M³/MIN@10KG/CM²",
-        ],
-
-        [
-          "Air Requirement (For Blowing Operation)",
-          "2M³/MIN@25KG/CM²",
-          "3M³/MIN@25KG/CM²",
-          "2M³/MIN@25KG/CM²",
-          "3M³/MIN@25KG/CM²",
-          "4M³/MIN@25KG/CM²",
-          "3M³/MIN@25KG/CM²",
-        ],
-
-        [
-          "Cold Water (For Mould & Heating System)",
-          "3M³/HRS @5°C",
-          "4M³/HRS @5°C",
-          "3M³/HRS @5°C",
-          "4M³/HRS @5°C",
-          "5M³/HRS @5°C",
-          "4M³/HRS @5°C",
-        ],
-
-        [
-          "Area Required",
-          "6500×6500×3500 MM",
-          "7000×7000×3500 MM",
-          "7000×7000×3500 MM",
-          "8000×7000×3500 MM",
-          "8000×7000×3500 MM",
-          "8000×7000×3500 MM",
-        ],
-
-        [
-          "Net Weight",
-          "5 Tonnes",
-          "6 Tonnes",
-          "6 Tonnes",
-          "5 Tonnes",
-          "7 Tonnes",
-          "6 Tonnes",
-        ],
-      ],
-    },
-
+    features: [],
 
     // ==========================================
     // SEO CONTENT
@@ -2789,260 +2588,1069 @@ export const products = [
     seo: [
       {
         type: "h2",
-        text: "Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi",
+        text: "SPI AY Series Fully Automatic PET Blow Moulding Machines",
       },
 
       {
         type: "paragraph",
-        content: [
-          { text: "Suraj Plastic Industries is a leading " },
-          { text: " Equipped with intelligent heating control and stable mould clamping, the machine delivers smooth, fast, and highly efficient production. Its fully automated feeding and blowing system improves productivity while reducing labor cost and downtime." },
-        ],
+        text: "The SPI AY Series is designed for automated PET bottle production where consistent output, reduced manual handling and controlled processing are important.",
       },
 
       {
         type: "paragraph",
-        text: "Backed by more than 28 years of PET blow moulding expertise, an ISO 9001:2015 certification, and over 1,480 successful installations across India and abroad, our machines are trusted by packaged drinking water plants, beverage companies, and FMCG manufacturers who need consistent output at scale.",
+        text: "The available configurations include:",
       },
 
       {
-        type: "h2",
-        text: "Why Choose Our Fully Automatic Stretch Blow Moulding Machine?",
-      },
-
-      {
-        type: "list",
-        items: [
-          "High-Speed Output – Up to 7200 bottles per hour",
-          "Flexible Cavity Options – Available in 2, 4, and 6 cavity configurations",
-          "Wide Bottle Range – Suitable for 50 ML to 2000 ML PET bottles",
-          "Fully Automated Cycle – Automatic loading, heating, blowing, and ejection",
-          "PLC-Based Control System – Digital touchscreen for precise parameter control",
-          "Low Labour Dependency – Runs with just one supervisor",
-          "Energy-Efficient Heating – Infrared system targets only the preform, saving power",
-          "Built for 24-Hour Production – Engineered for continuous industrial use",
-        ],
-      },
-
-      {
-        type: "h2",
-        text: "How a Fully Automatic Stretch Blow Moulding Machine Works",
-      },
-
-      {
-        type: "list",
-        items: [
-          "Automatic Preform Loading – Preforms are fed, oriented, and positioned automatically via the hopper.",
-          "Infrared Heating – A PLC-controlled infrared zone heats each preform uniformly before moulding.",
-          "Stretch Blowing – A stretch rod extends the preform while high-pressure air (up to 25 KG/CM²) shapes it inside the mould.",
-          "Automatic Ejection – Finished bottles are ejected and moved to the output conveyor, ready for filling and capping.",
-        ],
-      },
-
-      {
-        type: "h2",
-        text: "Applications of Our Fully Automatic Stretch Blow Moulding Machine",
-      },
-
-      {
-        type: "list",
-        items: [
-          "Packaged drinking water & mineral water bottles",
-          "Beverages, juices, CSD, and energy drinks",
-          "Edible oil packaging",
-          "Pharmaceutical bottles (syrups, liquid medicines)",
-          "Cosmetics and personal care packaging",
-          "Household and cleaning product containers",
-        ],
-      },
-
-      {
-        type: "h2",
-        text: "Fully Automatic vs Semi Automatic — Quick Comparison",
-      },
-
-      {
-        type: "comparison",
-        headers: ["Feature", "Semi Automatic", "Fully Automatic"],
+        type: "table",
+        headers: ["Machine Model", "Bottle Volume", "Cavities", "Production Output"],
         rows: [
-          ["Preform Loading", "Manual", "Automatic"],
-          ["Bottle Ejection", "Manual", "Automatic"],
-          ["Output per Hour", "Up to 700 BPH", "Up to 7200 BPH"],
-          ["Labour Required", "2 operators", "1 supervisor"],
-          ["Best Suited For", "Small-medium plants", "Large-scale plants"],
+          ["SPI AY1500-2", "1.5 L", "2", "Up to 2,000 BPH"],
+          ["SPI AY2000-2", "2 L", "2", "Up to 1,800 BPH"],
+          ["SPI AY600-4", "600 ml", "4", "Up to 4,000 BPH"],
+          ["SPI AY1500-4", "1.5 L", "4", "Up to 3,600 BPH"],
+          ["SPI AY2000-4", "2 L", "4", "Up to 3,600 BPH"],
+          ["SPI AY600-6", "600 ml", "6", "Up to 6,000 BPH"],
         ],
+      },
+
+      {
+        type: "paragraph",
+        text: "Actual production output can vary depending on preform weight, bottle design, bottle volume, mould configuration and operating conditions.",
       },
 
       {
         type: "h2",
-        text: "Suraj Plastic Industries — Trusted Fully Automatic Stretch Blow Moulding Machine Manufacturer",
+        text: "What Is a Fully Automatic PET Stretch Blow Moulding Machine?",
       },
 
       {
         type: "paragraph",
-        text: "Located in Nangloi, New Delhi, Suraj Plastic Industries has been manufacturing PET preform stretch blow moulding machines since 1997, with a company legacy dating back to 1982. We are an ISO 9001:2015 certified, NSIC Best Technology Award (1999)-winning manufacturer with 1,480+ successful machine installations across India and internationally. Every machine is built at our own factory — no trading or third-party markup — with complete installation, commissioning, operator training, and after-sales spare parts support included.",
+        text: "A fully automatic PET stretch blow moulding machine is a production system used to convert PET preforms into finished bottles through a controlled heating, stretching and blowing process.",
       },
 
       {
         type: "paragraph",
-        content: [
-          { text: "Ready to scale up your PET bottle production line? " },
-          { text: "Get a Free Quote", bold: true, link: "/contact-us" },
-          { text: " or call us at +91 9871494249 / +91 9999886068" },
-        ],
+        text: "Unlike systems requiring significant manual handling, a fully automatic machine integrates the major stages of bottle production into an automated cycle.",
+      },
+
+      {
+        type: "paragraph",
+        text: "The PET preform is first heated to the appropriate forming temperature. It is then transferred into the mould, stretched vertically and expanded using compressed air until it takes the shape of the mould cavity.",
+      },
+
+      {
+        type: "paragraph",
+        text: "The finished bottle is subsequently ejected and can be transferred to the next stage of the packaging line.",
+      },
+
+      {
+        type: "paragraph",
+        text: "This technology is widely used for manufacturing lightweight PET bottles with consistent dimensions, controlled material distribution and repeatable production quality.",
+      },
+
+      {
+        type: "h2",
+        text: "How Does a Fully Automatic PET Bottle Blowing Machine Work?",
+      },
+
+      {
+        type: "paragraph",
+        text: "The bottle manufacturing process consists of several controlled stages.",
       },
 
       {
         type: "h4",
-        text: "Frequently asked questions",
+        text: "1. Automatic Preform Loading",
+      },
+
+      {
+        type: "paragraph",
+        text: "PET preforms are supplied to the machine's feeding system. Automatic handling reduces the need for continuous manual intervention and supports a more consistent production cycle.",
+      },
+
+      {
+        type: "h4",
+        text: "2. Preform Heating",
+      },
+
+      {
+        type: "paragraph",
+        text: "The PET preform passes through the heating section where its temperature is controlled before the blowing process.",
+      },
+
+      {
+        type: "paragraph",
+        text: "The heating stage is critical because PET must reach the appropriate forming condition for effective stretching and material distribution.",
+      },
+
+      {
+        type: "h4",
+        text: "3. Preform Transfer",
+      },
+
+      {
+        type: "paragraph",
+        text: "After heating, the conditioned preform is transferred into the moulding section in the correct orientation.",
+      },
+
+      {
+        type: "h4",
+        text: "4. Mould Clamping",
+      },
+
+      {
+        type: "paragraph",
+        text: "The mould closes around the preform and holds it in position during stretching and blowing.",
+      },
+
+      {
+        type: "paragraph",
+        text: "Accurate mould alignment and clamping help maintain bottle dimensions and reduce unwanted parting-line variation.",
+      },
+
+      {
+        type: "h4",
+        text: "5. Stretching",
+      },
+
+      {
+        type: "paragraph",
+        text: "A stretch mechanism extends the heated preform along its vertical axis.",
+      },
+
+      {
+        type: "paragraph",
+        text: "Controlled stretching helps distribute the PET material throughout the bottle body before the final blowing stage.",
+      },
+
+      {
+        type: "h4",
+        text: "6. High-Pressure Blowing",
+      },
+
+      {
+        type: "paragraph",
+        text: "Compressed air is introduced into the stretched preform.",
+      },
+
+      {
+        type: "paragraph",
+        text: "The PET expands against the mould cavity and takes the required bottle shape.",
+      },
+
+      {
+        type: "h4",
+        text: "7. Cooling and Bottle Ejection",
+      },
+
+      {
+        type: "paragraph",
+        text: "After forming, the bottle is cooled sufficiently for removal from the mould.",
+      },
+
+      {
+        type: "paragraph",
+        text: "The finished PET bottle is then automatically discharged for transfer to subsequent production or packaging operations.",
+      },
+
+      {
+        type: "h2",
+        text: "Key Features of Suraj Fully Automatic Stretch Blow Moulding Machines",
+      },
+
+      {
+        type: "h4",
+        text: "High Production Output",
+      },
+
+      {
+        type: "paragraph",
+        text: "The SPI AY Series offers configurations delivering up to 6,000 BPH, depending on the selected model and bottle application. This makes higher-cavity configurations suitable for manufacturers requiring increased bottle production.",
+      },
+
+      {
+        type: "h4",
+        text: "Fully Automatic Operation",
+      },
+
+      {
+        type: "paragraph",
+        text: "The machine automates the major stages of PET bottle production, including preform handling, heating, blowing and bottle ejection.",
+      },
+
+      {
+        type: "paragraph",
+        text: "Automation helps reduce repetitive manual operations and supports consistent production cycles.",
+      },
+
+      {
+        type: "h4",
+        text: "Precise Preform Heating",
+      },
+
+      {
+        type: "paragraph",
+        text: "The machine uses a layered heating arrangement to condition PET preforms before stretching and blowing.",
+      },
+
+      {
+        type: "paragraph",
+        text: "Controlled heating is important for achieving consistent material distribution and bottle quality.",
+      },
+
+      {
+        type: "h4",
+        text: "Optimised Heating Arrangement",
+      },
+
+      {
+        type: "paragraph",
+        text: "Reflectors positioned close to the preforms help improve heat transfer within the oven and support efficient heating operation.",
+      },
+
+      {
+        type: "h4",
+        text: "Reliable Preform Feeding",
+      },
+
+      {
+        type: "paragraph",
+        text: "The preform feeding arrangement is designed to maintain controlled movement from the elevating section through the orientation process.",
+      },
+
+      {
+        type: "h4",
+        text: "Robust Machine Components",
+      },
+
+      {
+        type: "paragraph",
+        text: "The machine uses robust components designed for extended service life and reduced frequency of component replacement.",
+      },
+
+      {
+        type: "h4",
+        text: "OMRON PLC and Touchscreen Control",
+      },
+
+      {
+        type: "paragraph",
+        text: "The machine is equipped with an OMRON PLC with touchscreen keypad for machine control and operation.",
+      },
+
+      {
+        type: "h4",
+        text: "Multiple Cavity Configurations",
+      },
+
+      {
+        type: "paragraph",
+        text: "Depending on production requirements, the SPI AY Series is available in:",
+      },
+
+      {
+        type: "list",
+        items: ["2-cavity configuration", "4-cavity configuration", "6-cavity configuration"],
+      },
+
+      {
+        type: "paragraph",
+        text: "Selecting the appropriate cavity configuration allows manufacturers to balance bottle size, production output and investment requirements.",
+      },
+
+      {
+        type: "h2",
+        text: "Fully Automatic PET Blow Moulding Machine Specifications",
+      },
+
+      {
+        type: "paragraph",
+        text: "The following specifications are based on the current SPI AY Series configurations.",
+      },
+
+      {
+        type: "table",
+        headers: ["Specification", "SPI AY1500-2", "SPI AY2000-2", "SPI AY600-4", "SPI AY1500-4", "SPI AY2000-4", "SPI AY600-6"],
+        rows: [
+          ["Container Volume", "1.5 L", "2 L", "0.6 L", "1.5 L", "2 L", "0.6 L"],
+          ["Cavities", "2", "2", "4", "4", "4", "6"],
+          ["Max. Container Diameter", "93 mm", "103 mm", "45 mm", "93 mm", "103 mm", "45 mm"],
+          ["Max. Container Height", "340 mm", "340 mm", "250 mm", "340 mm", "340 mm", "250 mm"],
+          ["Max. Neck Diameter", "45 mm", "45 mm", "40 mm", "45 mm", "45 mm", "40 mm"],
+          ["Output", "2,000 BPH", "1,800 BPH", "4,000 BPH", "3,600 BPH", "3,600 BPH", "6,000 BPH"],
+          ["Opening Stroke", "125 mm", "125 mm", "125 mm", "125 mm", "125 mm", "125 mm"],
+          ["Mould Thickness", "180 mm", "180 mm", "180 mm", "180 mm", "180 mm", "180 mm"],
+          ["Connected Load", "10 kW", "10 kW", "12 kW", "12 kW", "12 kW", "12 kW"],
+          ["LP Working Pressure", "10 bar", "10 bar", "10 bar", "10 bar", "10 bar", "10 bar"],
+          ["LP Air Consumption", "1.6 m³/min", "1.6 m³/min", "2 m³/min", "2 m³/min", "2 m³/min", "2 m³/min"],
+          ["Max. Blowing Pressure", "30 bar", "30 bar", "30 bar", "30 bar", "30 bar", "30 bar"],
+          ["HP Air Consumption", "1.6 m³/min", "2 m³/min", "2.5 m³/min", "2.5 m³/min", "2.5 m³/min", "2.5 m³/min"],
+          ["Operating Pressure", "5 bar", "5 bar", "5 bar", "5 bar", "5 bar", "5 bar"],
+          ["Chiller Temperature", "5–10°C", "5–10°C", "5–10°C", "5–10°C", "5–10°C", "5–10°C"],
+          ["Water Consumption", "30 L/min", "30 L/min", "45 L/min", "45 L/min", "45 L/min", "45 L/min"],
+        ],
+      },
+
+      {
+        type: "paragraph",
+        text: "Specifications may vary according to machine configuration, mould design, preform characteristics and production conditions.",
+      },
+
+      {
+        type: "h2",
+        text: "PET Bottle Sizes and Production Capacity",
+      },
+
+      {
+        type: "paragraph",
+        text: "Selecting a PET bottle blowing machine should begin with the required bottle size and production volume.",
+      },
+
+      {
+        type: "paragraph",
+        text: "For example:",
+      },
+
+      {
+        type: "h3",
+        text: "600 ml PET Bottles",
+      },
+
+      {
+        type: "paragraph",
+        text: "For high-volume production of 600 ml bottles, the SPI AY600 configurations provide:",
+      },
+
+      {
+        type: "list",
+        items: ["4-cavity production up to 4,000 BPH", "6-cavity production up to 6,000 BPH"],
+      },
+
+      {
+        type: "paragraph",
+        text: "This configuration can be considered for high-volume applications such as packaged drinking water and other single-serve beverages.",
+      },
+
+      {
+        type: "h3",
+        text: "1.5 L PET Bottles",
+      },
+
+      {
+        type: "paragraph",
+        text: "The SPI AY1500 models are available in:",
+      },
+
+      {
+        type: "list",
+        items: ["2-cavity configuration – up to 2,000 BPH", "4-cavity configuration – up to 3,600 BPH"],
+      },
+
+      {
+        type: "h3",
+        text: "2 L PET Bottles",
+      },
+
+      {
+        type: "paragraph",
+        text: "The SPI AY2000 models provide:",
+      },
+
+      {
+        type: "list",
+        items: ["2-cavity configuration – up to 1,800 BPH", "4-cavity configuration – up to 3,600 BPH"],
+      },
+
+      {
+        type: "paragraph",
+        text: "The appropriate configuration should be selected according to required production volume, bottle design and available utilities.",
+      },
+
+      {
+        type: "h2",
+        text: "Applications of Fully Automatic PET Stretch Blow Moulding Machines",
+      },
+
+      {
+        type: "paragraph",
+        text: "PET stretch blow moulding machines are used across a wide range of packaging applications.",
+      },
+
+      {
+        type: "h4",
+        text: "Packaged Drinking Water",
+      },
+
+      {
+        type: "paragraph",
+        text: "PET bottles for still water require consistent dimensions, suitable wall distribution and reliable production at high volumes.",
+      },
+
+      {
+        type: "paragraph",
+        text: "The higher-cavity SPI AY configurations can be considered for single-serve water bottle applications where production volume is a major requirement.",
+      },
+
+      {
+        type: "h4",
+        text: "Carbonated Soft Drinks",
+      },
+
+      {
+        type: "paragraph",
+        text: "CSD bottles require suitable bottle design and controlled PET material distribution to withstand internal pressure.",
+      },
+
+      {
+        type: "paragraph",
+        text: "The stretching and blowing process helps form the required bottle geometry according to the selected mould.",
+      },
+
+      {
+        type: "h4",
+        text: "Juice and Beverage Bottles",
+      },
+
+      {
+        type: "paragraph",
+        text: "PET packaging is widely used for juices, flavoured beverages and other liquid products.",
+      },
+
+      {
+        type: "paragraph",
+        text: "The appropriate machine and mould configuration can be selected according to bottle volume and production target.",
+      },
+
+      {
+        type: "h4",
+        text: "Dairy and Milk Products",
+      },
+
+      {
+        type: "paragraph",
+        text: "PET containers can be used for selected dairy and milk-based liquid packaging applications.",
+      },
+
+      {
+        type: "h4",
+        text: "Edible and Food Liquids",
+      },
+
+      {
+        type: "paragraph",
+        text: "PET bottles are used for various food and liquid packaging requirements, including selected sauces and other packaged liquids.",
+      },
+
+      {
+        type: "h4",
+        text: "Detergents and Household Liquids",
+      },
+
+      {
+        type: "paragraph",
+        text: "PET containers are also suitable for selected detergent and household-liquid applications where the bottle design and material specifications meet the product requirements.",
+      },
+
+      {
+        type: "h2",
+        text: "2-Cavity vs 4-Cavity vs 6-Cavity PET Blow Moulding Machine",
+      },
+
+      {
+        type: "paragraph",
+        text: "Cavity count is one of the most important factors when selecting a fully automatic PET bottle blowing machine.",
+      },
+
+      {
+        type: "h3",
+        text: "2-Cavity Machine",
+      },
+
+      {
+        type: "paragraph",
+        text: "A 2-cavity configuration produces two bottles during each moulding cycle.",
+      },
+
+      {
+        type: "paragraph",
+        text: "It can be suitable when:",
+      },
+
+      {
+        type: "list",
+        items: [
+          "Production volume is moderate",
+          "Bottle size is relatively larger",
+          "Initial machine investment needs to be controlled",
+          "Production requirements are below high-volume levels",
+        ],
+      },
+
+      {
+        type: "h3",
+        text: "4-Cavity Machine",
+      },
+
+      {
+        type: "paragraph",
+        text: "A 4-cavity configuration can significantly increase output compared with a 2-cavity machine.",
+      },
+
+      {
+        type: "paragraph",
+        text: "For the SPI AY Series, 4-cavity configurations are available for 600 ml, 1.5 L and 2 L applications.",
+      },
+
+      {
+        type: "h3",
+        text: "6-Cavity Machine",
+      },
+
+      {
+        type: "paragraph",
+        text: "A 6-cavity configuration is designed for higher production requirements.",
+      },
+
+      {
+        type: "paragraph",
+        text: "The SPI AY600-6 is rated for up to 6,000 BPH for 600 ml containers, making it suitable for high-volume single-serve bottle production.",
+      },
+
+      {
+        type: "paragraph",
+        text: "The correct cavity count should be selected based on bottle size, target production, preform specifications, machine cycle and available utilities.",
+      },
+
+      {
+        type: "h2",
+        text: "Fully Automatic vs Semi Automatic PET Blow Moulding Machine",
+      },
+
+      {
+        type: "paragraph",
+        text: "Both fully automatic and semi automatic PET blow moulding machines have different applications.",
+      },
+
+      {
+        type: "h3",
+        text: "Fully Automatic PET Blow Moulding Machine",
+      },
+
+      {
+        type: "paragraph",
+        text: "A fully automatic machine is suitable when the manufacturer requires:",
+      },
+
+      {
+        type: "list",
+        items: [
+          "Higher production output",
+          "Reduced manual handling",
+          "Consistent production cycles",
+          "Automated preform handling",
+          "Continuous production",
+          "Better integration with downstream packaging operations",
+        ],
+      },
+
+      {
+        type: "h3",
+        text: "Semi Automatic PET Blow Moulding Machine",
+      },
+
+      {
+        type: "paragraph",
+        text: "A semi automatic machine can be considered when:",
+      },
+
+      {
+        type: "list",
+        items: [
+          "Production volume is moderate",
+          "Manual handling is acceptable",
+          "Initial investment needs to be lower",
+          "Production flexibility is more important than maximum automation",
+        ],
+      },
+
+      {
+        type: "paragraph",
+        text: "The choice should be based on production volume, manpower availability, bottle size, factory layout and future expansion plans.",
+      },
+
+      {
+        type: "h2",
+        text: "How to Choose the Right Fully Automatic PET Bottle Blowing Machine",
+      },
+
+      {
+        type: "paragraph",
+        text: "Choosing the right machine requires more than comparing BPH figures.",
+      },
+
+      {
+        type: "h4",
+        text: "1. Determine Bottle Volume",
+      },
+
+      {
+        type: "paragraph",
+        text: "Identify the exact bottle size required, such as 600 ml, 1.5 L or 2 L.",
+      },
+
+      {
+        type: "h4",
+        text: "2. Calculate Required Production",
+      },
+
+      {
+        type: "paragraph",
+        text: "Estimate the number of bottles required per hour and per day.",
+      },
+
+      {
+        type: "paragraph",
+        text: "This will help determine whether a 2-, 4- or 6-cavity configuration is appropriate.",
+      },
+
+      {
+        type: "h4",
+        text: "3. Check Bottle Dimensions",
+      },
+
+      {
+        type: "paragraph",
+        text: "Bottle diameter, bottle height and neck diameter must remain compatible with the selected machine and mould.",
+      },
+
+      {
+        type: "h4",
+        text: "4. Consider Preform Specifications",
+      },
+
+      {
+        type: "paragraph",
+        text: "Preform weight, neck finish, dimensions and design influence the final bottle and machine performance.",
+      },
+
+      {
+        type: "h4",
+        text: "5. Check Compressed-Air Availability",
+      },
+
+      {
+        type: "paragraph",
+        text: "High-pressure and low-pressure air requirements must be considered before machine installation.",
+      },
+
+      {
+        type: "paragraph",
+        text: "The compressor and air treatment system should be designed according to the machine's actual requirements.",
+      },
+
+      {
+        type: "h4",
+        text: "6. Evaluate Power Requirements",
+      },
+
+      {
+        type: "paragraph",
+        text: "Connected load and actual operating consumption should be considered while calculating production costs.",
+      },
+
+      {
+        type: "h4",
+        text: "7. Consider Chiller Requirements",
+      },
+
+      {
+        type: "paragraph",
+        text: "The machine requires controlled cooling conditions. Chiller temperature and water requirements should be included in the plant utility planning.",
+      },
+
+      {
+        type: "h4",
+        text: "8. Consider Future Production Growth",
+      },
+
+      {
+        type: "paragraph",
+        text: "If production is expected to increase, selecting a higher-cavity configuration may provide greater capacity for future requirements.",
+      },
+
+      {
+        type: "h2",
+        text: "PET Preform to Bottle Manufacturing Process",
+      },
+
+      {
+        type: "paragraph",
+        text: "PET bottle production begins with the PET preform.",
+      },
+
+      {
+        type: "paragraph",
+        text: "The preform already contains the required neck finish and is heated in the stretch blow moulding machine.",
+      },
+
+      {
+        type: "paragraph",
+        text: "During the production cycle:",
+      },
+
+      {
+        type: "quote",
+        text: "PET Preform → Heating → Stretching → High-Pressure Blowing → Cooling → Bottle Ejection",
+      },
+
+      {
+        type: "paragraph",
+        text: "The final bottle shape is determined by the mould cavity, while the preform design, heating conditions, stretching ratio and blowing parameters influence the final bottle characteristics.",
+      },
+
+      {
+        type: "paragraph",
+        text: "Correct process control is therefore essential for maintaining consistent bottle dimensions and material distribution.",
+      },
+
+      {
+        type: "h2",
+        text: "Importance of Preform Heating in PET Bottle Production",
+      },
+
+      {
+        type: "paragraph",
+        text: "Preform heating is one of the most critical stages of the stretch blow moulding process.",
+      },
+
+      {
+        type: "paragraph",
+        text: "If the preform is not heated appropriately:",
+      },
+
+      {
+        type: "list",
+        items: [
+          "Bottle dimensions may become inconsistent",
+          "Material distribution can become uneven",
+          "Bottle clarity may be affected",
+          "Stretching performance can change",
+          "Bottle strength may be affected",
+        ],
+      },
+
+      {
+        type: "paragraph",
+        text: "The SPI AY Series uses a layered heating system to provide controlled heating of PET preforms before the stretching and blowing stage.",
+      },
+
+      {
+        type: "paragraph",
+        text: "Reflectors positioned close to the preforms help optimise heat transfer within the heating section.",
+      },
+
+      {
+        type: "h2",
+        text: "Compressed Air Requirements",
+      },
+
+      {
+        type: "paragraph",
+        text: "Compressed air is an essential utility for PET stretch blow moulding.",
+      },
+
+      {
+        type: "paragraph",
+        text: "The SPI AY Series specifications include both low-pressure and high-pressure air requirements.",
+      },
+
+      {
+        type: "paragraph",
+        text: "Depending on the model, the machines have:",
+      },
+
+      {
+        type: "list",
+        items: [
+          "LP working pressure: up to 10 bar",
+          "Maximum blowing pressure: up to 30 bar",
+          "LP air consumption: approximately 1.6–2 m³/min",
+          "HP air consumption: approximately 1.6–2.5 m³/min",
+        ],
+      },
+
+      {
+        type: "paragraph",
+        text: "The exact air-system design should be determined according to the selected machine, bottle specification, production rate and plant conditions.",
+      },
+
+      {
+        type: "paragraph",
+        text: "Proper compressor sizing, air quality and pressure stability are important for reliable PET bottle production.",
+      },
+
+      {
+        type: "h2",
+        text: "Why Choose Suraj Plastic Industries Fully Automatic PET Blow Moulding Machines?",
+      },
+
+      {
+        type: "benefits",
+        items: [
+          {
+            title: "Plastic Industry Experience",
+            description: "Suraj Plastic Industries has had a presence in the plastics industry since 1983 and entered the capital equipment industry in 2001.",
+          },
+          {
+            title: "Complete Machine Range",
+            description: "Suraj Plastic Industries provides multiple PET stretch blow moulding solutions, including semi automatic, hand-fed, fully automatic and 20-litre PET stretch blow moulding machines.",
+          },
+          {
+            title: "High-Speed Production Options",
+            description: "The SPI AY Series includes configurations capable of producing up to 6,000 bottles per hour, depending on model and bottle configuration.",
+          },
+          {
+            title: "Automated Production",
+            description: "The fully automatic system reduces manual intervention throughout the bottle production process.",
+          },
+          {
+            title: "Technical Support",
+            description: "Suraj Plastic Industries' stated objective includes providing sales, service and spares support for plastic machinery.",
+          },
+          {
+            title: "Model Selection Assistance",
+            description: "Customers can select machine configurations based on bottle capacity, production volume, cavity requirement, air availability, power and application.",
+          },
+        ],
+      },
+
+      {
+        type: "h2",
+        text: "Why Production Capacity Should Not Be the Only Selection Factor",
+      },
+
+      {
+        type: "paragraph",
+        text: "A machine with the highest BPH is not automatically the best machine for every application.",
+      },
+
+      {
+        type: "paragraph",
+        text: "For example, a manufacturer requiring 1.5-litre bottles at a moderate production volume may not need the highest-cavity configuration.",
+      },
+
+      {
+        type: "paragraph",
+        text: "Similarly, a high-volume 600 ml water bottle producer may benefit from a 6-cavity configuration capable of up to 6,000 BPH.",
+      },
+
+      {
+        type: "paragraph",
+        text: "The correct machine should therefore balance:",
+      },
+
+      {
+        type: "list",
+        items: [
+          "Bottle size",
+          "Production target",
+          "Number of cavities",
+          "Preform weight",
+          "Bottle design",
+          "Air requirements",
+          "Power consumption",
+          "Chiller requirements",
+          "Available floor space",
+          "Future production expansion",
+        ],
+      },
+
+      {
+        type: "h2",
+        text: "Maintenance Considerations for Automatic PET Blow Moulding Machines",
+      },
+
+      {
+        type: "paragraph",
+        text: "Regular preventive maintenance helps maintain machine performance and reduce unexpected production interruptions.",
+      },
+
+      {
+        type: "paragraph",
+        text: "Important maintenance areas include:",
+      },
+
+      {
+        type: "h4",
+        text: "Heating System",
+      },
+
+      {
+        type: "paragraph",
+        text: "Inspect heating elements, reflectors, ventilation and temperature-control components regularly.",
+      },
+
+      {
+        type: "h4",
+        text: "Mould and Clamping System",
+      },
+
+      {
+        type: "paragraph",
+        text: "Keep mould surfaces clean and inspect alignment and clamping components.",
+      },
+
+      {
+        type: "h4",
+        text: "Pneumatic and Air Systems",
+      },
+
+      {
+        type: "paragraph",
+        text: "Check air pressure, filters, hoses, valves and connections.",
+      },
+
+      {
+        type: "h4",
+        text: "Preform Feeding System",
+      },
+
+      {
+        type: "paragraph",
+        text: "Ensure that preform movement remains smooth and correctly oriented.",
+      },
+
+      {
+        type: "h4",
+        text: "Cooling System",
+      },
+
+      {
+        type: "paragraph",
+        text: "Maintain appropriate chiller temperature and inspect cooling-water circulation.",
+      },
+
+      {
+        type: "h4",
+        text: "Electrical and Control System",
+      },
+
+      {
+        type: "paragraph",
+        text: "Regularly inspect PLC, sensors, electrical connections and control components.",
+      },
+
+      {
+        type: "paragraph",
+        text: "A preventive maintenance schedule should be established according to machine operating hours and manufacturer recommendations.",
+      },
+
+      {
+        type: "h2",
+        text: "Frequently Asked Questions",
       },
 
       {
         type: "faq",
         items: [
           {
-            question: "What is a Fully Automatic Stretch Blow Moulding Machine?",
-            answer:
-              "It is a PET bottle manufacturing machine where preform loading, heating, stretch blowing, and bottle ejection all happen automatically, without manual intervention, enabling high-speed continuous production.",
+            question: "What is a fully automatic stretch blow moulding machine?",
+            answer: "A fully automatic stretch blow moulding machine is used to convert PET preforms into finished bottles through automated heating, stretching, high-pressure blowing and bottle ejection.",
           },
           {
-            question: "Who is a reliable Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi?",
-            answer:
-              "Suraj Plastic Industries is a trusted Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi, with 28+ years of experience, ISO 9001:2015 certification, and 1,480+ successful installations.",
+            question: "What is the production capacity of Suraj Plastic Industries' fully automatic PET blow moulding machines?",
+            answer: "The SPI AY Series includes configurations ranging from approximately 1,800 BPH to 6,000 BPH, depending on the machine model and bottle application.",
           },
           {
-            question: "What is the maximum output of a Fully Automatic Stretch Blow Moulding Machine?",
-            answer:
-              "Our highest-output models produce 5400–6000 bottles per hour each; running multiple machines together, plants can achieve up to 7200 bottles per hour.",
+            question: "Which Suraj machine can produce 600 ml PET bottles?",
+            answer: "The SPI AY600 series is designed for 600 ml containers. The 4-cavity configuration is rated up to 4,000 BPH, while the 6-cavity configuration is rated up to 6,000 BPH.",
           },
           {
-            question: "What bottle sizes can this machine produce?",
-            answer:
-              "Depending on the model, the machine can produce PET bottles ranging from 50 ML to 2000 ML.",
+            question: "Which machine is suitable for 1.5-litre PET bottles?",
+            answer: "The SPI AY1500 series is available in 2-cavity and 4-cavity configurations, with rated outputs of up to 2,000 BPH and 3,600 BPH respectively.",
           },
           {
-            question: "How many cavity options are available?",
-            answer:
-              "The machine is available in 2, 4, and 6 cavity configurations, allowing manufacturers to choose based on their required output and investment level.",
+            question: "Which machine is suitable for 2-litre PET bottles?",
+            answer: "The SPI AY2000 series includes 2-cavity and 4-cavity configurations with rated outputs of up to 1,800 BPH and 3,600 BPH respectively.",
           },
           {
-            question: "How many operators are needed to run this machine?",
-            answer:
-              "Only one trained supervisor is required, since the entire loading, heating, blowing, and ejection process is fully automated.",
+            question: "What is the difference between 2-cavity and 6-cavity PET blow moulding machines?",
+            answer: "A 2-cavity machine produces two bottles per moulding cycle, while a 6-cavity machine can produce six bottles per cycle. A higher cavity count can increase production output but may also require higher utility capacity and a different investment level.",
           },
           {
-            question: "What is the difference between a fully automatic and semi automatic stretch blow moulding machine?",
-            answer:
-              "A semi automatic machine requires manual preform loading and bottle removal, while a fully automatic machine automates both steps, offering higher output and lower labour cost per bottle.",
+            question: "What air pressure is required for the SPI AY Series?",
+            answer: "The current specifications list LP working pressure up to 10 bar and maximum blowing pressure up to 30 bar. Exact requirements vary by machine configuration and should be confirmed for the selected model.",
           },
           {
-            question: "Is this machine suitable for a large mineral water or beverage plant?",
-            answer:
-              "Yes, the machine is designed for high-volume production and is widely used in packaged drinking water plants, beverage lines, and FMCG packaging units.",
+            question: "What factors affect PET bottle production output?",
+            answer: "Production output can be affected by bottle volume, preform weight, bottle design, cavity count, moulding cycle, machine configuration and operating conditions.",
           },
           {
-            question: "Does the machine come with a PLC control system?",
-            answer:
-              "Yes, all machines are equipped with a PLC-based control panel and digital touchscreen interface for precise monitoring of heating, blowing pressure, and cycle time.",
+            question: "Can these machines produce different PET bottle sizes?",
+            answer: "Different SPI AY models are designed for different container volumes. The selected mould and machine configuration determine the compatible bottle dimensions.",
           },
           {
-            question: "Does Suraj Plastic Industries provide installation, training, and spare parts support?",
-            answer:
-              "Yes, the company provides complete on-site installation, commissioning, operator training, and maintains ready stock of spare parts for fast after-sales support across India.",
+            question: "Why is preform heating important?",
+            answer: "Controlled preform heating prepares PET for the stretching and blowing stages. Proper heating helps achieve more consistent material distribution and bottle formation.",
+          },
+          {
+            question: "Is a fully automatic machine better than a semi automatic machine?",
+            answer: "It depends on the production requirement. Fully automatic machines are generally more suitable for higher-volume production and reduced manual handling, while semi automatic machines may be suitable for moderate production requirements.",
+          },
+          {
+            question: "What should I check before buying a PET bottle blowing machine?",
+            answer: "Check bottle size, production target, cavity count, preform specification, mould requirements, compressed-air availability, power requirements, chiller requirements, factory space and after-sales support.",
           },
         ],
       },
-    ],
 
-    // ==========================================
-    // FAQ SCHEMA
-    // ==========================================
-
-    schema: [
       {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        "mainEntity": [
-          {
-            "@type": "Question",
-            "name": "What is a Fully Automatic Stretch Blow Moulding Machine?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "It is a PET bottle manufacturing machine where preform loading, heating, stretch blowing, and bottle ejection all happen automatically, without manual intervention, enabling high-speed continuous production.",
-            },
-          },
-          {
-            "@type": "Question",
-            "name": "Who is a reliable Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Suraj Plastic Industries is a trusted Fully Automatic Stretch Blow Moulding Machine Manufacturer in Delhi, with 28+ years of experience, ISO 9001:2015 certification, and 1,480+ successful installations.",
-            },
-          },
-          {
-            "@type": "Question",
-            "name": "What is the maximum output of a Fully Automatic Stretch Blow Moulding Machine?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Our highest-output models produce 5400 to 6000 bottles per hour each; running multiple machines together, plants can achieve up to 7200 bottles per hour.",
-            },
-          },
-          {
-            "@type": "Question",
-            "name": "What bottle sizes can this machine produce?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Depending on the model, the machine can produce PET bottles ranging from 50 ML to 2000 ML.",
-            },
-          },
-          {
-            "@type": "Question",
-            "name": "How many cavity options are available?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "The machine is available in 2, 4, and 6 cavity configurations, allowing manufacturers to choose based on their required output and investment level.",
-            },
-          },
-          {
-            "@type": "Question",
-            "name": "How many operators are needed to run this machine?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Only one trained supervisor is required, since the entire loading, heating, blowing, and ejection process is fully automated.",
-            },
-          },
-          {
-            "@type": "Question",
-            "name": "What is the difference between a fully automatic and semi automatic stretch blow moulding machine?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "A semi automatic machine requires manual preform loading and bottle removal, while a fully automatic machine automates both steps, offering higher output and lower labour cost per bottle.",
-            },
-          },
-          {
-            "@type": "Question",
-            "name": "Is this machine suitable for a large mineral water or beverage plant?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes, the machine is designed for high-volume production and is widely used in packaged drinking water plants, beverage lines, and FMCG packaging units.",
-            },
-          },
-          {
-            "@type": "Question",
-            "name": "Does the machine come with a PLC control system?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes, all machines are equipped with a PLC-based control panel and digital touchscreen interface for precise monitoring of heating, blowing pressure, and cycle time.",
-            },
-          },
-          {
-            "@type": "Question",
-            "name": "Does Suraj Plastic Industries provide installation, training, and spare parts support?",
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": "Yes, the company provides complete on-site installation, commissioning, operator training, and maintains ready stock of spare parts for fast after-sales support across India.",
-            },
-          },
+        type: "h2",
+        text: "Get a Fully Automatic PET Stretch Blow Moulding Machine",
+      },
+
+      {
+        type: "paragraph",
+        text: "If you are planning to start or expand PET bottle production, selecting the correct Fully Automatic PET Stretch Blow Moulding Machine is essential for achieving the required production volume and consistent bottle quality.",
+      },
+
+      {
+        type: "paragraph",
+        text: "Share your requirements with Suraj Plastic Industries, including:",
+      },
+
+      {
+        type: "list",
+        items: [
+          "Required bottle capacity",
+          "Bottle design",
+          "Production target in BPH",
+          "PET preform specification",
+          "Required cavity configuration",
+          "Application",
+          "Available factory utilities",
+        ],
+      },
+
+      {
+        type: "paragraph",
+        text: "The appropriate SPI AY Series configuration can then be evaluated according to your production requirements.",
+      },
+
+      {
+        type: "paragraph",
+        content: [
+          { text: "Suraj Plastic Industries provides fully automatic PET stretch blow moulding solutions with multiple cavity configurations and production capacities of up to 6,000 BPH." },
+        ],
+      },
+
+      {
+        type: "paragraph",
+        content: [
+          { text: "Contact " },
+          { text: "Suraj Plastic Industries", bold: true, link: "/contact-us" },
+          { text: " for machine specifications, configuration details and application-specific assistance." },
         ],
       },
     ],
@@ -3051,548 +3659,267 @@ export const products = [
   {
     slug: "stretch-blow-moulding-machine-manufacturer",
 
-    name: "Stretch Blow Moulding Machine Manufacturer",
+    name: "Stretch Blow Moulding Machine Manufacturer in India",
 
     heroImage: "/bg.jpg",
 
     image: "/product/product1.png",
 
-    metaTitle: "Stretch Blow Moulding Machine Manufacturer | Suraj Plastic",
+    metaTitle: "Stretch Blow Moulding Machine Manufacturer in India | PET Machines",
 
     metaDescription:
-      "Searching for the best Stretch Blow Moulding Machine Manufacturer? Get energy-efficient PET bottle making machines with expert installation and after-sales support.",
+      "Leading Stretch Blow Moulding Machine Manufacturer in India offering reliable PET bottle manufacturing machines with high efficiency, customization and after-sales support.",
+
+    keywords: "Stretch Blow Moulding Machine Manufacturer",
 
     shortDescription: [
-      "This machine is designed for manufacturing PET bottles and jars with high precision and consistent output. Ideal for water, beverages, cosmetics, household and industrial packaging.",
-      "It features hydro-pneumatic operation, efficient heating, and stable moulding performance. Durable design ensures long working life with low maintenance needs.",
+      "Suraj Plastic Industries is an experienced [Stretch Blow Moulding Machine Manufacturer](/contact-us) in India, supplying PET stretch blow moulding solutions for the production of high-quality bottles, jars and containers. Our machines are designed for consistent bottle formation, reliable production, efficient preform heating and controlled stretching and blowing.",
+      "With manufacturing experience dating back to 1982 and dedicated PET Preform Stretch Blow Moulding Machine manufacturing since 1997, Suraj Plastic Industries serves businesses looking for dependable PET bottle manufacturing equipment. Our machine range supports bottle and jar applications from small packaging formats up to 25-litre containers, depending on the model and mould configuration.",
+      "Whether you are setting up a new PET bottle production line, expanding an existing plant or replacing an older machine, our team can help you select a suitable machine based on bottle size, production volume, cavity configuration and application.",
     ],
 
-    features: [
-      "Supports bottle sizes from 50 ML to 25 LTR",
-      "Output capacity up to 700 Bottles Per Hour",
-      "Hydro-Pneumatic smooth operation for consistent shaping",
-    ],
-
-    specification: {
-      title: "Technical Specification",
-
-      headers: ["Description / Model", "HP-1000-2B", "HP-2000-2JB", "HP-5000-JB", "HP-20-CS"],
-
-      rows: [
-        ["Product Size", "50 ML – 1000 ML", "50 ML – 3000 ML Bottle / Jar", "50 ML – 7500 ML", "5 LTR – 25 LTR"],
-        ["Product Output", "600–700 BPH", "450–700 BPH", "350–700 BPH", "150–240 BPH"],
-        ["Mould Cavity", "2 Cavity", "2 Cavity", "2 Cavity upto 3 LTR / 1 Cavity upto 7.5 LTR", "1 Cavity"],
-        ["Neck Size", "19–32 MM", "19–96 MM", "19–120 MM", "45–135 MM"],
-        ["Heater Power", "10 KW", "12 KW", "12 KW", "32 KW"],
-        ["Clamping Stroke", "150 MM", "200 MM", "250 MM", "350 MM"],
-        ["Working Pressure", "8 KG / CM²", "8 KG / CM²", "8 KG / CM²", "8 KG / CM²"],
-        ["Blowing Pressure", "22–25 KG / CM²", "22–25 KG / CM²", "22–25 KG / CM²", "22–25 KG / CM²"],
-        ["Air Requirement", "0.7 M³/MIN", "0.8 M³/MIN", "0.9 M³/MIN", "2 M³/MIN"],
-        ["Operation", "Hydro-Pneumatic", "Hydro-Pneumatic", "Hydro-Pneumatic", "Hydro-Pneumatic"],
-        ["Area Required", "5 MTR x 5 MTR", "5 MTR x 5 MTR", "5 MTR x 5 MTR", "5 MTR x 5 MTR"],
-        ["Staff Required", "2", "2", "2", "2"],
-      ],
-    },
+    features: [],
 
     seo: [
 
+      {
+        type: "h2",
+        text: "PET Stretch Blow Moulding Machine Range",
+      },
 
       {
         type: "paragraph",
-        content: [
-          { text: "In today's competitive packaging industry, producing high-quality PET bottles requires advanced machinery that delivers speed, precision, and reliability. Choosing the right" },
-          {
-            text: " Stretch Blow Moulding Machine Manufacturer ",
-            bold: true,
-            link: "/contact-us",
-          },
-          { text: "is essential for businesses that want to improve production efficiency, reduce operational costs, and manufacture premium-quality PET bottles." },
+        text: "Our PET Stretch Blow Moulding Machines are available in different configurations to meet the requirements of small, medium and industrial-scale bottle production.",
+      },
+
+      {
+        type: "table",
+        headers: ["Machine Model", "Bottle / Jar Range", "Production Output", "Cavity"],
+        rows: [
+          ["HP-1000-2B", "50 ml – 1000 ml", "600–700 BPH", "2"],
+          ["HP-2000-2JB", "50 ml – 3000 ml", "450–700 BPH", "2"],
+          ["HP-5000-JB", "50 ml – 7500 ml", "350–700 BPH", "2 / 1"],
+          ["HP-20-CS", "5 Litre – 25 Litre", "150–240 BPH", "1"],
         ],
       },
 
       {
         type: "paragraph",
-        content: [
-          { text: "Suraj Plastic Industries", bold: true },
-          {
-            text: " is a trusted"
-          },
-          {
-            text: " Stretch Blow Moulding Machine Manufacturer",
-            bold: true
-          },
-          {
-            text: " in India, offering innovative and high-performance PET bottle manufacturing machines for businesses of all sizes. Our machines are designed with advanced technology, energy-efficient systems, and robust engineering to ensure long-lasting performance and maximum productivity.",
-          },
-        ],
+        text: "Actual production output can vary according to preform weight, bottle design, material characteristics and mould configuration.",
       },
 
       {
-        type: "paragraph",
-        text: "Whether you manufacture mineral water bottles, soft drink containers, edible oil bottles, pharmaceutical packaging, cosmetic bottles, or industrial containers, Suraj Plastic Industries provides reliable stretch blow moulding solutions tailored to your production needs.",
-      },
-
-      {
-        type: "h4",
-        text: "Why Choose Suraj Plastic Industries?",
-      },
-
-      {
-        type: "paragraph",
-        content: [
-          {
-            text: " When investing in a PET bottle manufacturing machine, selecting an experienced manufacturer is just as important as choosing the machine itself. At "
-          },
-          {
-            text: " Suraj Plastic Industries,",
-            bold: true
-          },
-          {
-            text: " we combine technical expertise, modern manufacturing, and exceptional customer support to deliver machinery that meets international quality standards.",
-          },
-        ],
-      },
-
-      {
-        type: "h4",
-        text: "What Makes Us Different?",
-      },
-
-      {
-        type: "checklist",
-        items: [
-          "High-performance PET bottle making machines",
-          "Precision engineering for consistent bottle quality",
-          "Energy-efficient operation",
-          "Heavy-duty machine construction",
-          "Low maintenance requirements",
-          "Affordable pricing",
-          "Custom machine configurations",
-          "Reliable after-sales support",
-          "Genuine spare parts availability",
-          "Fast installation and technical assistance",
-        ],
-      },
-
-      {
-        type: "paragraph",
-        content: [{ text: "Our commitment to quality has made us one of the preferred" },
-        { text: " Stretch Blow Moulding Machine Manufacturers", bold: true }, { text: "  for businesses across India." }],
-      },
-
-      {
-        type: "h4",
-        text: "Fully Automatic Stretch Blow Moulding Machine",
-      },
-
-      {
-        type: "paragraph",
-        text: "Designed for high-volume production units requiring continuous manufacturing with minimal manual intervention.",
-      },
-
-      {
-        type: "paragraph",
-        content: [{ text: "Advantages", bold: true }],
-      },
-
-      {
-        type: "checklist",
-        items: [
-          [{ text: "High production speed" }],
-          [{ text: "Reduced labor costs" }],
-          [{ text: "Automatic bottle production" }],
-          [{ text: "Higher efficiency" }],
-          [{ text: "Consistent output quality" }],
-        ],
-      },
-
-      {
-        type: "h4",
-        text: "Features of Our Stretch Blow Moulding Machines",
-      },
-
-      {
-        type: "paragraph",
-        text: "Every machine manufactured by Suraj Plastic Industries is built for long-term performance and high production efficiency.",
-      },
-
-      {
-        type: "checklist",
-        items: [
-          [
-            { text: "Advanced Heating System — ", bold: true },
-            { text: "Ensures uniform heating of PET preforms for accurate bottle formation." },
-          ],
-          [
-            { text: "Precision Blow Moulding Technology — ", bold: true },
-            { text: "Produces bottles with consistent wall thickness and excellent transparency." },
-          ],
-          [
-            { text: "Heavy-Duty Construction — ", bold: true },
-            { text: "Strong machine body designed for continuous industrial operation." },
-          ],
-          [
-            { text: "Energy-Efficient Design — ", bold: true },
-            { text: "Consumes less electricity while maintaining high productivity." },
-          ],
-          [
-            { text: "User-Friendly Control Panel — ", bold: true },
-            { text: "Easy machine operation with simplified controls." },
-          ],
-          [
-            { text: "Fast Production Cycle — ", bold: true },
-            { text: "Higher output with reduced cycle time." },
-          ],
-          [
-            { text: "Low Maintenance — ", bold: true },
-            { text: "Minimal servicing requirements reduce operational costs." },
-          ],
-          [
-            { text: "Reliable Pneumatic System — ", bold: true },
-            { text: "Ensures stable air pressure throughout the production process." },
-          ],
-        ],
-      },
-
-      {
-        type: "h4",
-        text: "Technical Advantages",
-      },
-
-      {
-        type: "paragraph",
-        text: "Businesses choose Suraj Plastic Industries because our machines offer several engineering benefits.",
-      },
-
-      {
-        type: "checklist",
-        items: [
-          "High production accuracy",
-          "Uniform bottle quality",
-          "Strong bottle neck finish",
-          "Stable stretching mechanism",
-          "Low rejection rate",
-          "Smooth bottle surface",
-          "Easy mould changing",
-          "Consistent heating temperature",
-          "Long operational life",
-          "High production efficiency",
-        ],
-      },
-
-      {
-        type: "h4",
-        text: "Benefits of Choosing a Trusted Stretch Blow Moulding Machine Manufacturer",
-      },
-
-      {
-        type: "paragraph",
-        text: "Selecting the right manufacturer provides long-term advantages beyond simply purchasing a machine.",
-      },
-
-      {
-        type: "checklist",
-        items: [
-          [
-            { text: "Superior Machine Quality — ", bold: true },
-            { text: "Premium materials ensure durability and long service life." },
-          ],
-          [
-            { text: "Better Productivity — ", bold: true },
-            { text: "Advanced engineering allows higher bottle production with consistent quality." },
-          ],
-          [
-            { text: "Lower Operating Costs — ", bold: true },
-            { text: "Energy-efficient systems reduce electricity consumption." },
-          ],
-          [
-            { text: "Customized Machine Solutions — ", bold: true },
-            { text: "Machines are designed according to bottle capacity, production output, and business requirements." },
-          ],
-          [
-            { text: "Expert Technical Support — ", bold: true },
-            { text: "Professional installation, training, and maintenance assistance ensure smooth operation." },
-          ],
-          [
-            { text: "Genuine Spare Parts — ", bold: true },
-            { text: "Quick availability of original spare parts minimizes production downtime." },
-          ],
-        ],
-      },
-
-      {
-        type: "h4",
-        text: "Bottle Sizes Our Machines Can Produce",
-      },
-
-      {
-        type: "paragraph",
-        text: "Depending on the mould configuration, our machines can manufacture:",
-      },
-
-      {
-        type: "checklist",
-        items: [
-          "200 ml PET Bottles",
-          "250 ml Bottles",
-          "500 ml Bottles",
-          "1 Litre Bottles",
-          "2 Litre Bottles",
-          "5 Litre Containers",
-          "Wide Mouth Bottles",
-          "Custom PET Bottles",
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "This flexibility allows businesses to serve multiple industries with a single machine setup.",
-      },
-
-      {
-        type: "h4",
-        text: "Why Businesses Across India Trust Suraj Plastic Industries",
-      },
-
-      {
-        type: "paragraph",
-        text: "Our reputation as a trusted Stretch Blow Moulding Machine Manufacturer is built on years of delivering reliable machinery and exceptional customer service.",
-      },
-
-      {
-        type: "paragraph",
-        text: "Customers choose us because we offer:",
-      },
-
-      {
-        type: "list",
-        items: [
-          "Premium quality manufacturing",
-          "Competitive pricing",
-          "Timely delivery",
-          "Customized machine solutions",
-          "Expert engineering support",
-          "Installation assistance",
-          "Operator training",
-          "Long-term technical service",
-          "Reliable after-sales support",
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "Our goal is not just to supply machinery but to become a long-term manufacturing partner for our clients.",
-      },
-
-      {
-        type: "h4",
-        text: "Quality Standards at Suraj Plastic Industries",
-      },
-
-      {
-        type: "paragraph",
-        text: "Quality is at the core of everything we manufacture.",
-      },
-
-      {
-        type: "paragraph",
-        text: "Every Stretch Blow Moulding Machine undergoes rigorous quality checks to ensure:",
-      },
-
-      {
-        type: "list",
-        items: [
-          "Precision engineering",
-          "Smooth machine operation",
-          "Stable production",
-          "High bottle accuracy",
-          "Reliable safety standards",
-          "Excellent finishing",
-          "Long machine life",
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "This commitment to quality helps customers achieve consistent production with minimal downtime.",
-      },
-
-      // ============================================
-      // EXISTING PAGE CONTENT (already live) — kept as is
-      // ============================================
-
-      {
-        type: "h3",
-        text: "Best Stretch Blow Moulding Machine Manufacturer in India — Suraj Plastic Industries",
-      },
-
-      {
-        type: "paragraph",
-        content: [
-          { text: "When you are planning to manufacture PET bottles — whether for water, juice, oil, or cosmetics — the most important decision you will make is choosing the right " },
-          { text: "stretch blow moulding machine manufacturer", bold: true, link: "/contact-us" },
-          { text: " behind it." },
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "At Suraj Plastic Industries, we have been building stretch blow moulding machines since 1982. That is over 40 years of hands-on experience, 3000+ machines delivered, and a reputation that has been earned — not just claimed.",
-      },
-
-      {
-        type: "paragraph",
-        text: "This page will help you understand everything you need to know before making a decision — from how the machine works to which model suits your production need.",
-      },
-
-      {
-        type: "h4",
+        type: "h2",
         text: "What Is a Stretch Blow Moulding Machine?",
       },
 
       {
         type: "paragraph",
-        content: [
-          { text: "A " },
-          { text: "stretch blow moulding machine manufacturer", bold: true, link: "/products/semi-automatic-stretch-blow-moulding-machine" },
-          { text: " equipment that converts a PET preform into a finished, ready-to-fill plastic bottle. It does this through a precise combination of heat, mechanical stretching, and high-pressure air blowing — all happening inside a mould that gives the bottle its final shape." },
-        ],
+        text: "A stretch blow moulding machine converts a heated PET preform into a finished bottle or container. The process combines controlled heating, mechanical stretching and high-pressure air blowing inside a mould.",
       },
 
       {
         type: "paragraph",
-        text: "The result? A bottle that is lightweight, crystal clear, strong, and perfectly shaped — every single time.",
+        text: "The preform is first heated to the required condition. It is then positioned inside the mould, stretched using a stretch mechanism and expanded with compressed air until it takes the shape of the mould.",
       },
 
       {
         type: "paragraph",
-        text: "This technology is used to produce billions of plastic bottles every year across India and worldwide — from the 500ml water bottle on your desk to the 2-litre cooking oil container in your kitchen.",
+        text: "This process allows manufacturers to produce lightweight PET containers with consistent dimensions, good transparency, controlled wall thickness and the required mechanical strength.",
+      },
+
+      {
+        type: "h2",
+        text: "How Does a PET Stretch Blow Moulding Machine Work?",
+      },
+
+      {
+        type: "paragraph",
+        text: "The PET bottle manufacturing process generally follows these stages:",
       },
 
       {
         type: "h4",
-        text: "How Does a Stretch Blow Moulding Machine Work?",
+        text: "1. PET Preform Loading",
       },
 
       {
         type: "paragraph",
-        text: "The process is straightforward, but the precision behind it is what makes all the difference:",
-      },
-
-      {
-        type: "timeline",
-        items: [
-          {
-            title: "Step 1 — Preform Loading",
-            description:
-              "A PET preform (a small, thick plastic tube with a finished bottle neck) is loaded into the machine — either manually (semi automatic) or by an automated feeder (fully automatic).",
-          },
-          {
-            title: "Step 2 — Infrared Heating",
-            description:
-              "The preform passes through a multi-zone infrared heating system. Each zone heats specific parts of the preform to a precise temperature. This is critical — uneven heating leads to uneven wall thickness in the final bottle.",
-          },
-          {
-            title: "Step 3 — Mould Clamping",
-            description:
-              "The heated preform is transferred into the bottle mould. The mould closes firmly around it.",
-          },
-          {
-            title: "Step 4 — Stretching",
-            description:
-              "A stretch rod pushes down through the preform, stretching it vertically to the correct length. This is the \"stretch\" in stretch blow moulding.",
-          },
-          {
-            title: "Step 5 — Blowing",
-            description:
-              "High-pressure air (22–25 kg/cm²) is blown into the stretched preform, pushing the softened plastic outward into every corner of the mould.",
-          },
-          {
-            title: "Step 6 — Cooling and Ejection",
-            description:
-              "The mould cools the bottle rapidly, the mould opens, and a perfectly formed bottle is ejected — ready for filling, capping, and labelling.",
-          },
-        ],
-      },
-
-      {
-        type: "paragraph",
-        text: "The entire cycle — from loading to finished bottle — takes just a few seconds.",
+        text: "PET preforms are loaded into the machine manually or through an automated feeding arrangement depending on the machine configuration.",
       },
 
       {
         type: "h4",
-        text: "Types of Stretch Blow Moulding Machines We Manufacture",
+        text: "2. Preform Heating",
       },
 
       {
         type: "paragraph",
-        content: [{ text: "1. Semi Automatic Stretch Blow Moulding Machine Manufacturer", bold: true }],
+        text: "The preform passes through the heating section where controlled heating prepares the PET material for stretching and blowing.",
       },
 
       {
         type: "paragraph",
-        text: "The operator loads the preform manually. The machine handles heating, stretching, and blowing automatically. Ideal for small to medium scale production with output of 1000–1200 bottles per hour.",
+        text: "Uniform heating is important because uneven preform temperature can affect bottle wall distribution, clarity and final bottle quality.",
+      },
+
+      {
+        type: "h4",
+        text: "3. Mould Clamping",
       },
 
       {
         type: "paragraph",
-        content: [
-          { text: "Best for: ", bold: true },
-          { text: "New businesses, small packaged water plants, startups entering the beverage or cosmetic packaging space." },
-        ],
+        text: "The heated preform is transferred into the bottle mould. The mould closes and holds the preform securely during the blowing process.",
+      },
+
+      {
+        type: "h4",
+        text: "4. Stretching",
       },
 
       {
         type: "paragraph",
-        content: [{ text: "2. Fully Automatic Stretch Blow Moulding Machine Manufacturer", bold: true }],
+        text: "A stretch mechanism extends the heated preform vertically. Controlled stretching helps distribute the PET material along the length and body of the bottle.",
+      },
+
+      {
+        type: "h4",
+        text: "5. High-Pressure Blowing",
       },
 
       {
         type: "paragraph",
-        text: "End-to-end automated operation — from preform feeding to bottle ejection. No manual intervention needed in the blowing cycle. Higher output, higher efficiency, designed for large-scale production.",
+        text: "Compressed air expands the stretched preform against the mould cavity, creating the required bottle shape and dimensions.",
+      },
+
+      {
+        type: "h4",
+        text: "6. Cooling and Bottle Ejection",
       },
 
       {
         type: "paragraph",
-        content: [
-          { text: "Best for: ", bold: true },
-          { text: "Established manufacturers with high daily production requirements and larger factory setups." },
-        ],
+        text: "After forming, the bottle cools sufficiently for removal from the mould. The finished PET bottle can then move to subsequent filling, capping, labelling or packaging operations.",
       },
 
       {
-        type: "comparison",
-        title: "Technical Specifications — Model Comparison",
-        headers: ["Specification", "HP-1000-2B", "HP-2000-2JB", "HP-5000-JB", "HP-20-CS"],
+        type: "h2",
+        text: "Key Features of Our Stretch Blow Moulding Machines",
+      },
+
+      {
+        type: "paragraph",
+        text: "Suraj Plastic Industries focuses on machine performance, bottle consistency and practical operation.",
+      },
+
+      {
+        type: "h4",
+        text: "Efficient Preform Heating",
+      },
+
+      {
+        type: "paragraph",
+        text: "Controlled heating helps prepare PET preforms for consistent stretching and bottle formation.",
+      },
+
+      {
+        type: "h4",
+        text: "Hydro-Pneumatic Operation",
+      },
+
+      {
+        type: "paragraph",
+        text: "Our listed machine models use hydro-pneumatic operation for stable moulding performance and controlled machine movement.",
+      },
+
+      {
+        type: "h4",
+        text: "Consistent Bottle Formation",
+      },
+
+      {
+        type: "paragraph",
+        text: "Controlled stretching and blowing help maintain consistent bottle shape, dimensions and wall distribution when the machine is correctly configured for the application.",
+      },
+
+      {
+        type: "h4",
+        text: "Multiple Bottle Sizes",
+      },
+
+      {
+        type: "paragraph",
+        text: "Depending on the machine model and mould, our machines can manufacture containers ranging from 50 ml bottles to 25-litre containers.",
+      },
+
+      {
+        type: "h4",
+        text: "Flexible Mould Configuration",
+      },
+
+      {
+        type: "paragraph",
+        text: "Different mould cavity and bottle configurations can be selected according to production requirements.",
+      },
+
+      {
+        type: "h4",
+        text: "Industrial Construction",
+      },
+
+      {
+        type: "paragraph",
+        text: "The machines are designed for continuous manufacturing environments where reliability, repeatability and ease of maintenance are important.",
+      },
+
+      {
+        type: "h4",
+        text: "Practical Operation",
+      },
+
+      {
+        type: "paragraph",
+        text: "Machine controls and operating systems are designed to support straightforward machine operation, production monitoring and routine maintenance.",
+      },
+
+      {
+        type: "h2",
+        text: "Stretch Blow Moulding Machine Specifications",
+      },
+
+      {
+        type: "table",
+        headers: ["Parameter", "HP-1000-2B", "HP-2000-2JB", "HP-5000-JB", "HP-20-CS"],
         rows: [
-          ["Bottle Size", "50 ml – 1000 ml", "50 ml – 3000 ml", "50 ml – 7500 ml", "5 Ltr – 25 Ltr"],
-          ["Output (BPH)", "600–700", "450–700", "350–700", "150–240"],
-          ["Mould Cavity", "2 Cavity", "2 Cavity", "2 Cavity (up to 3L) / 1 Cavity (up to 7.5L)", "1 Cavity"],
+          ["Product Size", "50 ml–1000 ml", "50 ml–3000 ml", "50 ml–7500 ml", "5–25 Litre"],
+          ["Output", "600–700 BPH", "450–700 BPH", "350–700 BPH", "150–240 BPH"],
+          ["Mould Cavity", "2", "2", "2 up to 3L / 1 up to 7.5L", "1"],
           ["Neck Size", "19–32 mm", "19–96 mm", "19–120 mm", "45–135 mm"],
-          ["Heater Power", "10 KW", "12 KW", "12 KW", "32 KW"],
+          ["Heater Power", "10 kW", "12 kW", "12 kW", "32 kW"],
           ["Clamping Stroke", "150 mm", "200 mm", "250 mm", "350 mm"],
           ["Working Pressure", "8 kg/cm²", "8 kg/cm²", "8 kg/cm²", "8 kg/cm²"],
           ["Blowing Pressure", "22–25 kg/cm²", "22–25 kg/cm²", "22–25 kg/cm²", "22–25 kg/cm²"],
           ["Air Requirement", "0.7 m³/min", "0.8 m³/min", "0.9 m³/min", "2 m³/min"],
           ["Operation", "Hydro-Pneumatic", "Hydro-Pneumatic", "Hydro-Pneumatic", "Hydro-Pneumatic"],
-          ["Area Required", "5 x 5 MTR", "5 x 5 MTR", "5 x 5 MTR", "5 x 5 MTR"],
+          ["Area Required", "5 × 5 m", "5 × 5 m", "5 × 5 m", "5 × 5 m"],
           ["Staff Required", "2", "2", "2", "2"],
         ],
       },
 
       {
         type: "paragraph",
-        content: [
-          { text: "Not sure which model fits your production plan? " },
-          { text: "Contact our team", bold: true, link: "/contact-us" },
-          { text: " — we will help you choose without any pressure." },
-        ],
+        text: "Specifications may vary according to machine configuration, mould, bottle design and production requirements.",
       },
 
       {
-        type: "h4",
-        text: "Industries That Use Our Stretch Blow Moulding Machine Manufacturer",
+        type: "h2",
+        text: "Applications of PET Stretch Blow Moulding Machines",
+      },
+
+      {
+        type: "paragraph",
+        text: "PET stretch blow moulding technology is used across several packaging industries.",
       },
 
       {
@@ -3600,183 +3927,267 @@ export const products = [
         items: [
           {
             title: "Packaged Drinking Water",
-            points: ["The biggest application in India. From 200ml cups to 20-litre jars — our machines handle the full range that water plant businesses need."],
+            points: ["PET bottles for packaged drinking water require consistent dimensions, good clarity and reliable bottle strength. Our machines can be configured for different bottle capacities according to production requirements."],
           },
           {
-            title: "Carbonated Soft Drinks and Juices",
-            points: ["CSD bottles need high strength and accurate neck dimensions to hold carbonation pressure. Our machines produce exactly that — consistently."],
+            title: "Carbonated Drinks and Beverages",
+            points: ["PET bottles used for soft drinks and other carbonated beverages require suitable bottle design, neck dimensions and material distribution."],
           },
           {
-            title: "Edible Oil and Food Packaging",
-            points: ["Food-grade PET bottles with thick, durable walls and clear transparency — exactly what cooking oil and food product brands need."],
+            title: "Edible Oil Packaging",
+            points: ["PET bottles are widely used for edible oils because they are lightweight, transparent and suitable for different bottle designs."],
+          },
+          {
+            title: "Juice and Beverage Bottles",
+            points: ["Manufacturers of juices, energy drinks and other beverages can use PET stretch blow moulding technology for different bottle formats."],
+          },
+          {
+            title: "Pharmaceutical Packaging",
+            points: ["PET containers can be produced for selected pharmaceutical and healthcare packaging applications where the bottle design and material requirements are suitable."],
           },
           {
             title: "Cosmetics and Personal Care",
-            points: ["Lightweight, attractive bottles for shampoos, conditioners, body lotions, and face care products — with mould flexibility to create unique shapes."],
+            points: ["Shampoo, lotion, personal-care and cosmetic packaging can use PET containers in a wide range of shapes and sizes."],
           },
           {
-            title: "Pharmaceuticals and Health Products",
-            points: ["Accurate, clean, and tamper-evident PET containers for syrups, health drinks, and supplement products."],
+            title: "Household and Chemical Packaging",
+            points: ["PET bottles and containers are also used for selected detergents, cleaning products, chemicals and industrial liquids."],
+          },
+        ],
+      },
+
+      {
+        type: "h2",
+        text: "Semi Automatic vs Fully Automatic Stretch Blow Moulding Machine",
+      },
+
+      {
+        type: "paragraph",
+        text: "Choosing between a semi automatic and fully automatic machine depends mainly on production volume, available manpower, factory layout and investment requirements.",
+      },
+
+      {
+        type: "h3",
+        text: "Semi Automatic Stretch Blow Moulding Machine",
+      },
+
+      {
+        type: "paragraph",
+        text: "A semi automatic system is suitable for businesses where operators can handle preform loading and other production activities.",
+      },
+
+      {
+        type: "paragraph",
+        text: "It can be a practical option for:",
+      },
+
+      {
+        type: "list",
+        items: [
+          "Small and medium production requirements",
+          "New PET bottle manufacturing units",
+          "Businesses with moderate bottle demand",
+          "Plants looking for controlled initial investment",
+        ],
+      },
+
+      {
+        type: "h3",
+        text: "Fully Automatic Stretch Blow Moulding Machine",
+      },
+
+      {
+        type: "paragraph",
+        text: "A fully automatic system reduces manual intervention and is more suitable for higher-volume production environments.",
+      },
+
+      {
+        type: "paragraph",
+        text: "It can be considered for:",
+      },
+
+      {
+        type: "list",
+        items: [
+          "High production requirements",
+          "Larger manufacturing plants",
+          "Continuous bottle production",
+          "Businesses looking to reduce manual handling",
+        ],
+      },
+
+      {
+        type: "paragraph",
+        text: "The right choice should be made according to required bottles per hour, bottle size, mould cavity, available utilities and overall production plan.",
+      },
+
+      {
+        type: "h2",
+        text: "How to Choose the Right Stretch Blow Moulding Machine?",
+      },
+
+      {
+        type: "paragraph",
+        text: "Selecting a PET bottle blowing machine only on the basis of its price can result in an unsuitable production setup. Before purchasing, consider the following:",
+      },
+
+      {
+        type: "h4",
+        text: "1. Bottle Capacity",
+      },
+
+      {
+        type: "paragraph",
+        text: "Determine whether you need 250 ml, 500 ml, 1 litre, 2 litre, 5 litre, 20 litre or another bottle format.",
+      },
+
+      {
+        type: "h4",
+        text: "2. Required Production Output",
+      },
+
+      {
+        type: "paragraph",
+        text: "Calculate the number of bottles required per hour or per day. This helps determine the appropriate machine capacity and cavity configuration.",
+      },
+
+      {
+        type: "h4",
+        text: "3. Bottle Design",
+      },
+
+      {
+        type: "paragraph",
+        text: "Bottle shape, neck diameter, height, diameter and preform design affect machine and mould selection.",
+      },
+
+      {
+        type: "h4",
+        text: "4. Number of Cavities",
+      },
+
+      {
+        type: "paragraph",
+        text: "Higher cavity configurations can increase production output, depending on the machine and bottle application.",
+      },
+
+      {
+        type: "h4",
+        text: "5. Available Factory Space",
+      },
+
+      {
+        type: "paragraph",
+        text: "Machine dimensions and supporting equipment should be considered before installation.",
+      },
+
+      {
+        type: "h4",
+        text: "6. Compressed Air Requirements",
+      },
+
+      {
+        type: "paragraph",
+        text: "High-pressure air availability and compressor capacity should match the selected machine configuration.",
+      },
+
+      {
+        type: "h4",
+        text: "7. Energy Consumption",
+      },
+
+      {
+        type: "paragraph",
+        text: "Consider heater load, compressed-air requirements and overall operating costs when comparing machines.",
+      },
+
+      {
+        type: "h4",
+        text: "8. After-Sales Support",
+      },
+
+      {
+        type: "paragraph",
+        text: "Installation, operator training, spare parts and technical support can have a significant impact on long-term machine uptime.",
+      },
+
+      {
+        type: "h2",
+        text: "Why Choose Suraj Plastic Industries?",
+      },
+
+      {
+        type: "paragraph",
+        text: "Choosing a PET bottle manufacturing machine is a long-term investment. The manufacturer should therefore be evaluated not only on machine price but also on engineering experience, production support and service capability.",
+      },
+
+      {
+        type: "benefits",
+        items: [
+          {
+            title: "More Than 40 Years of Manufacturing Experience",
+            description: "Suraj Plastic Industries was established in 1982 and has dedicated experience in PET Preform Stretch Blow Moulding Machines since 1997.",
           },
           {
-            title: "Household and Industrial Products",
-            points: ["Detergents, cleaning liquids, pesticides — our machines produce bottles for a wide range of non-food applications as well."],
+            title: "4000+ Machines Sold",
+            description: "Our machines have been supplied to customers across India and international markets.",
+          },
+          {
+            title: "ISO 9001:2015 Certified",
+            description: "Our company operates with a focus on consistent manufacturing quality and engineering standards.",
+          },
+          {
+            title: "PET Bottle Manufacturing Expertise",
+            description: "Our product range includes semi automatic, high-speed, automatic hand-feed and fully automatic PET stretch blow moulding solutions.",
+          },
+          {
+            title: "Installation and Technical Support",
+            description: "We support customers with machine installation, commissioning, operator guidance and technical assistance.",
+          },
+          {
+            title: "Spare Parts and Service",
+            description: "Reliable spare parts availability and after-sales assistance help customers maintain machine performance and minimize avoidable downtime.",
           },
         ],
       },
 
       {
-        type: "h4",
-        text: "What Makes a Good Stretch Blow Moulding Machine Manufacturer?",
+        type: "h2",
+        text: "PET Bottle Making Machine for Different Production Requirements",
       },
 
       {
         type: "paragraph",
-        text: "Before you buy any machine — from us or anyone else — here are the things you must check:",
+        text: "Different businesses require different production capacities. A small packaged drinking water plant may have different requirements from a large beverage manufacturer.",
       },
 
       {
-        type: "checklist",
+        type: "paragraph",
+        text: "For this reason, the machine should be selected according to:",
+      },
+
+      {
+        type: "list",
         items: [
-          [
-            { text: "Heating System Quality — ", bold: true },
-            { text: "Uniform heating is the foundation of a good bottle. An infrared heating system with multiple independent zones gives you precise control over how the preform is heated — and directly impacts bottle wall thickness consistency." },
-          ],
-          [
-            { text: "Blowing Pressure Control — ", bold: true },
-            { text: "Consistent blowing pressure (22–25 kg/cm²) is essential for producing bottles with uniform shape. Fluctuating pressure leads to deformed bottles and higher rejection rates." },
-          ],
-          [
-            { text: "Mould Quality and Changeover Time — ", bold: true },
-            { text: "High-quality moulds produce bottles with sharper definition and longer life. Fast mould changeover lets you switch between bottle designs without losing too much production time." },
-          ],
-          [
-            { text: "After-Sales Support — ", bold: true },
-            { text: "A machine is not just a one-time purchase. Spare parts availability, technical support response time, and the manufacturer's service network matter just as much as the machine itself." },
-          ],
-          [
-            { text: "Energy Efficiency — ", bold: true },
-            { text: "Infrared heating systems that heat only what is needed — not the entire preform uniformly — save electricity and reduce operating costs over the machine's lifetime." },
-          ],
+          "Bottle capacity",
+          "Required bottles per hour",
+          "Number of cavities",
+          "Preform specification",
+          "Bottle design",
+          "Available compressed air",
+          "Factory space",
+          "Automation level",
+          "Future production expansion",
         ],
       },
 
       {
-        type: "h4",
-        text: "Why Suraj Plastic Industries?",
-      },
-
-      {
         type: "paragraph",
-        content: [
-          { text: "There are several " },
-          { text: "stretch blow moulding machine manufacturers in delhi", bold: true, link: "/" },
-          { text: ". Here is why our customers keep coming back — and why they refer others to us:" },
-        ],
+        text: "Our team can evaluate these requirements and recommend a suitable PET stretch blow moulding machine configuration.",
       },
 
       {
-        type: "checklist",
-        items: [
-          [
-            { text: "40+ Years of Manufacturing Experience — ", bold: true },
-            { text: "We started in 1982 — when PET bottle manufacturing in India was in its early days. We have seen the technology evolve, and we have evolved with it. That experience is built into every machine we make." },
-          ],
-          [
-            { text: "ISO 9001:2015 Certified — ", bold: true },
-            { text: "Our manufacturing processes are certified. That means every machine leaving our factory has been built and inspected to a verified quality standard — not just our word for it." },
-          ],
-          [
-            { text: "NSIC Recognized Manufacturer — ", bold: true },
-            { text: "We are officially recognized by the National Small Industries Corporation — a mark of credibility and trust for businesses purchasing industrial equipment." },
-          ],
-          [
-            { text: "3000+ Machines Delivered Across India — ", bold: true },
-            { text: "From small packaged water startups in Tier 3 cities to established beverage manufacturers — our machines are running across every region of the country." },
-          ],
-          [
-            { text: "New Delhi Based — Pan-India Reach — ", bold: true },
-            { text: "Being located in New Delhi gives us strong logistics access to all Indian states. Installation, commissioning, and service visits can be arranged quickly." },
-          ],
-        ],
-      },
-
-      {
-        type: "h4",
-        text: "Complete Installation and Commissioning Support",
-      },
-
-      {
-        type: "paragraph",
-        text: "We do not just deliver the machine. Our team installs it at your site, tests it, and ensures it is running at full performance before we leave.",
-      },
-
-      {
-        type: "paragraph",
-        content: [{ text: "Operator Training Included", bold: true }],
-      },
-
-      {
-        type: "paragraph",
-        text: "Your team will be trained hands-on — so your operators know exactly how to run the machine, handle routine maintenance, and identify small issues before they become big ones.",
-      },
-
-      {
-        type: "paragraph",
-        content: [{ text: "Reliable After-Sales Service", bold: true }],
-      },
-
-      {
-        type: "paragraph",
-        text: "Spare parts are available. Technical support is accessible. We have been in this business long enough to know that after-sales service is where trust is truly built or broken.",
-      },
-
-      {
-        type: "h4",
-        text: "Stretch Blow Moulding Machine — Buying Guide",
-      },
-
-      {
-        type: "paragraph",
-        content: [
-          { text: "If you are evaluating " },
-          { text: "stretch blow moulding machine manufacturer", bold: true, link: "/products/fully-automatic-stretch-blow-moulding-machine" },
-          { text: " in delhi for your business, here is a simple checklist to help you make the right decision:" },
-        ],
-      },
-
-      {
-        type: "checklist",
-        items: [
-          [
-            { text: "Define your production volume — ", bold: true },
-            { text: "How many bottles per day do you need? This determines whether semi automatic or fully automatic suits you." },
-          ],
-          [
-            { text: "Know your bottle sizes — ", bold: true },
-            { text: "What capacities will you produce? 200ml, 500ml, 1L, 2L? This determines which model and mould configuration you need." },
-          ],
-          [
-            { text: "Check your available space — ", bold: true },
-            { text: "Most of our machines need only a 5 x 5 metre area, but make sure your factory layout is planned before ordering." },
-          ],
-          [
-            { text: "Confirm utility availability — ", bold: true },
-            { text: "You will need a compressor for high-pressure air and stable power supply. Plan these before installation." },
-          ],
-          [
-            { text: "Ask about moulds — ", bold: true },
-            { text: "Confirm whether the moulds for your specific bottle design are included or need to be ordered separately." },
-          ],
-          [
-            { text: "Check service support in your area — ", bold: true },
-            { text: "Ask the manufacturer about their service reach in your state or city." },
-          ],
-        ],
-      },
-
-      {
-        type: "h4",
+        type: "h2",
         text: "Frequently Asked Questions",
       },
 
@@ -3784,79 +4195,75 @@ export const products = [
         type: "faq",
         items: [
           {
-            question: "Why choose Suraj Plastic Industries as a Stretch Blow Moulding Machine Manufacturer?",
-            answer:
-              "We offer advanced technology, durable machines, customized solutions, competitive pricing, and dependable after-sales support to help businesses achieve efficient PET bottle production.",
+            question: "What is a PET stretch blow moulding machine?",
+            answer: "A PET stretch blow moulding machine converts heated PET preforms into finished bottles or containers using controlled heating, stretching and high-pressure blowing.",
           },
           {
-            question: "What industries use Stretch Blow Moulding Machines?",
-            answer:
-              "These machines are widely used in the mineral water, beverage, pharmaceutical, food, cosmetic, dairy, chemical, and industrial packaging sectors.",
+            question: "What bottles can be produced using a stretch blow moulding machine?",
+            answer: "Depending on the machine and mould configuration, PET bottles and jars can be produced in capacities ranging from small bottles to large containers. Suraj Plastic Industries offers models covering 50 ml to 25 litres.",
           },
           {
-            question: "Can your machines produce different bottle sizes?",
-            answer:
-              "Yes. Our machines support a wide range of bottle capacities and custom mould designs.",
+            question: "What is the production capacity of a stretch blow moulding machine?",
+            answer: "Production capacity depends on the model, number of cavities, bottle size, preform weight and bottle design. Our listed models provide outputs from approximately 150 BPH to 700 BPH.",
           },
           {
-            question: "Do you provide installation and technical support?",
-            answer:
-              "Yes. Suraj Plastic Industries offers installation assistance, operator training, maintenance support, and genuine spare parts.",
+            question: "What is the difference between semi automatic and fully automatic PET bottle machines?",
+            answer: "Semi automatic machines require more operator involvement, particularly during preform handling, while fully automatic systems are designed to reduce manual intervention and support higher-volume production.",
           },
           {
-            question: "Are your machines energy efficient?",
-            answer:
-              "Absolutely. Our machines are designed with energy-saving technology to reduce operating costs while maintaining high production efficiency.",
+            question: "What industries use PET stretch blow moulding machines?",
+            answer: "PET stretch blow moulding machines are used for water, beverages, edible oil, cosmetics, pharmaceutical, household and selected industrial packaging applications.",
           },
-
+          {
+            question: "Can the machine produce different bottle sizes?",
+            answer: "Yes. Different machine models and mould configurations support different bottle capacities, neck sizes and container designs.",
+          },
+          {
+            question: "What should I consider before purchasing a PET bottle blowing machine?",
+            answer: "Consider required bottle size, production capacity, bottle design, cavity configuration, compressed-air requirements, power requirements, available factory space, mould requirements and after-sales support.",
+          },
+          {
+            question: "Does Suraj Plastic Industries provide installation and technical support?",
+            answer: "Yes. Suraj Plastic Industries provides installation assistance, operator guidance, technical support and after-sales service for its machines.",
+          },
         ],
       },
 
-      // ============================================
-      // NEW CONTENT — ADDED AFTER FAQ
-      // ============================================
-
       {
-        type: "h4",
-        text: "Partner with Suraj Plastic Industries for Reliable PET Bottle Manufacturing Solutions",
+        type: "h2",
+        text: "Get the Right PET Stretch Blow Moulding Machine for Your Production",
       },
 
       {
         type: "paragraph",
-        text: "If you are searching for a dependable Stretch Blow Moulding Machine Manufacturer, Suraj Plastic Industries is your trusted partner for advanced PET bottle manufacturing technology. Our machines are engineered to deliver exceptional performance, precision, and durability while helping businesses increase productivity and reduce manufacturing costs.",
+        text: "If you are looking for a Stretch Blow Moulding Machine Manufacturer in India, Suraj Plastic Industries can help you select a machine according to your bottle size, production target and application.",
       },
 
       {
         type: "paragraph",
-        text: "With a strong focus on innovation, quality, and customer satisfaction, we provide complete PET bottle making solutions backed by expert technical support and reliable after-sales service. Whether you are starting a new production unit or expanding an existing facility, Suraj Plastic Industries has the expertise and machinery to help your business grow with confidence.",
-      },
-
-      // ============================================
-      // EXISTING PAGE CONTENT (already live) — continues
-      // ============================================
-
-      {
-        type: "h4",
-        text: "Final Thought",
+        text: "Share your requirements with our team, including:",
       },
 
       {
-        type: "paragraph",
-        content: [
-          { text: "Whether you are starting a new PET bottle business or upgrading your existing production setup — we are ready to help you find the right " },
-          { text: "stretch blow moulding machine manufacturer", bold: true, link: "/contact-us" },
-          { text: " for your exact needs." },
+        type: "list",
+        items: [
+          "Bottle capacity",
+          "Required production per hour",
+          "Bottle design",
+          "Number of cavities required",
+          "PET preform details",
+          "Production application",
         ],
       },
 
       {
         type: "paragraph",
-        text: "Talk to our team. Tell us your production requirement, bottle sizes, and budget — and we will give you an honest recommendation.",
+        text: "Our technical team can then help you identify a suitable machine configuration for your PET bottle manufacturing setup.",
       },
 
       {
         type: "quote",
-        text: "Suraj Plastic Industries — New Delhi, India | ISO 9001:2015 Certified | NSIC Recognized | Manufacturing Since 1982 | 3000+ Machines Delivered | Trusted Across India",
+        text: "Suraj Plastic Industries PET Preform Stretch Blow Moulding Machine Manufacturer Manufacturing Since 1982 | PET Stretch Blow Moulding Experience Since 1997 | ISO 9001:2015 Certified",
       },
     ],
   },
