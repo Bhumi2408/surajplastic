@@ -127,6 +127,21 @@ const nextConfig = {
         destination: "/blog",
         permanent: true,
       },
+      {
+        source: "/preform-stretch-blow-moulding-machine-manufacturer",
+        destination: "/products/preform-stretch-blow-moulding-machine-manufacturer",
+        permanent: true,
+      },
+      {
+        source: "/semi-automatic-stretch-blow-moulding-machine",
+        destination: "/products/semi-automatic-pet-stretch-blow-moulding-machine",
+        permanent: true,
+      },
+      {
+        source: "/stretch-blow-moulding-machine-manufacturers",
+        destination: "/products/stretch-blow-moulding-machine-manufacturer",
+        permanent: true,
+      },
     ];
   },
 };

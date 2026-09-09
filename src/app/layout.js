@@ -63,6 +63,34 @@ export const metadata = {
   },
 };
 
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "Suraj Plastic Industries",
+  url: "https://www.surajplasticindustries.com",
+  logo: "https://www.surajplasticindustries.com/logo.png",
+  foundingDate: "1982",
+  description:
+    "Suraj Plastic Industries is a trusted Blow Moulding Machines Manufacturer, offering high-performance, energy-efficient PET stretch blow moulding machines since 1997.",
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "D-18, Naresh Park Extension, Nangloi",
+    addressLocality: "New Delhi",
+    postalCode: "110041",
+    addressCountry: "IN",
+  },
+  contactPoint: [
+    {
+      "@type": "ContactPoint",
+      telephone: "+91-9871494249",
+      contactType: "sales",
+      email: "info@surajplasticindustries.com",
+      areaServed: "IN",
+      availableLanguage: ["English", "Hindi"],
+    },
+  ],
+};
+
 export default function RootLayout({ children }) {
   return (
     <html
@@ -70,6 +98,11 @@ export default function RootLayout({ children }) {
       className={`${baloo2.variable} ${urbanist.variable} ${lato.variable} ${montserrat.variable}`}
     >
       <body className="font-lato overflow-x-hidden">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+        />
+
         {/* Google tag (gtag.js) */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-W96ZKH82SN"
