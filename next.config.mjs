@@ -44,6 +44,89 @@ const nextConfig = {
         destination: "/products/fully-automatic-pet-stretch-blow-moulding-machine",
         permanent: true,
       },
+
+      // Old (pre-rebuild) site URLs still indexed on Google — 301 to the closest
+      // current equivalent so old search-result clicks and crawl history don't 404.
+      {
+        source: "/automatic-hand-feed-pet-perform-stretch-blow-moulding-machine",
+        destination: "/products/automatic-hand-feed-pet-perform-stretch-blow-moulding-machine",
+        permanent: true,
+      },
+      {
+        source: "/pet-perform-stretch-blow-moulding-machine",
+        destination: "/products/semi-automatic-pet-stretch-blow-moulding-machine",
+        permanent: true,
+      },
+      {
+        source: "/high-speed-semi-automatic-stretch-blow-moulding-machine",
+        destination: "/products/high-speed-pet-perform-stretch-blow-moulding-machine",
+        permanent: true,
+      },
+      {
+        source: "/automatic-pet-blow-moulding-machine.html",
+        destination: "/products/fully-automatic-pet-stretch-blow-moulding-machine",
+        permanent: true,
+      },
+      {
+        source: "/semiautomatic-pet-blow-moulding-machines.html",
+        destination: "/products/semi-automatic-pet-stretch-blow-moulding-machine",
+        permanent: true,
+      },
+      {
+        source: "/country-liquor-pet-blow-molding-machines.html",
+        destination: "/products/semi-automatic-pet-stretch-blow-moulding-machine",
+        permanent: true,
+      },
+      {
+        source: "/auto-drop-pet-perform-stretch-blow-moulding-machine",
+        destination: "/products/semi-automatic-pet-stretch-blow-moulding-machine",
+        permanent: true,
+      },
+      {
+        source: "/autodrop-pet-bottle-making-machine.html",
+        destination: "/products/semi-automatic-pet-stretch-blow-moulding-machine",
+        permanent: true,
+      },
+      {
+        source: "/twinseries-stretch-blow-moulding-machine.html",
+        destination: "/products",
+        permanent: true,
+      },
+      {
+        source: "/pet-blow-moulding-machines.html",
+        destination: "/products",
+        permanent: true,
+      },
+      {
+        source: "/catalogue.html",
+        destination: "/products",
+        permanent: true,
+      },
+      {
+        source: "/applications-pet-bottle.html",
+        destination: "/products",
+        permanent: true,
+      },
+      {
+        source: "/about-plastic-moulding-machine-manufacturer.html",
+        destination: "/about",
+        permanent: true,
+      },
+      {
+        source: "/about-us",
+        destination: "/about",
+        permanent: true,
+      },
+      {
+        source: "/sitemap.html",
+        destination: "/",
+        permanent: true,
+      },
+      {
+        source: "/category/blog",
+        destination: "/blog",
+        permanent: true,
+      },
     ];
   },
 };
