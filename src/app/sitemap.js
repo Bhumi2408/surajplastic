@@ -12,6 +12,8 @@ export default async function sitemap() {
     "/contact-us",
     "/blog",
     "/products",
+    "/products/semi-automatic-pet-stretch-blow-moulding-machine-manufacturer-in-noida",
+    "/products/automatic-hand-feed-pet-preform-stretch-blow-moulding-machine-manufacturer-in-haryana",
     "/products/automatic-pet-bottle-moulding-machine-manufacturer",
     "/products/mineral-water-bottle-making-machine-manufacturer",
     "/products/pet-bottle-blow-machine-manufacturer",

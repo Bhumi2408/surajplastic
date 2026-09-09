@@ -3,10 +3,13 @@ import Link from "next/link";
 import { ChevronRight, Home } from "lucide-react";
 
 export const metadata = {
-    title:
-        "PET Stretch Blow Moulding Machines | Suraj Plastic Industries",
+    title: "Buy PET Stretch Blow Moulding Machines from Suraj Plastic Industries",
     description:
-        "Explore our complete range of PET Stretch Blow Moulding Machines including Semi Automatic, High Speed, Automatic Hand Feed and Fully Automatic models.",
+        "Buy PET Stretch Blow Moulding Machines from Suraj Plastic Industries for reliable, efficient PET bottle production with consistent performance and easy operation. from Plastic Industries",
+    keywords: "Buy PET Stretch Blow Moulding Machines",
+    alternates: {
+        canonical: "/products",
+    },
 };
 
 export const products = [

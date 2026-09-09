@@ -674,7 +674,6 @@ export const products = [
           { text: " today for machine specifications, technical consultation and a customized quotation." },
         ],
       },
-
     ],
   },
 

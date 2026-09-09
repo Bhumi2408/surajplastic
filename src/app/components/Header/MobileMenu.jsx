@@ -20,7 +20,7 @@ export default function MobileMenu({ open, setOpen, menus }) {
         }`}
       >
         <div className="flex items-center justify-between border-b p-5">
-          <h2 className="text-xl font-bold">Menu</h2>
+          <p className="text-xl font-bold">Menu</p>
 
           <button onClick={() => setOpen(false)}>
             <IoClose size={30} />
