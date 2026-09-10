@@ -22,7 +22,7 @@ const menus = [
       },
       {
         name: "High Speed Pet Perform Stretch Blow Moulding Machine",
-        href: "/products/high-speed-pet-perform-stretch-blow-moulding-machine",
+        href: "/products/high-speed-pet-preform-stretch-blow-moulding-machine",
       },
       {
         name: "Pet Jar Making Machine",
