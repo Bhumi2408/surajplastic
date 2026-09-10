@@ -33,8 +33,8 @@ const menus = [
         href: "/products/automatic-hand-feed-pet-perform-stretch-blow-moulding-machine",
       },
       {
-        name: "Fully Automatic Pet Perform Stretch Blow Moulding Machine",
-        href: "/products/fully-automatic-pet-stretch-blow-moulding-machine",
+        name: "Fully Automatic Pet Perform Stretch Blow Moulding Machine Manufacturer",
+        href: "/products/fully-automatic-pet-stretch-blow-moulding-machine-manufacturer",
       },
     ],
   },

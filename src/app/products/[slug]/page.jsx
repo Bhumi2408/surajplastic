@@ -92,7 +92,7 @@ export default async function Page({ params }) {
         <SeoRenderer content={product.seoBefore} />
       )}
 
-      {product.specification && (
+      {!product.showSpecificationInOverview && product.specification && (
         <Specification
           title={
             product.specification.title ||
