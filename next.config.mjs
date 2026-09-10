@@ -143,8 +143,8 @@ const nextConfig = {
         permanent: true,
       },
        {
-        source: "/high-speed-pet-perform-stretch-blow-moulding-machine",
-        destination: "/high-speed-pet-preform-stretch-blow-moulding-machine",
+        source: "/products/high-speed-pet-perform-stretch-blow-moulding-machine",
+        destination: "/products/high-speed-pet-preform-stretch-blow-moulding-machine",
         permanent: true,
       },
     ];
