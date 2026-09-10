@@ -686,9 +686,9 @@ export const products = [
     // BASIC
     // ==========================================
 
-    slug: "high-speed-pet-perform-stretch-blow-moulding-machine",
+    slug: "high-speed-pet-preform-stretch-blow-moulding-machine",
 
-    name: "High Speed Pet Perform Stretch Blow Moulding Machine",
+    name: "High Speed Pet Preform Stretch Blow Moulding Machine",
 
     heroImage: "/bg.jpg",
 
@@ -712,7 +712,7 @@ export const products = [
     // ==========================================
 
     shortDescription:
-      ["This High Speed Pet Perform Stretch Blow Moulding Machine is engineered for fast and efficient production of PET bottles and jars. It ensures uniform wall thickness, clear bottle finish, and reliable output for beverages, edible oil, cosmetics, household, and chemical packaging.", "Equipped with hydro-pneumatic technology and high-performance heating, the machine delivers stable operation with minimal maintenance. Designed for high productivity, it offers smooth mould operation and consistent bottle quality."],
+      ["This High Speed Pet Preform Stretch Blow Moulding Machine is engineered for fast and efficient production of PET bottles and jars. It ensures uniform wall thickness, clear bottle finish, and reliable output for beverages, edible oil, cosmetics, household, and chemical packaging.", "Equipped with hydro-pneumatic technology and high-performance heating, the machine delivers stable operation with minimal maintenance. Designed for high productivity, it offers smooth mould operation and consistent bottle quality."],
 
     features: [
       "High Production Speed up to 2400 Bottles Per Hour",
