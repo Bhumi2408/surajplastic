@@ -130,8 +130,8 @@ export default function Footer() {
               <div className="flex items-start gap-4">
                 <IoMail className="mt-1 text-[28px] text-[#FF9800]" />
 
-                <a href="mailto:info@surajplasticindustries.com" className="font-urbanist">
-                  info@surajplasticindustries.com
+                <a href="mailto:info@surajplasticindustries.in" className="font-urbanist">
+                  info@surajplasticindustries.in
                 </a>
               </div>
 

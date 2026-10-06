@@ -1,4 +1,4 @@
-const BASE_URL = "https://www.surajplasticindustries.com/";
+const BASE_URL = "https://www.surajplasticindustries.in/";
 
 export const dynamic = "force-static";
 

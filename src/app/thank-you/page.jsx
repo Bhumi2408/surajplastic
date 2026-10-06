@@ -41,7 +41,7 @@ export default function ThankYouPage() {
           </p>
 
           <p className="mt-1 font-urbanist text-[16px] font-medium text-[#38506f]">
-            info@surajplasticindustries.com
+            info@surajplasticindustries.in
           </p>
         </div>
 

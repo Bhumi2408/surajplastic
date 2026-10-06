@@ -232,7 +232,7 @@ export default function ContactForm() {
               <h3 className="font-baloo text-[35px] font-semibold">Email</h3>
 
               <p className="font-baloo text-[17px] font-semibold">
-                info@surajplasticindustries.com
+                info@surajplasticindustries.in
               </p>
               <div className="flex justify-center mt-7">
                 <Image src="/email.png" width={100} height={100} />

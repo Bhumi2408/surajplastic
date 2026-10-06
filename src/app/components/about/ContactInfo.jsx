@@ -14,7 +14,7 @@ const contactInfo = [
   {
     icon: <FaEnvelope />,
     title: "E-mail",
-    value: "info@surajplasticindustries.com",
+    value: "info@surajplasticindustries.in",
   },
   {
     icon: <FaPhoneVolume />,

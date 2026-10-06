@@ -39,7 +39,7 @@ const montserrat = Montserrat({
 
 
 export const metadata = {
-  metadataBase: new URL("https://www.surajplasticindustries.com/"),
+  metadataBase: new URL("https://www.surajplasticindustries.in/"),
 
   title: "Suraj Plastic Industries | Best Blow Moulding Machines Manufacturer",
 
@@ -67,8 +67,8 @@ const organizationSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
   name: "Suraj Plastic Industries",
-  url: "https://www.surajplasticindustries.com",
-  logo: "https://www.surajplasticindustries.com/logo.png",
+  url: "https://www.surajplasticindustries.in",
+  logo: "https://www.surajplasticindustries.in/logo.png",
   foundingDate: "1982",
   description:
     "Suraj Plastic Industries is a trusted Blow Moulding Machines Manufacturer, offering high-performance, energy-efficient PET stretch blow moulding machines since 1997.",
@@ -84,7 +84,7 @@ const organizationSchema = {
       "@type": "ContactPoint",
       telephone: "+91-9871494249",
       contactType: "sales",
-      email: "info@surajplasticindustries.com",
+      email: "info@surajplasticindustries.in",
       areaServed: "IN",
       availableLanguage: ["English", "Hindi"],
     },

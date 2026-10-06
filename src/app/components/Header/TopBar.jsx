@@ -25,9 +25,9 @@ export default function TopBar() {
           </div>
 
           <div>
-            <a href="mailto:info@surajplasticindustries.com" className="flex items-center gap-2">
+            <a href="mailto:info@surajplasticindustries.in" className="flex items-center gap-2">
             <FaEnvelope className="text-[#FF4B2B]" />
-            <span>info@surajplasticindustries.com</span>
+            <span>info@surajplasticindustries.in</span>
             </a>
           </div>
 

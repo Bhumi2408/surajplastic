@@ -30,7 +30,7 @@ export async function generateMetadata({ params }) {
     },
 
     alternates: {
-      canonical: `https://www.surajplasticindustries.com/products/${product.slug}`,
+      canonical: `https://www.surajplasticindustries.in/products/${product.slug}`,
     },
   };
 }
